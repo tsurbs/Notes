@@ -8,7 +8,7 @@ Aug 29 2021
  - Dalton = Theory linking elements and atoms
  - Thompson = Plum pudding(cathode rays working proves that there are negative particles in atoms
  - Rutherford(Gold foil, sees some alpha particles bounce back when hit nucleus(proves positive nucleus))
- - Bohr(circular energy level orbits, used spectra)
+ - Bohr(circular energy level orbits, used spectra) 
 ### Modern/Quantum model
  - Heisenburg uncertianty principle
    - No good explaination in book as to why other than waves?
