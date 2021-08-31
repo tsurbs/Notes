@@ -7,8 +7,7 @@
             "label": "quickcommit",
             "type": "shell",
             "command": "git add . && git commit -am \"autocommit\" && git push -u main main"
-        },
-        {
+        },{
             "label": "quickpull",
             "type": "shell",
             "command": "git pull main main"
