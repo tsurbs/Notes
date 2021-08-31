@@ -34,7 +34,7 @@ Aug 29 2021
      - Implies each orbital can have a max of 2 e- and they must have opposite spins
    - Hunds rule says that an orbital's energy is minimized when there are the max number of same-spin e-
      - So for carbon the unfilled 2p orbital both are same $+{1\over 2}$ or $-$
-     - These e- have parallel spins
+     - These e- have parallel spin
 ## Periodic table
 ### Trends
  - Radius inc down and left
