@@ -12,7 +12,7 @@ Aug 29 2021
 ### Modern/Quantum model
  - Heisenburg uncertianty principle
    - No good explaination in book as to why other than waves?
-   - $\ \Delta x * \Delta (mv) \ge {{h}\over{4\pi}}$
+   - $\ \Delta x * \Delta (mv) \ge {h}\over{4\pi}$
    - $\Delta x$ is uncertianty, is far too big for electrons, negligible for everyday
  - Shrodinger's wave equations
    - Equations dealing with wve and particle e- behavior
