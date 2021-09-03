@@ -14,7 +14,7 @@ Aug 29 2021
    - No good explaination in book as to why other than waves?
    - $\ \Delta x * \Delta (mv) \ge {{h}\over{4\pi}}$
    - $\Delta x$ is uncertianty, is far too big for electrons, negligible for everyday
- - Shrodinger's wave equation
+ - Shrodinger's wave equations
    - Equations dealing with wve and particle e- behavior
    - Treated e- like plucked guitar string, observed nodes of waves
    - Square of wave function ($\psi^2$) gives us statistical meaning of location of e-
