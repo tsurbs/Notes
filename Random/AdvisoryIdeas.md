@@ -13,4 +13,4 @@ Sep 02 2021
  - engaging, welcoming atmosphere
    - incorporate above ideas into advisory social contracts
  - trust amongst community members
-   - team building activitys(games, red+gold, etc.)
+   - team building activitys(games, red+gold, etc)
