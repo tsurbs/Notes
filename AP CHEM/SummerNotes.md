@@ -10,7 +10,7 @@ Aug 29 2021
  - Rutherford(Gold foil, sees some alpha particles bounce back when hit nucleus(proves positive nucleus))
  - Bohr(circular energy level orbits, used spectra) 
 ### Modern/Quantum model
- - Heisenburg uncertianty principle
+ - Heisenburg uncertian$ty principle
    - No good explaination in book as to why other than waves?
    - $\ \Delta x * \Delta (mv) \ge {{h}\over{4\pi}}$
    - $\Delta x$ is uncertianty, is far too big for electrons, negligible for everyday
