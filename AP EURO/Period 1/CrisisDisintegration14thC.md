@@ -96,3 +96,6 @@ Sep 03 2021
      - Ruling class usually united, quashed dissent
 
 ## War and Political Instability
+ - Above problems added to by/caused of, effect of War+Political Instability
+### Hundred years War
+ - 
