@@ -96,4 +96,6 @@ Sep 03 2021
      - Ruling class usually united, quashed dissent
 
 ## War and Political Instability
- - War and instability also contributed to bad times in addition to 
+ - Above problems added to by/caused of, effect of War+Political Instability
+### Hundred years War
+ - was 100 years long
