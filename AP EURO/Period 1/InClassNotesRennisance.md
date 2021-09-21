@@ -95,14 +95,45 @@ Sep 08 2021
 
 ## Northern vs High Rennaisance
  - Artistic high rennaisance(late 15th C)
- - Italian rennaisince creates depth and realism, uses math
- - hermeticicism, using writings of greco-romans and applying it 
- - Uses math *and* design
- - High rennaisance has more individual expreesion
-   - Taking geometry to an artistic level
- - Study of human body+using in art(**DaVinci**)
- - Idealizaiton of nature(lower forms leading to higher forms)(based on plato, realm of ideas is god/heaven)
- - Powerful city states have less power, church has more power/pope acts as king/leader 
- - Leo the 10th(meddici) excommunicates martin$ luther
- - DaVinci last supper humanist focus each person has an expression/thoughts/etc 
-   - Showing them as humans, jesus as human, before crusifiction/resseruction
+   - Italian rennaisince creates depth and realism, uses math
+   - hermeticicism, using writings of greco-romans and applying it 
+   - Uses math *and* design
+   - High rennaisance has more individual expreesion
+     - Taking geometry to an artistic level
+   - Study of human body+using in art(**DaVinci**)
+   - Idealizaiton of nature(lower forms leading to higher forms)(based on plato, realm of ideas is god/heaven)
+   - Powerful city states have less power, church has more power/pope acts as king/leader 
+   - Leo the 10th(meddici) excommunicates martin$ luther
+   - DaVinci last supper humanist focus each person has an expression/thoughts/etc 
+     - Showing them as humans, jesus as human, before crusifiction/resseruction
+   - Mona lisa light+shadow+facial features+etc
+   - Michael angelo pieta(jesus dead) made of marble, carved, very detailed, showing off 
+   - Michaelangelo 
+     - david, moses(idealizing beauty/god)(makes head slightly bigger to see details)(veins, knuckles, fingernails)
+   - Sistine chapel creation of adam, return of jesus, school of athens
+   - Most commissioned by church or papacy
+   - Very very grecoroman
+ - NORTHERN RENNAISANCE
+   - Take elemants of rennaisance, use for own purpose
+   - Realistic, use everyday ppl, lotsa religious imagery, capture object of devotion
+   - Litle grecoroman
+   - Jonne Vonne smth wedding portrait, very detailed, convex mirror
+   - Albrecht Durer
+     - German artist paintings+woodcuts(carve into wood, then use ink)
+     - Realistic depiction of birth of jesus(CHRISTIAN BUT ACCURATE/HUMANIST)
+   - peter brughel, pesants wedding(realisim, etc etc)
+   - Hans holbien porraits, painted henry 8th(friends w/ thomas moore(utopia(christian humanist)))
+   - Christian Humanists want to fix the church, want to advise, fix abuses, not separate from church, dont go after structural problems
+   - Heritics = incorrect beliefs as determined by the pope
+   - Maybe the church should be run by councils(counciliary movement), spurred by move to alingnone
+     - Also church not addressing issues(war famine pesitlence death)
+     - Council of constance fixes great schism, reassertion of papal authority after
+   - Reform(mostly northern rennisance, not nessecarily just bc of rennisance)
+     - English Lollardy: John Wyclif criticized papacy and clerical corruption: reject papal  authority, bible as sole authority, reject all non-scripture based practices(middleages theology)
+     - Moravian Tradition: Jan hus+Hussites, called to council of constance, burned as heretic 
+   - Limitations of reforms
+     - Continued councils and papacy
+     - Sacrosancta and Frequens encourage frequent and powerful council meetings
+     - Council meetings can only be proposed by popes, condemns appeals to council as heretical
+     - Rennaisance papacy concren for power wealth and worldly affairs
+     - Ex popes, Julius II, Sixtus II, Alexander VI, Leo X(appointed fam to papal positions, all patrons of art)
