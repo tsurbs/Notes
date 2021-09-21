@@ -91,4 +91,4 @@ Sep 07 2021
    - Women not so much
    - Prostitution regulated bc cannot be stopped
 
-## The italian states in the rennisance - What does flanders mean as a location
+## The italian states in the rennisance - What does flanders mean as a location **belguim**
