@@ -137,3 +137,5 @@ Sep 08 2021
      - Council meetings can only be proposed by popes, condemns appeals to council as heretical
      - Rennaisance papacy concren for power wealth and worldly affairs
      - Ex popes, Julius II, Sixtus II, Alexander VI, Leo X(appointed fam to papal positions, all patrons of art)
+
+$$\int_2^4x+y$$

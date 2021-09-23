@@ -215,6 +215,47 @@ Sep 07 2021
      - Did a number of things to do quick call on non-standing army, keep nobles in check, establish new dynasty
      - Used diplomacy to avoid wars 
  - Unification of spain
-   - 
+   - Isabella+Ferdinand unify spain, each ruler of Castille and Aragon respecively
+   - Each have seperate parliments, governments, currency, etc 
+   - Reorganize, strengthen military of spain
+   - Ferd+Isabella Gained power to appoint people to the church, got power
+   - Spain was tolerant until Inquisition
+ - The Holy Roman Empire
+   - House of habsburg had a lot of land in austria
+   - Relatively anti-war 
+   - Expanded thru Marriage
+   - Maximilian I made reichstag(parliment) of ppl 
+     - didnt work out really 
+   - Charles V Gained control of Spain, Burgandy(france), Habsburg bc his relaties die(yay)
+ - Struggle for strong monarchy Eatern Europe
+   - Many different religions and ethnicities
+   - Poland was struggle btw crown and landed nobility 
+   - Nobility reduced pesants to lower status, kings unable to establish strong authority 
+   - Bohemia was a part of the HRE but had ethnic diffeences
+   - Hussite wars lead to further dissention 
+   - Hungary  conversion to roman catholicism by germans
+     - Bishops+lords became very powerful 
+     - Matthias Corivinus broke their power and embraced humanism 
+ - The Ottoman Turks and end of Byzantine 
+   - Ottoman turks threatened byzantine buffer btw muslim and christian worlds
+   - Byzantine weakened by sack of constantinople and occupation by west 
+   - Ottomans spread rapidly, Eventually defeat byzantine Empire
 
+## The Church in the REnaissance 
+ - Council of Constance brought the great schism to an end in 1417 
+ - Problems of Heresy and reform
+   - Lollardy = Wyclif(attacked papal authority and mideaveal christian practices)
+   - Follwers of lycliff called lollards 
+ - Marriage btw bohemia and England enabled spread of lollard ideas to bohemia 
+   - Reinforced ideas of czech reformers lead by john hus 
+   - Movemnet contributed to by hate for german leaders of bohemia 
+   - Hus invited to council, burned 
+   - Big upheval, hussite wars 
+ - Reform of the church 
+   - Sacrosanta and frequens gave church better legilative system above popes
+   - Popes highly limited this system 
+ - Prominent popes 
+   - julius II was warrior pope 
+   - Pope sixtus IV did nepttism 
+   - Successor to Julius was Leo X, deeply invlved in renaissance culture(son of medici)
 ## The italian states in the rennisance - What does flanders mean as a location **belguim**
