@@ -37,7 +37,42 @@ Aug 29 2021
      - These e- have parallel spin
 ## Periodic table
 ### Trends
- - Radius inc down and left
+ - Atomic Radius inc down and left
    - I guess bc the s orbitals are large and the other orbitals bring everything closer??
    - Technically is bacause $Z_{eff}$(Effective *nuclear* charge) increases across a period, pulls harder
- - Ionic Radii
+ - Ionic Radii(Atomic radius but if was ionic)
+   - Cations are smaller(e- removed from outer orbits, less internal e- repulsion overall)
+   - Anions are larger(Same reason)
+   - For ions carrying the same charge, ionic radius increases as we move down a column
+   - Overall, ionic radius inc even more than atomic radius as go down
+   - L/R pattern holds true
+ - Ionization Energy(min energy required to remove an e- from ground state)(inc right and up)
+   - First ionization energy($I_1$) is nrg req to strip element of one e-(second is 2 e- is $I_2$, etc)
+   - Sharp increase in Ionization energy for inner-shell e-
+   - Supports outer e- being used in chem. reactions
+   - $I_1$ inc. across period(row), inc. up column(Group)
+   - s and p blocks show larger range of $I_1$ than transition metals(f-block metals), f-block has small variation only
+   - Roughly inverse correlated with atomic radius 
+ - Electron Affinity(opposite Ionization energy)(inc to halogens)
+   - Energy change when an e- is added
+   - Trends complicated
+   - ![Electron Affinity Periodic table](ElectronAffinityPeriodicTable.png)
+   - Generally closest to completing an orbital is higher(halogens high, nobles low)
+   - Don't change a lot as go down a group
+ - Electronegativity: How much pulls e- in bond(inc right and up)
+   - Disparity meaured in **bond polarity**(polar/nonpolar covalent)
+   - *Linus Pauling* developed first and most used scale
+   - Generally increase to right across period(most metalic to most nonmetalic)
+   - Generall inc as go up period
+# Misc 
+## Sigfigs
+ - Addition/Sub, preserve smallest # decimal places
+ - Multiplication/Div, preserve smallest # sigfigs
+## Molarity/Molality
+ - Molarity = Moles/Volume(mL)
+   - Moles is solvent
+   - Volume is solution(solvent+solute)
+ - Molality = Moles/Mass(g)
+   - Moles is solvent
+   - Mass is solute(not incl. solvent)
+ - 
