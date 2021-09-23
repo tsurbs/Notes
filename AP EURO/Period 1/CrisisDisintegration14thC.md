@@ -97,5 +97,23 @@ Sep 03 2021
 
 ## War and Political Instability
  - Above problems added to by/caused of, effect of War+Political Instability
+
+## Summaries bc not enuf time to read the whole thing
 ### Hundred years War
- - 
+ - Drawn out conflict btw england and France
+ - Armoured knights on horesback were primary fighters
+ - Peasants with longbows helped English
+ - Joan of Arc inspired the french after several defeats
+ - French started using the cannon
+ - France won in 1453
+### Pope issues
+ - Phillip IV of france and Pope Boniface VIII didnt like eachother
+   - Ended in Phillip winning, papacy moved to france, Boniface not pope anymore
+ - Papacy move back to rome, cause issues(great schism)
+   - two popes competing, each condemning other as antichrist
+   - Ended by new movemnet saying church councils should be in charge
+### Ends
+ - Art reflects common belief that the world was ending
+ -  Four Horsemen of the Apocalypse described in the New Testament Book of Revelation: Death, Famine, Pestilence, and War.
+ - Europeans Proved Resiliant, paved way for rennisance
+
