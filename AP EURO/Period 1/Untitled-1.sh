@@ -1,0 +1,17 @@
+curl 'https://google.com/' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: "Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'DNT: 1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'X-Client-Data: CK+1yQEIiLbJAQijtskBCMS2yQEIqZ3KAQjr9MoBCIyeywEI7/LLAQiz+MsBCJ75ywEI8/nLAQiw+ssBCKH+ywEIq/7LAQi+/ssBCJ7/ywEI4//LAQ==' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: SEARCH_SAMESITE=CgQIvJMB; SID=Bgho_1nqwlkRRbgegFl4qKO52zWISHKZWdVrhNpfMcxoswGxoZOfRK_uWnT8CmXnA1shDQ.; __Secure-1PSID=Bgho_1nqwlkRRbgegFl4qKO52zWISHKZWdVrhNpfMcxoswGxMy6nJaNmowbIKONqHz6Xog.; __Secure-3PSID=Bgho_1nqwlkRRbgegFl4qKO52zWISHKZWdVrhNpfMcxoswGxxrafPqyj45RwzwNK7ygdVg.; HSID=A8eNEa1c82D8iMFu2; SSID=ArmnoUw0JFLIE1ITf; APISID=6W1TR2vn1ZHmdNsR/AjGxf7j99oYSYFGRf; SAPISID=9a0sqKgKKIdJ8bys/AhTWFJps3NrnZEZ_D; __Secure-1PAPISID=9a0sqKgKKIdJ8bys/AhTWFJps3NrnZEZ_D; __Secure-3PAPISID=9a0sqKgKKIdJ8bys/AhTWFJps3NrnZEZ_D; NID=223=eMUZx6yRM41fXEaIFZBrSz1IAh0vwDLk23RSDaO2QXCZBAxzf4ENmzTs3l2wGRDGBlPPNpvpaNU6iAKVa72y4gapFDDLLtM9A85e9UVOmS80Sr0RqR5zHZdaRt0Kj_KkzRL37x2ZE69GlzP4vfVSVhX16LDPtzK_Ja1BuckZMxnBd46ij1diZw9TFrxmLbFscpsN1OWDTVEGYYmVAQg30kvGB5xlOtnv6Ezft5VwaKLyKZ6sTk27VIP6Bj-25TGgENzovN0ASrckpLE5mul5xgJB0FtsMlWlcQuzQUHAGh_RHdHwNTf-WwLylauPqdHNE6zInOqbFA; scrly_token=MzA5NzU4YTU6dXJiYW50QG1hbWFpbC5uZXQ6c2VjdXJseUBtYW1haWwubmV0Om1hbWFpbG5ldFN0dWRlbnRzVXBwZXJTY2hvb2wyMDIyOi06b3U6MzowOjo=; scrly_log_430572610=1; scrly_log_2450721394=1; scrly_log_319161272=1; 1P_JAR=2021-09-10-14; scrly_log_73204161=1; scrly_log_1451362291=1; scrly_log_1453590517=1; scrly_log_378405913=1; scrly_log_200540936=1; SIDCC=AJi4QfHJB1S8BeLjXxDRb7eVyG0rU625ChMSiBDp4V8piF8K6OHlr0QqZPB36yBJ1xfrAut8wR4; __Secure-3PSIDCC=AJi4QfFa80e8lNW-FRrX2GUHUTEjUsdwg7TOPojDyISbEkHX2j40xMPlcbphBP1HQnddFwGUhMqo' \
+  --compressed
