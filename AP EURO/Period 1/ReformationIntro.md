@@ -35,4 +35,48 @@ Sep 27 2021
      - Money is going to rome+granduer
      - Church says they are doing good with expanding rome+grandeur 
      - Church benefits from positive glorification of god
-     - 
+
+## Counter/Catholic Reformation 
+ - Catholics call catholic, Protestants call Counter 
+ - Early on, catholics sought to get rid of protestnatism
+ - Wars in germany(main catholic ppl are HRE, Charles V king of spain+HRE, gets rich off of colonies so he can fight EVERYONE AT ONCE)
+ - Once accept protestantism, try to fix increase by fixing issues in church 
+   - Get Jesuits
+   - Get Ppl who want stability
+   - Get erasmus, thomas moore
+ - Try to reassirt catholic things
+   - Pope, Piety(wanting to be good christian), No reformation if they dont want to be good christians 
+   - Not just individual view, is how they see the world 
+   - Determines their salvation
+   - Secularism of Rennisance is removal of religious influence over certian things, NOT AGNOSTICISM
+   - Monk orders encourage revival of mysticism
+     - Pilgramiges, iconagraphy, rituals 
+     - More spiritual, less rational 
+   - Most important is Jesuits founded by loyola
+     - Directly respond to protestants with idea of personal attainment aiof grace by will power and good works
+     - Knowledge of scripture, military structure, strong training 
+     - Obedience to the order and pope 
+     - Preaching/sermonizng, have to know bible and how to apply it 
+   - Not able to kill movement bc cant get luther(german princes), cant hold back spread, king phillip of spain tries but no success outside of spain 
+ - Papal reform initatied by paul III in 1530s+40s
+   - Debate btw cardinals contarini and caraffa, attempt to reconcile
+   - Conservatives rejected compromises
+   - Lead to reestablisment of inquisiton and index of forbidden books, followed by council of trent; result of papal supremacy
+ - If Catholic church had listened to luther, would there have been the reformation 
+ - 
+
+## Jesuits
+ - A catholic order(of monks) of missionaries
+ - Major monk orders 
+   - Dominicans(education/knowledge, copy books, etc)(scholars)(critisized by owning a lot of land)
+   - Augustineans(what luther was, st. augustene(around sack of rome) wrote city of god(focus on city of god/next lie rather than human city of rome), shows inspired by earlier order)
+   - Benedictines(Strict life in monastary)
+   - Fansciscans(Live a basic lifestyle, preach to poor, rough robes+sandals)
+   - Own abbeys(castles+have land)
+ - Jesuits are society of jesus, formed by loyola
+   - Try to dedicate selves to life of being catholic
+     - Goals are education+preaching+missionary work 
+     - Basically anti-protestantism
+     - Go out into communities, preach/educate in europe and in newly explored lands(central+south america, )
+     - Not the only ones(protestant missionaries too(moravians in carribean))
+     - Try and fail to spread to asia(china and japan expel)
