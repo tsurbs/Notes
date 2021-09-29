@@ -52,6 +52,38 @@ Sep 27 2021
    - Protestants want this less 
    - What is included in bible(another debate)
    - Erasmus(not protestant) wants to read it in latin
+
+## Needs to be desire for reform for reform to happen 
+ - Contrasts wycliff and hus with luther
+   - Pockets of reform but ideas dont spread
+ - Influence of the renaissance(not idealogical influence, is education)
+ - Humanist idea of improving your life
+ - *REMEMBER THAT THE MIDDLE AGES WAS LIKE MASS BRAIN, DIDNT REALLY THINK FOR THEMSELVES*
+ - Reactation against the renaisance popes being too worldly 
+ - Lots of people say they dont want to be as focused on this world/this life 
+ - PPL WANT TO BE GOOD christians
+   - Northern renaissance is positive depiction of that 
+ - Reformation was not in line with movement "forward" more return to conservatism 
+ - Groups of involvement
+   - Common ppl 
+   - Middle class, money dosent want to leave area, want change 
+   - Kinds and ruling princes 
+ - Influence of christian humanism
+   - Use of humanist ideals and techniques to christianity(holy scripture over theology)
+   - Look to early sources and early church as knowledge 
+   - Erasmus and Tomore in praise of folly and utopia both make fun of europe
+     - Tomore might not have believed what he wrote in utopia, uses to criticize own time period 
+     - WANT REFORM, SUPPORT CATHOLIC CHURCH 
+
+## Conflicts and calls for reform 
+ - Corruption of the curch and focus on worldly matters and wealth(Leo X, Julius II, etc)
+ - Fight against italian states, resist HRE, etc etc 
+ - Pluralism, multiple church offices held by one offical
+   - Get more wealth and power
+   - Not present in one or the other 
+   - Buying or selling of offices, noblepeople want affiliation with church 
+ - Mysticism with relics+indulgences(the modern devotion - Thomas a kempis)*the imitation of Christ* desire for certianty
+
 ## Calvin
  - Everything is perdetermined
  - Based on early view of christian god(god is all-knowing, god already knows)(since you dont know you should ask like you are)
