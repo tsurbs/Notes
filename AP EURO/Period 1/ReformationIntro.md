@@ -35,6 +35,56 @@ Sep 27 2021
      - Money is going to rome+granduer
      - Church says they are doing good with expanding rome+grandeur 
      - Church benefits from positive glorification of god
+ - Luther peasants revolt 
+   - Was against the peasants bc were disobedient to stat/civil authorities/rightful authorities
+   - He dosent follow papal authorities bc he dosent think they should have authority 
+   - Social and political conservaitsim(religious *superconservatism/modernism*)
+ - Luther says all humans are bad/sinful(original sin), cannot gain justification by good works 
+   - Good works as extension of faith, not part of process of salvation
+   - FAITH can remove original sin 
+   - **Good works do not justify you(not transactional), FAITH Justifies you, GOOD WORKS ARE EXPRESSION OF FAITH**
+   - Lutheran traditions remove saints days, etc(christians go to church on sundays)
+   - Protestant work ethic(Vaber), ppl are called to whatever will do in life("found your calling"), in trade+other econ activities can be called to that role, use wealth to be as good as they can, makes that okay 
+     - Being the best at your job to glorify god, reinvest money 
+     - "spirit of capitalism"
+ - Theology(thomas aquinas is ex) <<< Scriptrure
+   - Theology developes concepts from scripture
+   - Protestants want this less 
+   - What is included in bible(another debate)
+   - Erasmus(not protestant) wants to read it in latin
+## Calvin
+ - Everything is perdetermined
+ - Based on early view of christian god(god is all-knowing, god already knows)(since you dont know you should ask like you are)
+ - Nuance is you don't know the nature of god/dosent know if are elect(three tests)
+   - Profession of faith
+   - Godly life(Good works, like luther removes good works directly from salvation)
+   - Sacrements of baptisim and communion
+ - Undercuts role of preists
+ - Less individual, more focus on god
+ - Calvinist community has a lot of control over what could lead to sin(remove sinful conditions(taverns, theatres, gambling, alcohol))
+
+## Radical reformers 
+ - State control of religion is flawed
+ - Look back to original community christianity
+ - Luther believes in civil authority bc bible and practicality 
+ - Radical reformers = Anabaptists(dont believe in children being baptised/adults baptized)
+   - Equality of all believers
+   - All are equal before god as followers of god 
+   - Complete seperation of church and state
+ - Ideas fuel peasant revolts(successful for a yearish)
+   - Have 12 points for their feudal leaders
+   - REvolution of 1525/German peasants revolt 
+   - Is controlled and put down
+ - Millienalists(end times are coming)
+ - Menenites(simple living, rejection of church control by papacy+state)
+
+## Teresa of Avila(catholic/counterreformer)
+ - Addresses god directly, reformation+violence caused by it is not worth the change 
+ - Agrees with christian humanists(moore+erasmus)
+ - Recovnises her role as christian and human, puts her faith in god 
+ - Pushes back on idea that women cant be virtious/good christians 
+ - Womens role is less prominent in protestant churches bc cant be nun, women pushed back into the home
+ - Challenges both catholic and protestant churches
 
 ## Counter/Catholic Reformation 
  - Catholics call catholic, Protestants call Counter 
@@ -80,3 +130,4 @@ Sep 27 2021
      - Go out into communities, preach/educate in europe and in newly explored lands(central+south america, )
      - Not the only ones(protestant missionaries too(moravians in carribean))
      - Try and fail to spread to asia(china and japan expel)
+     - 
