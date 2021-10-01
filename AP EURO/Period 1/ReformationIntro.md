@@ -162,4 +162,10 @@ Sep 27 2021
      - Go out into communities, preach/educate in europe and in newly explored lands(central+south america, )
      - Not the only ones(protestant missionaries too(moravians in carribean))
      - Try and fail to spread to asia(china and japan expel)
-     - 
+
+## Effects on women  
+ - Women had big role in bringing reformation to the home
+ - Reformation appeals to women bc lacks(as much) heierarchy(same with most reform movenements)
+   - All can interpret bible(including women)
+ - Radical reformers(Anabaptists) were way more equal, some even treating Marriage = "whoredom"
+ - Rejection of saints+marymother, *focus on male god*
