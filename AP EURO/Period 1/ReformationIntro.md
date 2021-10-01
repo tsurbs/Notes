@@ -162,4 +162,5 @@ Sep 27 2021
      - Go out into communities, preach/educate in europe and in newly explored lands(central+south america, )
      - Not the only ones(protestant missionaries too(moravians in carribean))
      - Try and fail to spread to asia(china and japan expel)
-     - 
+
+$$\lim_{x\to5} x^2$$
