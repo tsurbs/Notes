@@ -163,4 +163,68 @@ Sep 27 2021
      - Not the only ones(protestant missionaries too(moravians in carribean))
      - Try and fail to spread to asia(china and japan expel)
 
-$$\lim_{x\to5} x^2$$
+## Effects on women  
+ - Women had big role in bringing reformation to the home
+ - Reformation appeals to women bc lacks(as much) heierarchy(same with most reform movenements)
+   - All can interpret bible(including women)
+ - Radical reformers(Anabaptists) were way more equal, some even treating Marriage = "whoredom"
+ - Rejection of saints+marymother, *focus on male god*
+
+## States needed for reformation 
+ - Pesants revolt fails bc no state support 
+ - Non-Church authorities very prominent in reformation 
+   - Goes with expansion of state power 
+ - Reigion becomes tool of states for control 
+ - WAR OF THE THREE HENRYS LOOK IT UP I WASNT PAYING ATTENTION 
+ - In the end one henry did the edict of nantes switcheroo 
+
+## Religious wars 
+ - Begin in Germany(Luther is from there)
+   - 1517 - Luther puts out 95 thesis(95 THINGS WRONG WITH THE CHURCH)(theological challenge)
+   - Criticized by pope, Leipzig Debate 1519 with Johann Eck
+   - Prince Friedrick of saxony Supports 
+     - Wants to resist authority of charles V, pope 
+     - Wants control of saxony 
+   - Leo X stops taking Luther seriously, but protestantism continues to spread 
+   - Luther called before Imperial Diet(in germany), Friedrick of saxony is there, facing trial for heresy
+     - Luther has confidence bc supported by many german ppl
+     - Disregards theology
+     - Given the chance to recant, refuses(here i stand)
+   - Movement is spreading, moving towards new church bc he wont recant and church wont reform 
+     - Creates lutheran church w/ support of german ppls
+     - This is where war starts 
+   - Economic, political, religious reasons to support luther 
+     - Lower : Want change 
+     - Mid : Dont want to pay church, want change 
+     - Up : gain power 
+   - None of the nobles like the peasants revolt
+     - Scares nobles bc too chaotic
+     - Also why christian humanists dont support luther bc too distruptive 
+     - Luther has do distinguish himself from this (friend thomas munzer dosent, gets killed)
+ - Religious wars in germany 
+   - Charles V(HRE/KOS), aunt is queen of aragon, conflicts with french kings, trying to assert authority in spain, conflict somewhere else 
+   - Conflict btw ^^ and Princes who support uther(Schmalkaldic League-1531)
+   - Series of wars from 1530s-40s, charles wins a good bit but cant eliminate lutherans
+     - CharlesV can't get rid of ideas bc would have to conquer states etc 
+     - Also charlesV is fighting a lot of wars(turks, france, papacy), also uses moneys from america 
+   - Territorial disputes with france(Francis I)
+     - Hapsburg-Valouis wars 
+     - Papacy supports french, led to invasion of italy+sack of rome 
+     - Threatened by ottoman empire under suleiman 
+     - Schmalkaldic wars kept going until 1555 peace of augsburg
+   - Fredrick(luther supporter) mandates lutheranism in Germany, 
+   - Hugeonots mandated in france(40% nobles are calvinists, 25% peasants)
+     - Comes to ahead in Staint Bartholomews day massacre
+     - War, catholics attack protestant nobles 
+   - Wars of the three henrys 
+     - Henry III(moderate)
+     - Deguilles/supercatholic
+     - Henry of bourbon(Hugeonots)
+     - Spread of protestantism into the netherlands, northern provinces want to be independednt and protestant(dutch reform church)
+     - William of orange leads dutch revolt
+     - Spanish has spanish netherlands(catholic netherlands(belguim))
+     - Dutch republuic is protestant netherlands 
+     - Spanish netherlands becomes modernday belguim, btw dutch republic and france
+     - Eventually those wars lead to independence of dutch republic(from spanish), supported by england
+   - First war is in german lands, then response to calvinism(england is doing internal wars, mary is catholic despite church moving more protestant, under henry is catholic but king is head, puritanism emerges undder _____, then goes more catholic under mary, then elizabeth does very common catholic and protestant ideas, views can coexist, nobody can go against her as the head of the church(Supremacy),)
+   - Henry IV in France(house of bourbon) has to convert, then does edict of nantes
