@@ -228,3 +228,41 @@ Sep 27 2021
      - Eventually those wars lead to independence of dutch republic(from spanish), supported by england
    - First war is in german lands, then response to calvinism(england is doing internal wars, mary is catholic despite church moving more protestant, under henry is catholic but king is head, puritanism emerges undder _____, then goes more catholic under mary, then elizabeth does very common catholic and protestant ideas, views can coexist, nobody can go against her as the head of the church(Supremacy),)
    - Henry IV in France(house of bourbon) has to convert, then does edict of nantes
+
+## English reformation 
+ - Calvinism spreads to way mroe places+geneva
+ - Luternaism is mainly in german and scandanavia
+ - Prior to calvin in geneva is zwingley
+ - English reformation Begins 
+ - Henry VII builds up state+wealth+rule+makes alliances+etc 
+ - Marries his son alfred to catherine of aragon(aunt of charles V, daughter of FERD+ISAB)
+   - Everone in england is catholic, henry dies, henry VII wants to mary 2nd son to catherine of aragon again 
+   - Biblical passage disallows brothers marrying sister-in-laws
+   - Work with pope to get dispensation(og marrige was not consumated)
+   - Henry VII early on writes pamphlet criticizing luther, is very rennaisance ruler(thomas moore REMEMBER)
+     - Given title of defender of the faith bc criticize luther 
+   - Not producing a male heir(has mary of tudor)
+   - Henry VIII(8) thinks he needs to change the situation, attracted to woman in court(anne bolin)
+   - Tries to end marrige with catherine reversing original dispensation, pope dosent want to do this bc Charles V is key supporter of catholicism, is related to catherine(henry 8 wife)
+   - Pope isnt tryna resist Charles V, henry decides to assert royal control of the church
+   - Originally isnt about theology, is just political(act of supremacy makes this happen)(gets, needs support of clergy+parliment)
+   - As head of church, decides he can divorce, marries anne, has elizabeth the first, elizabeth is beheaded
+   - Treason act says is treason to deny king is head of church, thomas more dosent agree, dosent speak against it at first, eventually does, is executed
+   - Retain structures+doctorines of catholics 
+   - Protestant ideas spread during reign of edward VI - clerical marriage, elim images, book of common prayer (any christian can say)
+     - Starts puritanism
+     - Dies with no heir(king for 6 years @17yrsold)
+   - Reaction under mary, yet created conflict over policies and alliance with spain, married to Phillip II of spain 
+     - Tries to return to catholicism (SPAIN) 
+     - Only queen for 5 years 
+     - Faces issues with joining spain into england bc spainish are diff(no parliment, bad history, )
+   - ELIZABETH: moderation+compromise in religion;elizabethan settlemen;second act of supremacy;act of uniformity says all ppl must be member of anglican church, if arent, are going against church AND queen
+     - 39 Articles describe anglican ideas
+     - Tries to reduce conflict while retaining her power
+     - Support protestants in reducing power of spainish(support dutch+hugoenots, english pirates/privateers raid spainish treasureships)
+     - Spanish under phillip(og wanted to marry lizzy, )
+       - Spanish try to invade spanish(Armada), was disastater
+       - Attempt to ally with stuart rulers of scottish
+       - Scottish presbyterianism lead by reformer john knox
+       - Eventually mary queen of scots is executed for treason against lizzy 
+       - Security for england, defeate of spain 
