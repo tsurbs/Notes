@@ -83,4 +83,3 @@ Oct 03 2021
      - Charles V outraged, declare luther an outlaw, books to be burned 
      - Hid for a year 
 ## The Rise of lutheranism (372)
- - 
