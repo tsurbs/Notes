@@ -6,6 +6,12 @@ Oct 07 2021
     - Columbus "Eriwok indians", thought he got to indonesia
     - Diaz Delcastillo - asztecs i think 
     - READ FUGHER DOC(banks i think)
+      - Exploration+conquest linked to simultaneous commercial expansion
+      - Rise of international financial houses like house of fugger 
+      - Orign in AUgsburggermany, spread throughout europe, influenced to political developments as well
+      - Bought the election of charles V to HRE power(OG monetary corruption lol?)
+      - Still acts deferent to idea of ruler, not to ruler person
+      - Basically a threat lol
  - New concept of companies, banks, credit 
  - Dutch create first Joint stock company
     - Bank of amsterdam
