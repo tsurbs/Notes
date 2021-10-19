@@ -103,7 +103,7 @@ Oct 18 2021
      - Also advanced, aqueduct, city on watery land 
      - Cities from 80k-200k ppl, bigger than most euro cities 
      - POowerful warriors, System of semi-independent city-states w/ own lords, loose org. contrib to downfall 
- - **Spainish Conquest of Aztecs**
+ - **Spainish Conquest of Aztecs(1519)**
    - Cortes marched to tenochtitlan, allied with anti-aztec city states 
    - Arrived at tenochtitlan, received friendly welcome from leader(moctezuma)
      - At first, moctezuma believed cortes was rep. of god promised to return 
@@ -111,3 +111,40 @@ Oct 18 2021
    - Took hostage, pillaged city, locals revolt and drive spainish away but aztecs destabilized by disease, got soldiers from allies 
    - Pillaged temples, pyramids, palaces, rivers/canals filled in, etc 
  - **The Inca**
+   - On west coast, ~peru 
+   - Highly centralized state(word inca means ruler, so ruler empire)
+   - Expanded to include ecuador, chile, edge of amazon(~12mil ppl)
+   - Four quarters each ruled by governor, then provinces of ~10kppl (govs were Relatives of royal family)
+   - Emperor believed to be descended from sun god 
+   - Great builders, massive infrastructure 
+ - **Spainish Conquest of the Inca(1535)** 
+   - Pizarro arrived with small batallion but with guns, etc.
+   - Inca already suffering from smallpox, even incan emperor 
+   - Civil war bc 2 sons claimed throne 
+   - Pizzaro seized the winning son, executed him 
+   - Marched on Cuzco(Capital), captured it, established capital at lima for colony 
+ - **Administration of the Spanish Empire** 
+   - Confusion, Misguided paternalism ,cruel exploitation 
+   - Isabella delared natives subject to castille, instituded encomienda system allowing tribute and labor from natives 
+   - Holders of encomienda(lords basically) supposed to pay, protect, encourage catholicism; did whatever they wanted 
+   - Protests of treatment esp by dominican friars 
+   - Encomienda system abolished in 1542 bc Bartelome de Las Casas 
+   - Constructed towns based on urban spainish cities(central square, etc), 250k ppl come by 1580 
+   - Viceroys based in New spain/Mexico city and Peru/Lima 
+   - Aided by audiencas who were also judging bodies 
+   - Pope gave spainish right to religious things in new world(Appoint clergy, collect fees, build churches, supervise conversion)
+   - Mass conversion brought much european structure, Spainish inquisition comes too ~1570 
+### Disease 
+ - No natural resistance to Smallpox, flu, measels, pneumonic plague, typhus, yellow feer, cholera 
+ - Smallpox epidemic in 1518 spread along carribean trade routes to mesoamerica killing ~1/3 of natives, aided cortes, similar for incas+pizarro 
+ - 1630, smallpox in new england
+ - ~30-40% of all ppl died 
+ - High mortality, labor shortage for europeans, turned to africa 
+
+## New Rivals on the WOrld Stage 
+ - Dutch then Fr then Eng move to replace portugese and spainish and create own enpires 
+
+### Africa; The Slave trade 
+ - Portugese tried to dominate trade in gold, somewhat slaves but lesso
+ - mid 17th C, Dutch seize west afr coast portugese forts, basically take trade over indian ocean 
+ - 
