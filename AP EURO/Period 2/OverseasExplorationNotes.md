@@ -75,4 +75,19 @@ Oct 18 2021
  - Successful bc PHTN School and Guns in ships 
 
 ### Voyages to the new world 
- - 
+ - Spainish trying to shortcut portugese progress by going across the atlantic
+ - Despite being after portugal, were still profitable bc had more starting money 
+ - **The Voyages of Columbus**
+   - Columbus believed circumference of earth was shorter than most did bc confused about asia size 
+   - Rejected by portugese bc hes dumb and didnt fit with strat of around africa, eventually accepted by isabella of castille(Spain)
+   - Reached Bahamas, explored cuba coastline+haiti+dominican republic 
+   - Promised gold, conversion of natives to ferd+isabella 
+   - Future voyages tried and failed to find mainland asia 
+ - **New Voyages**
+   - John cabot(italian) explored new england coast, financed by king henry VII of england 
+   - South america discovered accidentally by portugese
+   - Amerigo Vespucci(also italian) wrote letters from ships describing the new world, published, began name america 
+   - Magellan tries to circumnavigate globe, passed thru magellan strait on southern tip of south america, killed by natives in phillipines 
+   - Treaty of tordesillas accidentally majorly favored spainish, spainish went west while portugese went east 
+
+### Spainish Empire in the New World
