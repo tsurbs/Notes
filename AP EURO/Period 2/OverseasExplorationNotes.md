@@ -94,4 +94,20 @@ Oct 18 2021
  - Conquistadors motivated by glory, greed, religious crusading
  - Authorized by Castilian crown, financed privately 
  - SUperior weapons, organizational skills, determination, native ppls rivalries/disease succeptability brought success 
- - 
+ - **Early Civiliztions in Mesoamerica(Mexico+Central America)**
+   - 300s: Maya were on Yuctan peninsula, very advanced civilization
+     - Temples, art, calendar, agrarian farming/cleared forests
+     - Expanded to include central america and mexico 
+     - Declined around 800 for unknown reasons, collapsed
+   - 1100s: Aztecs began migration to valley of Mexico, tenochtitlan(now mexico city)   
+     - Also advanced, aqueduct, city on watery land 
+     - Cities from 80k-200k ppl, bigger than most euro cities 
+     - POowerful warriors, System of semi-independent city-states w/ own lords, loose org. contrib to downfall 
+ - **Spainish Conquest of Aztecs**
+   - Cortes marched to tenochtitlan, allied with anti-aztec city states 
+   - Arrived at tenochtitlan, received friendly welcome from leader(moctezuma)
+     - At first, moctezuma believed cortes was rep. of god promised to return 
+     - Gave gifts, etc 
+   - Took hostage, pillaged city, locals revolt and drive spainish away but aztecs destabilized by disease, got soldiers from allies 
+   - Pillaged temples, pyramids, palaces, rivers/canals filled in, etc 
+ - **The Inca**
