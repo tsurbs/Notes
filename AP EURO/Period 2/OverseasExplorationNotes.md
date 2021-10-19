@@ -192,3 +192,47 @@ Oct 18 2021
 ### The Fr+Br in India 
  - Mughals(babur(mongol heritage)) unify india, come from north of ganges river
  - Akbar expands rule to most of india, Collapses in 17thC bc lose revenue+nobles assert control over territories 
+ - Vaccum of power opens door to trading opportunities 
+ - **Impact of the West** 
+   - Portugese first, then english and dutch arrive, compete w/ portugal 
+   - Eng presence increases by shipping indian cotton goods to east indies, got spices, took spices to england, est indian ports all around indian coast
+   - Dutch focus on spice trade more
+   - English success draws france in
+   - French est. own forts, compete successfully, even capture br fort at madras 
+   - British saved by agressive Sir Robert Clive(CLYV), agressive empire-builder, eventually chief rep of EIC in india 
+   - French gov dosent support efforts financially, enables british 
+   - CLYV fights some battles and recaptures places from natives too and gets authority to tax ppl in calcutta area 
+   - Seven years War forced fr to fully withrdraw 
+
+### China 
+ - 1514 portugese anchor off chinese coast, chinese at height of power, unconcerned
+ - **Ming and Qin Dynasties** 
+   - Ming(1369-1644) extend rule into mongolia and central asia 
+     - Major epidemic sparks peasant revolt, seize power 
+     - Enables manchus(manchuria) to come in, capture bejing, etc, est qing 
+   - Quin have strong rulers, fix many ills, restore peace and prosperity
+ - **Western Inroads**
+ - Qing military campaigns were expensive, pressure bc of pop growth encouraged rebellion 
+ - Russia wants more fur, attacks, china negotiates treaty 
+ - EIC est trading post at canton 1699 
+ - Trade w/ china inc. rapidly, qing confine traders to island outside cnaton, only from october thru march 
+   - British are okay w/ this at first(profitable), then want more(open country to manufactured goods)
+   - China says no 
+
+### Japan 
+ - 15th C near-anarchy rectified by few powerful ppl(tokugawa ieysu)
+ - Portugese landed in 1543, regular trade after a few years  w/ japan, china, SEasia 
+ - Jesuits arrive in 1549, moderate success 
+ - Initially europeans welcomed as novelty, jesuit success scares shogunate, now christians r persecuted 
+ - Gov close two major trading ports, only a small dutch group left(dutch hadnt done missionary stuff)
+
+### The americas 
+ - Portugal profits from brazil 
+ - Spainish lose relevance bc drop in silver mine output and monarchy is poor 
+ - **West Indies**
+   - English and french each have significant holdings, plantation econs worked by slaves 
+   - Sugar was main export 
+   - Haiti(St. Domingue) produces lotsa sugar at high death rate of slaves 
+ - **British North America** 
+   - Spain claims all of North Amer., others ignore this lol 
+   - 
