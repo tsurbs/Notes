@@ -91,3 +91,7 @@ Oct 18 2021
    - Treaty of tordesillas accidentally majorly favored spainish, spainish went west while portugese went east 
 
 ### Spainish Empire in the New World
+ - Conquistadors motivated by glory, greed, religious crusading
+ - Authorized by Castilian crown, financed privately 
+ - SUperior weapons, organizational skills, determination, native ppls rivalries/disease succeptability brought success 
+ - 
