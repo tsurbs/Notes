@@ -235,4 +235,126 @@ Oct 18 2021
    - Haiti(St. Domingue) produces lotsa sugar at high death rate of slaves 
  - **British North America** 
    - Spain claims all of North Amer., others ignore this lol 
-   - 
+   - Dutch henry hudson discovered hudson river, est. new netherland stretch from hudson up to NY 
+   - Ductch rivalries w/ br+fr diminish empire, 1664 eng seize new netherland rename it New York, soon after D**W**IC went bankript 
+   - Jamestown 1607, seek profit barely survived
+   - Mass. Bay Colony prove settling could work
+   - Mostly independent colonies, supposedly regulated from england 
+   - Nav. acts regulated what could be taken+Sold by colonies 
+ - **French North America**
+   - Jacques Cartier discovered St. Lawrence River1534, laid claim to canada 
+   - 1608 quebec est. serious interest in canada as a colony 
+   - French North america run autocratically as ast trading area, raw goods acquired 
+   - Not able to get Frenchppl to move to canada 
+   - 1713 Began to seed some posessions to br
+   - Surrender rest of canada in 7 yrs war 
+ - **BR+FR fx on south america**
+   - Spain tried to limit trade to just spainish ships, couldnt disclude fr+br 
+   - Br got access to brazillian trade fro Portugal 
+   - french got into spainish market when french bourbons became kings of spain 
+   - Br got asiento to transport 4.5k slaves to spanish latin america
+
+## The Impact of European Expansion 
+ - OG spainish and portugese bc most together 
+ - Then Dutch bc spainish and portugese decline 
+ - Then Br+Fr who win but hate eachother 
+
+### The Conquered 
+ - Virtually destroyed native americans, entire culture replaced by english culture 
+ - Africa impact of slave trade unsure bc lack of records 
+   - Likely just negated pop growth rather than decline 
+   - Encouraged growth of W. Afr kingdoms(dahomey+Benin) bc expanded using euro guns+got slaves+traded for more guns 
+   - In 19th C, became succeptable to euro after slave trade ends 
+ - Portugese presence in east had little direct impact 
+ - Dutch in indonesia was more effectual 
+ - China and Japan were little effected 
+ - India was growing in effectedness by br 
+ - New 'latin american' civ 
+ - Multiracial, many sp and portugese males married+didnt marry natives 
+   - Mostly males from sp+port(few white females)
+   - 1501 sp authorize intermarrage, offspring = mestizos 
+   - Mullatoes were white/afrslave offspring 
+   - **CASTAS SYSTEM?!?!??!??!??!**
+ - European Horses, sheep, goats, pigs, cattle change native life 
+ - Cattle farming took over instead of maize farming 
+ - European wheat and cane sugar cultivated on plantations there 
+ - Sweet potatoes and Maize introduced to africa in 16th C 
+ - **Missionary activity**
+   - Church power increased by controlling church in new world too(jesuits and dominicans and franciscans) 
+     - Missionaries brought natives into villages to be converted, learn trades, grow crops 
+     - Enabled control of natives+ensured remain docile members of empire 
+     - Missions in Fronteirs like Calif+Texas also serve as military barriers 
+     - Constructed hospitals, orphanages, schools, monastic schools for natives, things for women to do(nunneries allow for other jobs)
+   - Missionaries in china 
+     - Jesuits largely 
+     - Were knowledgeble/smart, impressed rulers, rulers opened up to europeans 
+     - Used opening to promote christianity, found connections btw christianness and confucian ethics 
+     - At peak in early 1700s, several hundred officals convert, 300k commoners
+     - Dominicans and Franciscians resented success jesuits had by allowing ancestor worship, complained to pope, who condemned it, chinese kick everyone out 
+   - Missionaries in Japan 
+     - Some success, jesuits convert some nobles+thousands of scommoners
+     - Jesuits destroyed local idols/shrines and replacing w/ christian schools+churches was bad 
+     - Gov ordered execution of a number of jesuits+converts 
+     - When cont. to interfere, tokugawa expel all missionaries, converts persecuted 
+
+### The Conquerers 
+ - Easier for white women to find husbands in the new world(fewer white women overall)
+ - Lotsa violence, many widows were rich 💵💵💵
+ - EUropeans always looked for gold and silver, Lots from potosi, europe got a LOT of precious metals, set off price revolution 
+ - Columbian exchange(biological things)
+   - Horses, cattle, wheat TO, yams, chocolate, corn, tomatoes, tobacco FROM 
+   - Potatoes became staple in some places, very hardy even in cold more calorie per acre, inc population 
+   - Lifestyle affected by coffee and chocolate as drinks 
+   - First coffee and tea houses in 1650s, spread 
+   - 18th C craze for chinese furniture in upper classes 
+   - **DOES DISEASE GO HERE ?!?!?!?!?!**
+ - Deepening european conflict 
+   - Conflict over trade(anglo-dutch trade wars, Br+Fr india rivalry)
+   - State-sponsored piracy 
+ - New, better maps, mercater projection 
+ - Impact of natives on europeans 
+   - Some thought were barbaric
+   - Some applauded as not having fallen to european corruption
+   - All beleive should be converted to christianity 
+   - Easy domination cemented european ideas of supremacy 
+
+## Toward a World economy 
+ - During high middle ages, europe did a commercial revolution, stalled by 14thC issues 
+
+### Economic conditions in the 16th C 
+ - Inflation/Price-revolution, affeted diff areas of euro at diff times 
+ - Low inflation rate(2-3%) noticible in previously stable europe 
+ - Food most succeptable 
+ - Wages fail to keep up with price increases
+ - Wage earners(acricultural laborers+salaried workers) see standard of living drop 
+ - Commercial+industrial entrepreneurs prosper, some see as good/growth of capitalism 
+ - Governments borrowed heavily from banks and taxed harder, adding to discontent 
+ - Caused by influx of precious metals, increase in population(inc demand for land and food, drive up prices)
+
+### Growth of commercial Capitalism 
+ - Trade around Mediterranean, Low countries/Baltic region in north, central europe(Rhine and danube rivers)
+ - New world/atlantic seaboard relevance increased links btw ^^
+ - Increased links increase succeptability to price shifts 
+ - Cheaper and fster Dutch ships monopolize european and world trade 
+ - Joint stock company enables expansion 
+   - DEIC makes money 
+ - Shipbuilding and mining and metallurgy all very profitable bc tech made easier 
+   - Mining tied to banking firms(ChV gave fuggers control over profitable silver, copper, mercury mines)
+   - Fugger went bankrupt eventually bc habsburgs defaulted on loans
+ - State banks rise bc family banks not strong enuf 
+   - Bank of amsterdam, Amsterdam Bourse/Exchange(Stocks), euro econ hub
+ - Peasants mostly free of serfdoom, some feudal dues, little or no improvement in conditions despire expanding markets+rising prices 
+ - In eastern europe, peasants lifes got worse bc was more serfdom 
+
+### Mercantalism 
+ - Yaknow
+ - Bullion, favorable balance of trade
+ - Monopolies, encourage investment w/ subsidies, Importing foreign artisans, improve transportation w/ infrastructure, high tarrifs, colonies for raw stuff, as market 
+ - State intervention good 
+
+### Overseas Trade and COlonies/ Movement toward globalization 
+ - Local, intra-european trade still dominated 
+ - Trans-atl trading was way more value-dense than intra-european 
+   - Peppers and spices, sugar, coffee/tea become more available 
+ - European products remain strong(wine, wool, cheese, fruit,silk)
+ - 
