@@ -32,4 +32,13 @@ Oct 18 2021
    - France ^ means invasion of italy
    - Portugal ^ means pushing abroad bc so smol 
    - Spainish did both :thumbsup: bc :dollar:
- - 
+ - **Maps** 🌎️:
+   - Mideavel mps not really useful bc highly schematic
+   - *Portolani* - charts by navigators+mathematicians for navigators 
+     - Based on flat earth, not useful for longer journeys 
+     - Longer journeys became more common and maps got better 
+       - Ptolemys map from 100AD Existed, but wasnt translated out of arabic until 15th C 
+       - Was spherical, included three continents, smaller earth Circumference lead columbus to believe could reach asia easy 
+ - **Ships and Sailing**:boat:  
+   - European shipbuilders integrated rudder from china, combined lateen sail with square rig 
+   - Made ships good for counter-wind sailing 
