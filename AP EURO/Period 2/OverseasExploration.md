@@ -161,3 +161,23 @@ Oct 07 2021
     - Using compass and astrolabe, not a good timekeeper
     - Ships and Sailing - axial rudder, lateen sails, square rigs(sail against the wind), larger ships for more goods and cannons, knowledge of winds 
     - Reasons to go AND ability to go
+
+## India 
+ - Muslim(mughal) ruling over hindu majority 
+ - Br+Fr compete over india, competititon fuels moving inland, increases colonial presence 
+ - Fr lose, have to go to indochina(vietnam/cambodia/laos)
+ - Mughals weaken internal(succession issues) and externally bc europeans 
+   - Resistance to ruling by nobles 
+   - Recognise local princes system called raj 
+ - Inital trade conrol is portugese and dutch in port areas 
+ - Europeans competeing with eachother, but always trying to undermine authority of mughals 
+ - Early on are only interested in trade but then expand to be more colonial(Br+Fr EICs)
+   - Own rulers, more ships, hiring local hindu and muslim warriors, seeks(i forget how to spell siks)
+   - Portugese at goa, Robert Clive BEIC defeat mughals at battle of plassey, Defeat Fr at pondicherry, 7yrswar aslo faught in india
+   - 
+
+## Animals in the new world 
+ - Cows, horses, pigs(domesticated animals)
+ - Change agricultural nature(clearing areas for them)
+ - No natural predator for the pigs 
+ - Horse culture, plains american indians
