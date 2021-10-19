@@ -147,4 +147,48 @@ Oct 18 2021
 ### Africa; The Slave trade 
  - Portugese tried to dominate trade in gold, somewhat slaves but lesso
  - mid 17th C, Dutch seize west afr coast portugese forts, basically take trade over indian ocean 
- - 
+ - DEIC est under gov sponsorship, settlement in cape of good hope as provisioning station en route to spice islands 
+ - Dutch farmers(Boers) Settle arond cape town(moderate climate, freedom from diseases, one of best places to settle in afr)
+ - **Origins of the Slave Trade** 
+   - History, used since ancien times, 15th C was steady, Primary market was middle east for domestic servants, also some in europe 
+   - Replaced euro slaves with afr, ~1k/yr in late 1400s, mostly domestic servants for affluent ppls 
+   - New world w/ cane sugar, requires lotsa ppl, natives not enuf esp bc dead 
+   - 1518 first direct ship from afr to amer w/ slaves, spainish 
+ - **Growth of the Slave trade** 
+   - Slave trade grew dramatically as part of triangular trade 
+   - European shipw take manufactured goods to afr, get slaves, take slaves to new world, get raw goods to take bacl to euro 
+   - 275k in 16th C, 6mil by 18th bc trade spread from west+central to east afr as well 
+   - 19th C when england tried to end slave trade still 2mil 
+   - High death rate/Middle passage/yaknow 
+   - New generation of slaves born in America die less but are harder to raise, seen as not worth it 
+ - **Conduct of the Slave Trade** 
+   - Before europeans, slaves were mostly POW, european demand means increasd supply coming from inland, some worry abt fx on societal well-being 
+   - Viewed as source of income mostly 
+   - African middlemen active in controlling prices, etc 
+   - Cheap euro goods also undermine local economies 
+   - Increased warfare for slave raids was politically hard 
+   - Some europeans protest
+     - not significant until quakers exclude all slave-trade-participants 
+     - Radical stage of frrev abolished slavery in 1790s
+     - British in 1807, america in 1860s 
+
+### The West in Southeast Asia 
+ - Portugal never fully control southeasta sia 
+ - Spain est self in phillpines by magellan, becomes major base for them 
+ - Spainish carry silk from asia to mexico and exchange for silver 
+ - Dutch and English have more money than portugese, able to dominate seasia 
+   - Dutch seize a port in mollucas, gradually push portugese, english out, england only on one port 
+   - Dutch consolidate control w/ island of java, fort 
+   - Dutch found inland expansion nessecary to encure control
+   - Pepper planatations on java bring big profit 
+ - Europeans less impact on mainland SEasia bc strong monarchies in myanmar , thialand, vietnam 
+   - Portugese have limited trade relations w/ ^^, compete w/ others in 17thC
+   - Overall not much of a euro impact
+ - Vietnam, arrival of merchants at same time as internal conflict among ruling groups bc expansion(div into north and south)
+   - Portugese and Dutch take opposite sides 
+   - Area not very opportunity-heavy, abandoned posts mostly 
+   - French missionaries blocked by authorities
+
+### The Fr+Br in India 
+ - Mughals(babur(mongol heritage)) unify india, come from north of ganges river
+ - Akbar expands rule to most of india, Collapses in 17thC bc lose revenue+nobles assert control over territories 
