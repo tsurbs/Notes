@@ -4,9 +4,31 @@ Oct 21 2021
  - *Sherman sources*
    - **Results of civil war**
    - Reachilu(absolutism)
-   - House of commons/parliment stuff counter James I 
-   - Hammer of witches 
- - Three major ideas 
+     - Hated by many lords/nobles 
+     - Religious wars about conflict between royalty and nobles
+     - Nobles of the robe(appointed) vs nobles of the sword(feudal-like lords)
+     - Trying to create stability(esp destructiveness of religious wars), answer is strong central monarchy 
+     - Reichelu is advisor to monarchy, really dosent want to call the estates general so they dont have to give them power 
+       - Appointment of nobles to government pulls nobles in 
+       - Need taxation to avoid calling on lords(though lords dont have to pay)
+         - Tax on land 
+         - Tax on salt 
+         - Head tax 
+       - Internal problems in france prevent overseas exploration(exploration happening but not really pushing in until absolutism)
+         - Control St Lawrence and Mississippi
+         - Louis XIV pushes into india bc advisor jean louise colbert, guses wealth for wars on borders(netherlands, germans, was of spainish succession, change from hapsburg to bourbon, then association between france and spain leads to war of spainish succession)
+       - RESPINSE TO CIVIL WAR!!!
+   - James I is claiming divine right/absolutism
+   - House of commons/parliment stuff counter James I doc, EACH WANT MORE POWER, lead to civil war  
+     - What are restricitons on power of king (cliamed by parliment )
+       - Eventually glorious revolution, english bill of rights
+       - Not yet lockian rights for all
+     - James I uses natural ideas and christian scripture to justify his power 
+       - Parliemnt would say yes comes from god/nature, but not absolute 
+       - RN parliment is calling on tradition to justify(magna carta/list of limited rights for church, monarchy, etc.)
+     - English civil war conflict is abt pwr of king vs parliment and religion 
+   - Hammer of witches VIEW OF WOMEN AS SUCCEPTABLE AND THERFORE SINFUL 
+- Three major ideas 
      - 30 yrs war 
        - Dynastic german conflicts involve rest of europe 
        - England dosent rly get involved bc helping netherland+fighting own civil war 
@@ -15,7 +37,7 @@ Oct 21 2021
        - Reichelu->Lois XIII->XIV
        - End of 1600s->1700s, most powerful country is fr 
      - English civil war
-       - Stuart(scottland) monarchs(james(mother was mary queen of scots, was executed by elizabeth) charles charles james william(of orange)+mary, anne)
+       - Stuart(scottland) monarchs(james(mother was mary queen of scots, was executed by elizabeth who preceeded james) charles charles james william(of orange)+mary, anne)
    - Smaller things 
    - Little bits on the witches(half-theme)
        - Many diff ideas about why
@@ -24,3 +46,93 @@ Oct 21 2021
        - In middle ages, witches can be bad or good 
      - Russia dev of govs in north(poland sweden)
      - Artwork
+
+## Artwork 
+ - Mannerism - inspired by michaelangelo
+   - michaelangelo started to break with balance and moderation 
+   - El greco is one of these
+   - Moving away from technical realism, distortion view to create emotional(angst+confusion) atmospheric
+   - Viewer reacting to art for art not for symbols in art 
+ - Baroque - Catholic revival/reformation 🚫💰
+   - Usually big fleshy/overly stated people (Toledo)
+   - Use of classical ideals
+   - Dramatic fx to create emotions 
+   - Physical drama and motion 
+   - Peter paul rubins 
+ - French classicism 📚
+   - Return to clarity, simplicity, balance, harmony
+   - Despite this continue drama+grandeur 
+   - Happens just before french rev 
+ - Dutch Realism 
+   - Realism
+   - Vermir(girl w/ pearl earing )
+   - Rembrandt
+   - Northern rennisance but everyday objects(Dutch domesticity)
+ - Bernini(sculptor), carravacio, lyster, van Rijyn, rembrant
+
+## Northern states 
+ - Blocking spread of catholic cause (30yrswar)
+ - Sweden is lutheran, 
+ - Peace of augsburg doesnt address calvinism in france
+ - local rulers determine religion 
+   - If go with prince's religion, risk salvation 
+   - If go with self's relgion, risk execution
+ - Gustus Visedulpheus
+ - Dealing with expansion of russia 
+   - Conflict with sededn is charlss XII, Russian gains some territories 
+ - Russia+Peter the Great 
+ - Denmark is not absolutist(election of monarchs)
+   - Denmark and sweden unified but then split, both lutheran 
+   - Mostly lose in 30yrswar early on bc catholics more organized, then remove Albrect Van Wallenstein bc too powerful
+   - Fighting in the north weakerns, monarchy restored under Christian V 
+   - Losing territory to swedes, undermining power in wars v russia 
+   - Election of the monarch reduces power of monarch bc lords have power 
+ - Swedish state expands power  under Gustavus Adolphus w/ nobility serving in gov 
+   - Three charles weakened nobles, expanded military, lose most of northern empire to russia 
+ - Weak Polish monarchy
+   - End of Jagiello dynasty lead to chosing kings from outsiders 
+   - Powerful pulish nobles led to weaker monarchs+independent monarchs were bad 
+
+## 30 Years War 
+ - Defenestration of prague - Threw out important person from window(important person survived)(important person = catholics rep. new HRE)
+ - Havent fully resolved conflicts in german states 
+ - Broad causes    
+   - Protestantism vs Catholicism
+   - Spread and lack of acceptance of calvinism in german lands 
+   - Downsides of peace of augsburg(catholic or protestant populations under opp. principality)
+   - Habsburgs vs German Princes/rulers over "German Liberties
+   - Smth to do with the war of the spainish succession 
+   - Frederick IV Calvinist ruler of the Palatinate formed protestant union, countered by hapsburg catholic ruler of bavaria
+ - Bohemian Phase 
+   - Very agressive habsburg rulers trying to reverse augsburg/toleration 
+   - Phase I - Bohemian estates resisting catholic policied+Ferdinand(habsburg arcduke)
+   - Defenestration of prague, Frederick V of the Palatinate as king of bohemia, people like him bc resistance to catholic
+   - Alliance of protestant states against HRE, Response is catholic league formed by maximillion
+   - Ferdinand defeated Protestant-Bohemians at White mountain but war continues bc cant fully counter 
+ - Danish Phase 
+   - Denmark(lutheran) invades germany, victories for the catholic forces largely
+   - Many mercenaries, also destroying cities and farms and civilians 
+   - More use of gunpoweder
+   - Albrect Van Wallenstein is very effective, yaknow 
+   - Ferdinand angers ppl by returning former catholic land to the catholic church (edict of restitution)
+ - Swedish-franko phase 
+   - Swedish under gustaphus adulphis(lutheran, pushes back vs northern germany)
+   - Swedish victory, gustavus adolphus killed 
+   - Attempted peace undermined by actions of swedes and entry of france on protestants side(just hate spain)
+     - Catholic cardinal(Reichelu) advising catholic monarchy to fight against others, marks shift 
+ - ENd of Franco-swedish phase 
+   - Catholic fench support the protestant vs catholic Habsburgs 
+   - French Victories and forced the Habsburgs to sue for Peace
+   - Dutch Support Protestants, spainish attempt to return them to catholicism, aenglish support the dutch 
+ - France is big winner in war, coencides w/ absolutism, Louis XIV keeps trying to extend power
+   - Lotsa destruction in German lands(farms, trade)
+   - 30yrs war encourages order and stability given negative fx of war 
+   - Pretty much the last relgious war
+ - Peace of westphalia
+   - All german states are free to determine your religion 
+   - Calvinism is tolerated 
+   - France gains territory(alcese-lorainne)
+   - Sweden, Brandenburg(-Prussia), Bavaria gain territory 
+   - Rilvary in german lands btw habsburgs and hogenzolers 
+   - HREmpereror loses power(states recognized as independent)
+   - 
