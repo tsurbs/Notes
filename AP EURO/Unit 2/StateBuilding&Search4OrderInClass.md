@@ -131,8 +131,61 @@ Oct 21 2021
  - Peace of westphalia
    - All german states are free to determine your religion 
    - Calvinism is tolerated 
-   - France gains territory(alcese-lorainne)
-   - Sweden, Brandenburg(-Prussia), Bavaria gain territory 
-   - Rilvary in german lands btw habsburgs and hogenzolers 
-   - HREmpereror loses power(states recognized as independent)
-   - 
+   - Wins
+     - France gains territory(alcese-lorainne)
+     - Sweden, Brandenburg(-Prussia), Bavaria gain territory 
+     - Rilvary in german lands btw habsburgs and hogenzolers 
+     - HREmpereror loses power(states recognized as independent)
+     - Formal recognition of dutch lands 
+     - National recongition of independence and soverginty of states 
+   - loses
+     - German states lose 
+     - Dont get back until napoleonic wars when france stops inc. power 
+- English civil war tudor(ends w/ elizabeth) stuart(James charles charles james etc, tend more catholic)
+  - Jamboard
+  - James and charles want to expand authority(James I doc, authority from god countered by ancient texts for parliment)
+    - Both sides see the others as altering the relationship 
+    - Elizabethan compromise of new church but not pushing on doctorine ending, allows for toleration of puritans, etc 
+    - James and Charles tend more catholic, gunpowder plot to blow up parliment/king to change gov back to catholic(Nov5 guy fox)
+  - Conflicts 
+    - Scotish parliment and presbyterian chruch 
+    - Puritans want to purify anglican church 
+    - Ireland conquered, is catholic, is ruled directly
+    - Argument that issue is three different kingdoms with diff religion, ruling bodies
+    - Continues thru charles, charles dosent want to listen to parliment 
+      - Anglicans, catholics, puritans(wide range of puritans from small to large anti-catholic symbolness)
+      - Presbyterians(scottish calvinists), charles imposes anglican book of prayer, meant to let anyone preach to anglican god, see as imposing
+      - Political conflicts
+        - Balanced polity(political system w/ checks), power of the purse(Taxation)
+        - To impose new taxes, parlimentary approval needed, needs to call session of parliment, kings no likey this
+        - Gentry middle class landowning elite 
+          - In parliment in commons, gentry and midclass, more puritans, dont want taxes, leverage for religion
+        - Taxes on ships and import and exports 
+          - Questions about useage of that for benefit of charles 
+        - **Petition of right consent to be taxed, has to meet, imposes following restricitons, no arbitrary imprisonment(habeus corpus)/quartering of soldiers or martial law; triennial act(meet every three years)**
+        - Charles dosent want to agree to these, so dosent call parliment for 11 years
+      - Religious conflicts 
+        - Begins instituting catholic practices in anglican church w/ archbishop william laude 
+        - Puritans HATE this bc dont want to be told how to be christians, idea of what it means to be english/national identity(NOT FULLY 19TH C NATIONALISM)
+        - Even non-puritan parlimentary members are not happy bc he is trying to rule without parliment 
+        - Money from the ship money and imports/exports angered genrty and merchants 
+        - Marrige of sister to louis XIII, fear of catholicism, imposing book of common prayer on scotland-led rebellion 
+        - Charles needs money to fight, calls on parliment, parliment lead by john pym tries to pass bills to restrict royal authority, charles arrests members of parliment which starts the war 
+      - charles fighting two diff fronts, parliment and scotland 
+      - Civil war from 1642 
+    - Phase I: 1642-46m cromwell(puritan nobility) New Model Army, volunteer, very well trained army, capture charles I, conflict w/ presbyterian Majority in parliment, CHarles helped by scots bc scots didnt want the increased imposition of ideas from cromwell  
+    - Phase II: Purge of presbyterian members of parliment: Rump/long parliment, defeat of king tried for treason and executed
+    - Puritan repubic led by cromwell as Lord Protector, abolish parliment and execute king 
+      - Massive change from 100 years before really stable monarchy able to break with church 
+      - Cromwell wants to be more authoritarian/not work with parliment, then some want to radically change it(diglets and levelers) and get rid of hierarchy 
+      - Cromwell is socially conservative and religiously conservative/puritan, gets rid of gambling/taverns/festivals, closes theatres, imposes vision of puritanism 
+      - Conflict btw rump parliment and cromwell 
+      - Institudes instrument of government created his position of lord protector and new parliment 
+      - Continued conflict within england
+      - Dismissises parliment again, military rule rather than parliment 
+      - Taxes royalists, more arbitrary rule(follows puritanism more than other things)
+      - Smashing windows, etc catholic symbol destruction 
+      - Protestant work ethic
+      - Cromwell dies in 1658, unable to make son(Richard) successor as he is overthrown 
+      - Parliment changes government back to monarchy, invites charles back to rule with parliment, 
+    - Lingering conflict btw puritans and catholics()
