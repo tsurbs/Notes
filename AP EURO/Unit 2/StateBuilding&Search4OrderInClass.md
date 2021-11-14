@@ -1,0 +1,191 @@
+# WitchCraft30yrs&LouiXIVAbs&ENGCIVWAR&LotsArt
+Oct 21 2021
+***
+ - *Sherman sources*
+   - **Results of civil war**
+   - Reachilu(absolutism)
+     - Hated by many lords/nobles 
+     - Religious wars about conflict between royalty and nobles
+     - Nobles of the robe(appointed) vs nobles of the sword(feudal-like lords)
+     - Trying to create stability(esp destructiveness of religious wars), answer is strong central monarchy 
+     - Reichelu is advisor to monarchy, really dosent want to call the estates general so they dont have to give them power 
+       - Appointment of nobles to government pulls nobles in 
+       - Need taxation to avoid calling on lords(though lords dont have to pay)
+         - Tax on land 
+         - Tax on salt 
+         - Head tax 
+       - Internal problems in france prevent overseas exploration(exploration happening but not really pushing in until absolutism)
+         - Control St Lawrence and Mississippi
+         - Louis XIV pushes into india bc advisor jean louise colbert, guses wealth for wars on borders(netherlands, germans, was of spainish succession, change from hapsburg to bourbon, then association between france and spain leads to war of spainish succession)
+       - RESPINSE TO CIVIL WAR!!!
+   - James I is claiming divine right/absolutism
+   - House of commons/parliment stuff counter James I doc, EACH WANT MORE POWER, lead to civil war  
+     - What are restricitons on power of king (cliamed by parliment )
+       - Eventually glorious revolution, english bill of rights
+       - Not yet lockian rights for all
+     - James I uses natural ideas and christian scripture to justify his power 
+       - Parliemnt would say yes comes from god/nature, but not absolute 
+       - RN parliment is calling on tradition to justify(magna carta/list of limited rights for church, monarchy, etc.)
+     - English civil war conflict is abt pwr of king vs parliment and religion 
+   - Hammer of witches VIEW OF WOMEN AS SUCCEPTABLE AND THERFORE SINFUL 
+- Three major ideas 
+     - 30 yrs war 
+       - Dynastic german conflicts involve rest of europe 
+       - England dosent rly get involved bc helping netherland+fighting own civil war 
+       - French(catholics) fight with protestants against catholics, shows nationalism
+     - Dev of absolutism in fr 
+       - Reichelu->Lois XIII->XIV
+       - End of 1600s->1700s, most powerful country is fr 
+     - English civil war
+       - Stuart(scottland) monarchs(james(mother was mary queen of scots, was executed by elizabeth who preceeded james) charles charles james william(of orange)+mary, anne)
+   - Smaller things 
+   - Little bits on the witches(half-theme)
+       - Many diff ideas about why
+       - Protestantism 
+       - Older women 
+       - In middle ages, witches can be bad or good 
+     - Russia dev of govs in north(poland sweden)
+     - Artwork
+
+## Artwork 
+ - Mannerism - inspired by michaelangelo
+   - michaelangelo started to break with balance and moderation 
+   - El greco is one of these
+   - Moving away from technical realism, distortion view to create emotional(angst+confusion) atmospheric
+   - Viewer reacting to art for art not for symbols in art 
+ - Baroque - Catholic revival/reformation 🚫💰
+   - Usually big fleshy/overly stated people (Toledo)
+   - Use of classical ideals
+   - Dramatic fx to create emotions 
+   - Physical drama and motion 
+   - Peter paul rubins 
+ - French classicism 📚
+   - Return to clarity, simplicity, balance, harmony
+   - Despite this continue drama+grandeur 
+   - Happens just before french rev 
+ - Dutch Realism 
+   - Realism
+   - Vermir(girl w/ pearl earing )
+   - Rembrandt
+   - Northern rennisance but everyday objects(Dutch domesticity)
+ - Bernini(sculptor), carravacio, lyster, van Rijyn, rembrant
+
+## Northern states 
+ - Blocking spread of catholic cause (30yrswar)
+ - Sweden is lutheran, 
+ - Peace of augsburg doesnt address calvinism in france
+ - local rulers determine religion 
+   - If go with prince's religion, risk salvation 
+   - If go with self's relgion, risk execution
+ - Gustus Visedulpheus
+ - Dealing with expansion of russia 
+   - Conflict with sededn is charlss XII, Russian gains some territories 
+ - Russia+Peter the Great 
+ - Denmark is not absolutist(election of monarchs)
+   - Denmark and sweden unified but then split, both lutheran 
+   - Mostly lose in 30yrswar early on bc catholics more organized, then remove Albrect Van Wallenstein bc too powerful
+   - Fighting in the north weakerns, monarchy restored under Christian V 
+   - Losing territory to swedes, undermining power in wars v russia 
+   - Election of the monarch reduces power of monarch bc lords have power 
+ - Swedish state expands power  under Gustavus Adolphus w/ nobility serving in gov 
+   - Three charles weakened nobles, expanded military, lose most of northern empire to russia 
+ - Weak Polish monarchy
+   - End of Jagiello dynasty lead to chosing kings from outsiders 
+   - Powerful pulish nobles led to weaker monarchs+independent monarchs were bad 
+
+## 30 Years War 
+ - Defenestration of prague - Threw out important person from window(important person survived)(important person = catholics rep. new HRE)
+ - Havent fully resolved conflicts in german states 
+ - Broad causes    
+   - Protestantism vs Catholicism
+   - Spread and lack of acceptance of calvinism in german lands 
+   - Downsides of peace of augsburg(catholic or protestant populations under opp. principality)
+   - Habsburgs vs German Princes/rulers over "German Liberties
+   - Smth to do with the war of the spainish succession 
+   - Frederick IV Calvinist ruler of the Palatinate formed protestant union, countered by hapsburg catholic ruler of bavaria
+ - Bohemian Phase 
+   - Very agressive habsburg rulers trying to reverse augsburg/toleration 
+   - Phase I - Bohemian estates resisting catholic policied+Ferdinand(habsburg arcduke)
+   - Defenestration of prague, Frederick V of the Palatinate as king of bohemia, people like him bc resistance to catholic
+   - Alliance of protestant states against HRE, Response is catholic league formed by maximillion
+   - Ferdinand defeated Protestant-Bohemians at White mountain but war continues bc cant fully counter 
+ - Danish Phase 
+   - Denmark(lutheran) invades germany, victories for the catholic forces largely
+   - Many mercenaries, also destroying cities and farms and civilians 
+   - More use of gunpoweder
+   - Albrect Van Wallenstein is very effective, yaknow 
+   - Ferdinand angers ppl by returning former catholic land to the catholic church (edict of restitution)
+ - Swedish-franko phase 
+   - Swedish under gustaphus adulphis(lutheran, pushes back vs northern germany)
+   - Swedish victory, gustavus adolphus killed 
+   - Attempted peace undermined by actions of swedes and entry of france on protestants side(just hate spain)
+     - Catholic cardinal(Reichelu) advising catholic monarchy to fight against others, marks shift 
+ - ENd of Franco-swedish phase 
+   - Catholic fench support the protestant vs catholic Habsburgs 
+   - French Victories and forced the Habsburgs to sue for Peace
+   - Dutch Support Protestants, spainish attempt to return them to catholicism, aenglish support the dutch 
+ - France is big winner in war, coencides w/ absolutism, Louis XIV keeps trying to extend power
+   - Lotsa destruction in German lands(farms, trade)
+   - 30yrs war encourages order and stability given negative fx of war 
+   - Pretty much the last relgious war
+ - Peace of westphalia
+   - All german states are free to determine your religion 
+   - Calvinism is tolerated 
+   - Wins
+     - France gains territory(alcese-lorainne)
+     - Sweden, Brandenburg(-Prussia), Bavaria gain territory 
+     - Rilvary in german lands btw habsburgs and hogenzolers 
+     - HREmpereror loses power(states recognized as independent)
+     - Formal recognition of dutch lands 
+     - National recongition of independence and soverginty of states 
+   - loses
+     - German states lose 
+     - Dont get back until napoleonic wars when france stops inc. power 
+- English civil war tudor(ends w/ elizabeth) stuart(James charles charles james etc, tend more catholic)
+  - Jamboard
+  - James and charles want to expand authority(James I doc, authority from god countered by ancient texts for parliment)
+    - Both sides see the others as altering the relationship 
+    - Elizabethan compromise of new church but not pushing on doctorine ending, allows for toleration of puritans, etc 
+    - James and Charles tend more catholic, gunpowder plot to blow up parliment/king to change gov back to catholic(Nov5 guy fox)
+  - Conflicts 
+    - Scotish parliment and presbyterian chruch 
+    - Puritans want to purify anglican church 
+    - Ireland conquered, is catholic, is ruled directly
+    - Argument that issue is three different kingdoms with diff religion, ruling bodies
+    - Continues thru charles, charles dosent want to listen to parliment 
+      - Anglicans, catholics, puritans(wide range of puritans from small to large anti-catholic symbolness)
+      - Presbyterians(scottish calvinists), charles imposes anglican book of prayer, meant to let anyone preach to anglican god, see as imposing
+      - Political conflicts
+        - Balanced polity(political system w/ checks), power of the purse(Taxation)
+        - To impose new taxes, parlimentary approval needed, needs to call session of parliment, kings no likey this
+        - Gentry middle class landowning elite 
+          - In parliment in commons, gentry and midclass, more puritans, dont want taxes, leverage for religion
+        - Taxes on ships and import and exports 
+          - Questions about useage of that for benefit of charles 
+        - **Petition of right consent to be taxed, has to meet, imposes following restricitons, no arbitrary imprisonment(habeus corpus)/quartering of soldiers or martial law; triennial act(meet every three years)**
+        - Charles dosent want to agree to these, so dosent call parliment for 11 years
+      - Religious conflicts 
+        - Begins instituting catholic practices in anglican church w/ archbishop william laude 
+        - Puritans HATE this bc dont want to be told how to be christians, idea of what it means to be english/national identity(NOT FULLY 19TH C NATIONALISM)
+        - Even non-puritan parlimentary members are not happy bc he is trying to rule without parliment 
+        - Money from the ship money and imports/exports angered genrty and merchants 
+        - Marrige of sister to louis XIII, fear of catholicism, imposing book of common prayer on scotland-led rebellion 
+        - Charles needs money to fight, calls on parliment, parliment lead by john pym tries to pass bills to restrict royal authority, charles arrests members of parliment which starts the war 
+      - charles fighting two diff fronts, parliment and scotland 
+      - Civil war from 1642 
+    - Phase I: 1642-46m cromwell(puritan nobility) New Model Army, volunteer, very well trained army, capture charles I, conflict w/ presbyterian Majority in parliment, CHarles helped by scots bc scots didnt want the increased imposition of ideas from cromwell  
+    - Phase II: Purge of presbyterian members of parliment: Rump/long parliment, defeat of king tried for treason and executed
+    - Puritan repubic led by cromwell as Lord Protector, abolish parliment and execute king 
+      - Massive change from 100 years before really stable monarchy able to break with church 
+      - Cromwell wants to be more authoritarian/not work with parliment, then some want to radically change it(diglets and levelers) and get rid of hierarchy 
+      - Cromwell is socially conservative and religiously conservative/puritan, gets rid of gambling/taverns/festivals, closes theatres, imposes vision of puritanism 
+      - Conflict btw rump parliment and cromwell 
+      - Institudes instrument of government created his position of lord protector and new parliment 
+      - Continued conflict within england
+      - Dismissises parliment again, military rule rather than parliment 
+      - Taxes royalists, more arbitrary rule(follows puritanism more than other things)
+      - Smashing windows, etc catholic symbol destruction 
+      - Protestant work ethic
+      - Cromwell dies in 1658, unable to make son(Richard) successor as he is overthrown 
+      - Parliment changes government back to monarchy, invites charles back to rule with parliment, 
+    - Lingering conflict btw puritans and catholics()
