@@ -3,6 +3,15 @@ Oct 21 2021
 ***
  - *Sherman sources*
    - **Results of civil war**
+     - Letter written from HRE ambassador to FR 
+     - Civil war makes france worse, unrecognizable
+       - Fields untilled(hints at econ fx)
+       - Townspeople angry at cost of war for nothing 
+       - UpperClass men treated w/ suspicion, not working 
+     - Divisions
+       - Religion 
+       - Vs italians in french serice 
+       - 
    - Reachilu(absolutism)
    - House of commons/parliment stuff counter James I 
    - Hammer of witches 
@@ -24,3 +33,6 @@ Oct 21 2021
        - In middle ages, witches can be bad or good 
      - Russia dev of govs in north(poland sweden)
      - Artwork
+
+
+
