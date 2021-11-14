@@ -18,6 +18,7 @@ Nov 04 2021
 ## Primary sources
 ### Galileo(Inquisition Reasoning)
 - Defended Copernicus ideas vs weak arguments of protestant+catholics, shouldnt blindly follow scripture to explain natural world
+- Realizes copernicus not entirely correct, but important part of the process
 - Idea of nature uniformity
   - Telescope showed imperfections on heavanly objects(moon craters)
   - Telescope showed moons orbiting jupiter(orbits around things other than earth)
