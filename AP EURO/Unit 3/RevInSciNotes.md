@@ -31,7 +31,7 @@ Nov 13 2021
 ## Toward a New Heaven: A Revolution in Astronomy 
  - Most advanced areas were areas most formerly dominated by greeks(Med+Astr) (aristotle and ptolomey and christian theology(not greek whatever))
  - Geocentrism, circles, earth, air, fire, water, earth imperfect(unlike heaveans)
-   - Aristotles circles perfect and godlymmmmmmmmm, orbs of light(ID 10 planets and fixed stars)
+   - Aristotles circles perfect and godly, orbs of light(ID 10 planets and fixed stars)
    - All fits with scripture too 
  - New astronomers wanted to find exact paths 
    - Tried to reckon opposing views w/ epicycles 
@@ -271,7 +271,9 @@ Nov 13 2021
  - Grew up in tolerant amsterdam, excommunicated from amsterdam synagogue bc rejected judaism 
  - Lived a quiet independent life, turned down university offers to preserve freedom of thought 
  - Unwilling to accept implications of descartes as god separate from wold of matter 
- - Believed god was everything; pantheism
+   - Believed god was everything; pantheism, separation of mind and matter not accounting for soul 
+   - If you are separating the parts, Physical world has god but not rational world 
+   - Undermines how god exists in nature 
  - Said god did creation, nature behaves badly as a response to man behaving badly
  - Analyzed human emotions
  - Thought everytihing had a human-findable rational explaination

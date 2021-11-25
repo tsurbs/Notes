@@ -108,3 +108,7 @@ Nov 04 2021
  - Largely nothing changes, reinforced by lack of being scientific when dealing with Women 
  - Fall back on existing ideas
  - Some that go against it(cavendish, look in speilvogel)
+
+
+## Timeline of people 
+Copernicus/Vesalius -> Kepler/Galileo -> Harvey/Descartes/Bacon -> Newton/Cavendish -> pascal 

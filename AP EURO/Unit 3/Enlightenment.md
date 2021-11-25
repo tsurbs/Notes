@@ -1,0 +1,73 @@
+# Enlightenment
+Nov 22 2021
+***
+## Primary docs 
+ - Montesqieu
+   - Spanish judges able to ignore inate rights during the inquisition
+   - Written from perspective of persians (shows inc worldliness)
+   - 
+ - Locke(england, glorious rev. + engbillofrights happens, influences him)
+   - Tabula rasa(blank slate) of human mind 
+   - Gov should be protecting natural rights
+   - Challenging christian conception of humans 
+     - Religion says humans born sinful 
+     - Positivism, positive inc of humanity 
+   - Life liberty property 
+     - Liberty countered with Common good(societal laws can limit liberty? social contract)
+   - Writing in a time with a gov that is in line with his ideas 
+     - Also a sociologist 
+   - PPl in england dont have actual representation(virtual representation), locke dosent mind 
+   - ppl have right to rebel
+ - Voltaire(Critic)
+   - Judging ppl bc they are different is bad bc violates universality 
+   - Rebellious, wants change as soon as possible
+   - Not fully democratic, believes in a stable society w/ fair, constitutional, enlightened monarchy
+   - Does not trust uneducated/unenlightened people for fear of instability
+   - Critic of things against enlightenment 
+   - Hopes to influence monarchs to enlighten them, influences Frederick the great and Katherine the Great - Mutually beneficial 
+   - 
+ - Gov formed by ppl, atk on absolutism+church+aristocracy
+   - Theory to practice with FrRev
+   - Inspired by england changes 
+   - USrev inspires frenchrev, inspired by washington thru lafayette 
+ - ppl cant vote to remove own rights
+ - Expanded further(incl slaves etc)
+ - Kant 
+   - Rants about absolute monarchy+ppl not thinking for themselves 
+   - Humans can easily not worry about things, wants people to become enlightened(immaturity)
+   - Very much coming from SciRev
+   - Test for morality(kants categorical imperitive - is thing applicable universally)
+   - *application of rationalism in public*
+ - Backlash from countering christianity 
+   - Inquisitions in certian countries, only if declared heresy 
+   - Heresy only if offer a different view, not just criticism
+   - Church has lost a lot of power to political authorities, political authorities care more 
+   - Censor voltaire w/ absolutism power 
+   - Kings dont want to give authority to religious leaders to prosecute 
+ - Condemning torture (bicaria)
+   - Not trusting torture testimony 
+   - If found not guilty, is violation of his rights 
+   - Surving torture becomes essence of innocence(inhumane and impractical)
+   - If violate law to prosecute law, is inconsistent and unreasonable 
+ - Reasseau(social contract) and locke similar
+   - Applies lockes natural rights to civil rights, right to defend rights, replace that right by governments which protect rights 
+   - General will(common good, find from individually thinking about common good selflessness), diff from will of all(will of majority)
+   - "tyrrany of the majority"
+## Enlightenment ideas 
+ - Intelectual mvmnt centering on rationalism
+ - Humans can use their skills to understand the world 
+ - Not fundamentally contrasted with religion, but has bad implications 
+ - Not just limiting to viewing humans+natural world, apply to society as well(history, law, politics, social structure)
+ - Voltaire: As long as people are aware of enlightenment stuff, is all good with monarchy etc etc(desire for stability)
+ - When goals toward stability applied in FrRev creates a lot of conflict 
+ - Spread of mentality/knowledge/books popularization of science
+ - Skepticism - Pierre Bayle vs Religion(superstician, intolerance, dogmatism(following rule blindly))
+   - Questioning laws
+   - Ask Why
+   - This is where deism comes from 
+   - Many dont go as far as frenh revolution w/ atheism
+ - Cooks travels - awareness of other cultures, morality of places are diff, not nessecarily immoral 
+ - Racial theories 
+   - Polygenesis - various types of humans 
+   - Monogenesis - one type with levels
+   - All stratified by culture and race
