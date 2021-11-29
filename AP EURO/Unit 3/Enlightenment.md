@@ -71,3 +71,33 @@ Nov 22 2021
    - Polygenesis - various types of humans 
    - Monogenesis - one type with levels
    - All stratified by culture and race
+## Enlightended despots(rulers)
+ - Catherine II 
+ - Fredrick the great 
+ - Joseph II 
+ - Want to make reforms with enlightened ideas  
+   - Codefied laws, less tortrue+punishment
+   - Ending serfdom(Lords(prussia=junkers) get angry)
+  
+## Econ
+ - Physiocrats vs Smith 
+   - Both against mercantalism(smith believes in natural rights to labor, free market w/ natural laws of econ)
+     - Anything that interrupts supply or demand(preference or restraint) undermines natural econ
+     - Freedom of labor and capital
+     - Bounded by laws of justice
+     - Mercantilism seeks to get STATE more BULLION, smith views it more individually freedom and sees mercantalism as counter to this 
+   - Physiocrats: Francois quesnay land as source of wealth over money(coinage)
+     - More tangible ideas 
+     - More stability/less favorable to shifting things
+     - Land forms backbone of countrys economy
+   - Smith: Lassiez faire, Labor theory of wealth, dosent like guilds
+     - Focuses more on freedom of labor 
+     - Capital and Labor form backbone of countrys economy
+     - Wants least amount of government as possible to susutain free market 
+   - Freedom to persue economic interest
+   - Both want single tax on land(previously french noble and church land not taxed)(only third estate+pesants taxed)
+   - Land vs not land
+## Music
+ - Bach, Handel = Baroque(early enlightenment)
+ - Mozart = Classical, more flourishing/less structured than baroque 
+   - Works for joseph II, wants to change things while maintaining authority(like all)
