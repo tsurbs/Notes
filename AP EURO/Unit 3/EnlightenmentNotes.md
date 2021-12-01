@@ -201,4 +201,144 @@ Nov 29 2021
    - Concerto, sympohny, opera mastered by mozart - Child prodigy unable to find patron, died at 35 debt ridden, wrote 3 of the greatest operas ever, even to haydn 
 
 ### The development of the Novel 
- - 
+ - Grew from mideavel romances, mainly by english; enjoyed and written more by women than in the past 
+ - Samuel Richardson wrote sentimental fiction novel about virtue 
+ - Henry Fielding wrote abt ppl surviving by their wits(tom sawyer vibes)
+   - Represented english society in various places, demonstrating hypocrisy 
+
+### The Writing of History 
+ - Elimination of god in history, concentrate on events and causal relaionships(humanist vibes but further extent)
+ - Broadened scope of history from just politics to econ+soc+intellect+cultural dev 
+   - Depict totality of past human expirence
+ - Weakness was from precocupation as philosophes, seeking to entertain 
+   - History had role in their vision of reforming society
+   - Made them less sympathetic to middle ages 
+   - Often Hostile to religion like in Gibbon's *Decline and Fall of the Roman Empire*
+   - Pervasive optimism about being able to avoid similar fate 
+
+## High Culture of the 18thC 
+ - High Culture vs Popular Culture
+ - High Culture - educated and wealthy 
+   - Literary and artistic 
+   - Mix of theologians/scientists/philosophers/poets/etc
+   - More people able to read, More books being published 
+     - Expanded to middle classes+women+urban artisans
+     - Publishing houses enabled independence of authors from patrons 
+ - Popular culture - Commoners 
+   - Unwritten oral lore 
+   - Magazines - Great britain sees big growth 
+     - Spectator seeks to popularize philosophy by instructing and entertaining 
+     - Appeals to female audience, female spectator edited by female 
+   - Daily newspapers - Daily, cheap, free in coffeehouses 
+   - Books circulated via libraries 
+
+### Education and universities
+ - More schools across europe - tended to be elitist 
+ - Perpetuated class hierarchy 
+ - Philosophes advocate for education keeping ppl in own social class 
+ - Still largely humanist, ignoring math+science+languages 
+ - New schools with broader education brought by middle class ppl wanting sons to have practical education 
+   - German *realschule* in berlin - Languages, geography, bookkeeping 
+   - Similar schools for upperclass girls - religion+domesticity 
+ - Common criticism of universities was too much aristotle and not enuf math and science, by end of 18thC new maths and sciences taught in schools 
+
+## Crime and Punishment
+ - Early 18thC, Torture prevalent everywhere but england, Cruel punishments, public executions, weak police(need fear), Death penalty even for property crimes, frced labor, indentured servants to new world 
+ - Beccaria argues for reform 
+   - *On Crimes and Punishments* 
+   - Punishments only as deterrants, not as cruel
+   - Opposed to death penalty, saw ineffetive/less effective than imprisonment, saw hipocritical 
+ - Prisons begin to replace public punishments 
+
+## The world of medicine(hierarchy descending order)
+ - University med. edu. still uses galen until enlightenment 
+   - University of Leiden repl. Padua as foremost med school w/ new teachings, then passed by vienna later 
+   - Graduate needs license before being a practicing physician(england), extremley rare, physicans expensive
+ - Surgeons - Bleed patients and crude surgery 
+   - No anestsia or germ theory 
+   - 1740s create own guilds, train further with corpse dissection+systematic observation 
+   - Surgeons grew closer in prestige to physicians, started seeing patients, needed liscences in england
+ - Others(apothecaries, midwives, faith healers)
+   - Served common people 
+   - Served treatments reccomended by physicians 
+   - Male doctors replace midwives 
+   - Faith healing continued 
+ - Hospitals hurt more than helped(diderot observed, no reform)
+
+## Popular culture 
+ - Collective/public natured actions 
+ - Festival - Local saint festivals, christmas/easter, carnival(sp, Italy, Fr, Germ, Austr)(Right before lent)
+ - Excessive eating, drinking, celebration 
+ - Rest of year was unrelieved work 
+ - Taverns
+   - Coffeehouses of the commoners 
+   - Alchohol dangerously cheap, increasing consumption, restricted sales 1750s 
+   - Rich drank too, just not ill-percieved 
+ - Separation of popular cultrure from High culture increasing from earlier time 
+   - Nobility, clergy, bourgeoisie left popular culture to lower classes 
+   - Viewed popular culture as for those of weak judgement and reason 
+ - Popular literature 
+   - Mostly oral stories, but als o chapbooks 
+   - Brocures sold by peddlers to lower classes
+   - City commoners increasingly literate, esp male artisans and workers 
+   - Pesants remain illterate(large % of pop)
+   - Literacy \propto primary education 
+   - Catholic europe, education largely local 
+   - Protestant emphasis on reading bible emerges universal primary schools, hindered by upperclass attitudes 
+# Religion and the Churches 
+ - Much great art+music was relgious despite largely secular thought 
+ - Even those critical of the church accepted its nessecitity for functioning society 
+
+## The Institutional Church 
+ - Established churches basically upheld societal norms/structure 
+ - Change via new state policies, no dramatic internal change 
+
+### Church-State Relations
+ - Protestant reformation solved problem of church+State relationship by state leading church(Anglicanisn=england, Lutheranism=scandanavia, etc etc etc)
+ - Catholic church 1700 has much power where it still is, wealth in spain 
+   - Still hierarchy, upper hierarchy ppl are upper class 
+ - 18thC, many catholic state govs want more control, nationalized catholic church by controlling papacy and jesuits(who had dev. significant politic influence)
+   - Jesuits have a lot of enemies, destroyed by portugese monarch in paraguay, similar in fr and spain 
+   - 1773 fr+sp get jesuits dissolved 
+   - Papacy then only has minor role in international affairs 
+
+### Toleration and Religious Minoriies 
+ - Philosophes want toleration 
+ - Had started in some places out of politic necessity, still distasteful
+   - Louis XIV relim all toleration 
+   - Many rulers believe only one path of salvation, was duty to subjects to enforce religion 
+   - NOT 
+     - Joseph II of austria(*Toleration patent of 1781*)
+     - Grants litherans/Calvinists/Greek orthodox right to worship privately, equal under the law 
+   - Dutch republic was supposed to be tolerant per Union of Utrecht(1579), Dutch reformed church(Calvinist) treated other relgions as 2nd class, Enlightenment thinker debates make dutch declare separation of church and state, equality among christians+jews get rights 
+
+### Toleration and Jews 
+ - Jews remain despised NOT IN POLAND(they were tolerant)
+   - Ashkenazic Jews(most common, east. euro) Restricted in movements, unable to own land or hold jobs, have to pay more taxes, Antisemitic outbursts(pogoms) killed many, made life unstable 
+   - Sephardic Jews expelled from spain migrate to turkish lands or stay in various cities where practice finances as had since middle ages 
+     - Successful ones provide services to rulers(court jews)
+ - Some philosophes encourages new toleration of jews bc natural rights 
+   - Many still express distaste for jewish customs (Diderot)
+   - Many favor mandatory conversion 
+   - Joseph II's toleration patent limited, no worship in public or land buying, encouraged assimilation 
+
+## Popular religion in the 18thC 
+ - Catholic Piety 
+   - Catholic perish still central to community 
+   - 90-95% of pop went to mass on easter sunday 
+   - Much devotion to saints/pilgrimages/relics/etc, clergymen felt was supersticion more than piety 
+   - Many fear witches still 
+ - Protestant revivialsm: Pietism 
+   - Protestant fervor settled down into state run churches 
+   - As some move to more rational/less religious, some move othedirection w/ pietism 
+   - Ziezendorf + Moravians focus on expirence of god in ones life 
+   - Opposed to rational view of orthodox lutherans 
+   - Similar desire in england bc not much variation after groups settled after revolution 
+ - John Wesley and Methodism 
+   - Wesley = ordained anglican minister 
+   - Felt didnt trust christ alone for salvation, asked christ who said he was chillin("gift of gods grace")
+   - Criticized by anglican church as supersticion
+   - Preached to lower classes(often neglected by elitist anglicans) in fields 
+     - Provoked emotional+violent responses 
+     - Created methodist societies to aid each other in doing good works wesley was proponet of 
+     - 
