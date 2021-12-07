@@ -175,3 +175,5 @@ Nov 22 2021
  - Bach, Handel = Baroque(early enlightenment)
  - Mozart = Classical, more flourishing/less structured than baroque 
    - Works for joseph II, wants to change things while maintaining authority(like all)
+
+$$\gt$$

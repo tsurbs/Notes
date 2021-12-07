@@ -56,7 +56,7 @@ Nov 29 2021
    - Some get around it w/ pseudonyms or abroad esp in holland or double-meaning or published secretly 
  - Often disagree despite sharing similar base 
 
-### Montesquieu
+### Montesquieu - Gov
  - Frech nobility into classical education to be a lawyer 
  - Wrote from perspective of outsiders in *Persian Letters*, criticizing France 
  - Denounced Slavery, advocated for RElig. toleration, Atk on traditional religion 
@@ -64,7 +64,10 @@ Nov 29 2021
    - Distinguished governments: REpublics(Small participatory), Monarchy(King), Despotism(Large enpires using fear for obedience)
    - Englad as Monarchy, but liked its limits with checks and balances, read by many americans too after translated into english 
 
-### Voltaire and the Enlightnement 
+### Voltaire(critic) and the Enlightnement 
+ - Humanitarian edge 
+ - Critic/skeptic of religion - criticisms are humanitarian
+ - Meeting qith catherine the great+frederick mutually beneficial a
  - MidClass, Jesuit classical education, studied law, wished to be a writer, acheived success as a playwright 
  - Well-liked by paris intellecturals but forced to flee to england bc disupte with nobleman 
  - Impressed by england, political/religious/press freedoms 
@@ -140,7 +143,8 @@ Nov 29 2021
        - General will cannot be delegated to a parliment; must be agreed upon by everybody(lofty/unactionable)
    - *Emilie* - Novel on education
      - Education to foster childs natural instincts - fits with rousseaus early life 
-     - Balance between sentiment and reason - Sentiment guides reason????
+     - Balance between sentiment and reason - Sentiment guides Reason
+     - Answers why arent ppl as rational - not everyone is rational all the time(patriarchal view of women)
      - ^^ Precursor to Romanticism 
    - Viewed woman fundamentally diff from men
 
@@ -231,6 +235,7 @@ Nov 29 2021
      - Appeals to female audience, female spectator edited by female 
    - Daily newspapers - Daily, cheap, free in coffeehouses 
    - Books circulated via libraries 
+ - Some crossover with music, theatre, enligthenment ideas seep into popculture with literacy stuff
 
 ### Education and universities
  - More schools across europe - tended to be elitist 
@@ -248,6 +253,7 @@ Nov 29 2021
    - *On Crimes and Punishments* 
    - Punishments only as deterrants, not as cruel
    - Opposed to death penalty, saw ineffetive/less effective than imprisonment, saw hipocritical 
+ - Not as much real change - seek to influence by spreading ideas, happens in frRev, then go back on it 
  - Prisons begin to replace public punishments 
 
 ## The world of medicine(hierarchy descending order)
