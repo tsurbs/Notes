@@ -146,7 +146,7 @@ Dec 12 2021
  - The Catholic Church 
    - Lands of curch ere confiscated for money 
    - New money loaned with church land as collatoral 
-   - Church was secularized(Civil constitution of the clergy - clergy elected by the people)
+   - Church was secularized(Civil constitution of the clergy(ccc) - clergy elected by the people)
    - Pope forbade pledging alliegance to civil constitution, only ~50% of local clergy did and most bishops refused 
    - Makes catholic church an enemy of the revolution(blunder)
    - Counterrevolution uses this as a basis 

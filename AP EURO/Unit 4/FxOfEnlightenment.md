@@ -6,18 +6,32 @@ Dec 07 2021
 
 ## Perry 
  - Young - conditions in fr 
+   - Complainong about taxes going to the king 
+   - Specifically dosent like taxes for pesants bc makes them not able to work 
  - **Sieyes** - first estate member concerned abt third estate
    - Estates general meets for first time in 180yrs, how to structure this meeting 
    - Third estate asserts more, some form national assembly  
  - Decl. of the Rights of Man and Citizen - inspired by declaration+US const
  - de Gouges - Decl rights of women+female citizen 
+   - Grew up in working class - self educated 
+   - Moderate stage of the revolution - natl assem 
+   - 
  - Society of the Friends of Blacks - Universality of human rights(haiti)
+   - 
  - Petition of the jews - Universality of human rights
+   - Seek rights 
+   - Praisian jews 
  - Robsespierre - lead committe of public safety during reign of terror 
  - Turreau - put down revs against gov fr 
+   - Rev gen n vendilles, terrible thngs done to counter rev ppl 
+   - Almos always guilty 
+   - Underreporting of deaths/killings 
  - District of SaintQuentin - remove christian symbols 
  - Boneparte 
  - de Stael - critique of napolean 
+ - REpublic of virtue
+   - Statment of political theory - help defend democracy 
+   - Justification of use of terror to have virtious republic 
 ## Read 2ndary source 
  - the first one
  - The aincen regime(absolutism ideas under all the states in frrev)
@@ -161,7 +175,11 @@ Dec 07 2021
    - Representatives inc ity govs(paris commune) is very radical 
  - ADD SEGUR LAW:LIMIT NEW NOBLES of the sword to 4th generation nobles TO OTHER DOC 
  - parlæ'ements(most powerful in paris) register royal edicts, power removed by louis 15th, 16th brings it back, 1st and second state approve new taxes on themselves only exchange for meeting of estates general(1st aristocratic stage) 
- - 
+
+## Term usage
+ - Radical stage - start using citizen over monseuir, madame, etc  - everybody is called citizen 
+ - King is king of french not of france
+ - Increases nationalism 
 ## Conflicts/Preexisting conditions 
  - Social and econ similarities btw parts of each estate 
    - Is this actually bougie fighting nobility 
@@ -208,3 +226,24 @@ Dec 07 2021
    - Pattern of lower class violence drive more radical changes 
    - The great Fear- peasnt atacks on the nobles and feudal system /privileges(bread and rights )
    - Declaration or the rights of man and citicen combine with removal of priveledges
+
+## Napoleon
+ - Lotta territories 
+ - Either directly controlled or has forced allies 
+ - Forced allies retain identity as what they are
+ - Direct, places family on crown(brothers king of westphalia and spain)
+ - Controls from border of russia to the east->italy->central europe->sp+portugal 
+ - Treaty of tilcet - w/ russians to establish control 
+ - Only remaining enemy is britan 
+ - Spainish colonies do revolutions bc france cant control 
+ - Cut off trade btw europe and britan bc cant atk directly 
+ - Battles in medeteranian - trafalger french fleet defeated, french navy not as strong as british 
+ - Britan trade important to europe, lotsa pushback to blockade 
+ - Spainish rebellions - french have to put up more troops, british aid rebellions
+ - Russians destroy farm land(scorched earth) in russia as retreating so french has no use for them 
+ - Russian winter makes french retreat bc cold and starving 
+ - Pay debt with stuff from conquered territory 
+   - This + Assertion of french/napoleonic ideas 
+   - spurs nationalism
+ - Last coalition is forced allies teaming up w/ britan+russia 
+ - 
