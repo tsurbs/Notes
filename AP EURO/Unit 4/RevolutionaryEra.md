@@ -64,4 +64,257 @@ Dec 12 2021
        - Sought security w/ purchase of land 
        - Mad abt being excluded from upper class priveledges 
        - Vast variance within bougie in well-off-ness 
-       - 
+       - Similarity btw upper bougie and 2nd estate, could join w/ robe
+       - Enlightenment appeals to intersection of classes as well, opposed to old order of estates 
+       - Split over extent 
+
+### Other problems facing the monarchy 
+ - Periodic econ crises 
+   - Bad harvests 1787-88, start of manufacturing depression 
+   - Food shortages, rising prices for nessecities, unemployment 
+   - Too many poor ppl 
+ - Ideas of the philosophes
+   - Criticism of old order 
+   - philosophes didnt directly advocate for revolution
+   - Ideas used to justify revolution 
+   - Ideas widespread among literate bourgeois of fr 
+ - Failure to make reforms 
+   - French parliments resist reform 
+   - 13 law courts can block royal decrees, after louis XIV they were out of control 
+     - Justify by claiming to protect liberty 
+     - Pushed own interests by blocking taxes 
+ - Financial Crisis 
+   - 1778-87 depression bc lose overseas markets and overproduce 
+   - Prices fall, but peasants pay more for rent bc inc populaiton 
+   - Bad harvests 88-89 raise wheat and rye prices 
+   - Gov short on money bc wars+royal extravagance 
+     - Borrowed money, had high interest rates bc no central bank 
+     - Lenders refused to lend more 
+   - Charles de Calonne(head finance guy) proposed revamping of state 
+     - "Assembley of notables" to approve, ppl refuse to cooperate, gov abt to collapse, calls estates general 
+     - Admitting that consent of nation required to raise taxes setof
+
+## The French Revolution 
+ - Monarchy wanted quick fix no reform 
+### Creation of the National Assembly 
+ - Third estate got double representation (3/2/1:600:300:300)
+   - 2/3 have legal training 
+   - 3/4 from urban areas 
+ - Nobility were 1/2 young and 1/3 liberal 
+ - Activists usually young, urban, hostile to privilege 
+ - *Cahier De Dolences* - Local grievances 
+ - Debate over voting - By order or by head 
+   - Parlement de paris says by order as done in 1614(each order has veto power) 
+   - Patriots/Reformers($\in$ bougie+nobles)(incl society of thirty) advocate for head
+ - The national Assembly 
+   - W/ head voting, third estate would have a lot of power 
+   - Most delegates still want to make changes wrt king(literally)
+   - First estate vote for by order, Third estate declares itself a National Assembly, creates constitution(tennis court oath)(june 17+20th)
+   - Louis threatens to dissolve estates general+use force 
+ - Intervention of the Common Ppl 
+ - Uprisings in 1789 saved third estate from king
+   - Rose in name of third estate + against rich 
+   - Fall of the bastille(bastille day)
+     - King increase public forces, inflames tension 
+     - Form Permanent Committee, needed arms, sought to capture armory of invalides and bastille
+     - Commander at bastille tried to negotiate, refused to use force, surrendered 
+     - Paris abandoned to insurgents, Louis XVI gives up control basically 
+     - Louis appoints lafayette to lead new citizens militia(national guard)
+   - Popular revolutions in Nantes, rurally w/ peasents, others as well 
+ - Peasant rebellions and the great Fear 
+   - Frustration w/ peasant system, success of third estate encourage peasant rebellions(july-early august)
+   - Many believe king supports them 
+ - Great Fear 
+   - Panic in Fr in late july-early august 
+   - Effects national Assembly in Versailles 
+
+### Destruction of the Old REgime 
+ - National asembly destroys feudal remnants and aristocratic priveleges 
+   - Either as matter of philosophy or practicality 
+ - DEclaration of the rigts of man and the citizen 
+   - Idealogical foundation for actions 
+   - Took from DecInd+State Constitutions 
+   - Affirmed Lockean rights, universal taxation, Talent Public office 
+   - Restricted monarchy, participatory democracy 
+   - Ambiguious with women, Rights of Women and the Female citizen by Olympe de Gouges, National Assembly ignores this 
+ - The Womens March to versailles (october 5)
+ - Louis remained inactive at versailles 
+   - Refused to do the things with feudalism+Rights, canged his mind when parasian women march to versailles 
+   - Demanded bread 
+   - Louis promises them bread
+   - Along with national guard, women demand louis return to paris
+ - The Catholic Church 
+   - Lands of curch ere confiscated for money 
+   - New money loaned with church land as collatoral 
+   - Church was secularized(Civil constitution of the clergy - clergy elected by the people)
+   - Pope forbade pledging alliegance to civil constitution, only ~50% of local clergy did and most bishops refused 
+   - Makes catholic church an enemy of the revolution(blunder)
+   - Counterrevolution uses this as a basis 
+ - A New Constitution 
+   - 1791 New constitution
+   - Monarch with limited power
+   - Legislative assembly repl every 2 yrs, 745 representatives chosen by affluent society 
+     - Men over 25 paying taxes 3x a daily unskilled laborer can vote("active citizens", ~4.3mil) 
+     - ^vote for electors(10xunskilled labor $)
+     - ^vote for deputies(54x --)
+   - Admin. restructuring, 83 departments(provinces) w/ similar size+population 
+     - Depts divided into districts into communes
+     - Supervised by elected officials - usually bougie(lawyers)
+   - Opposition from within 
+     - religion stuff 
+     - lower classes hurt by inc living costs w/ inflation bc church land confiscated 
+     - peasants remaining opposed to non-amandoned restrictions 
+     - Political clubs with more radical ideas
+       - Grew out of coffeehouses+etc 
+       - Famous is Jacobins - occupy former jacobin convent 
+       - Jacoin clubs as discussion groups in provinces 
+       - Join together as correspondence network, >900 clubs centered around paris 
+       - Members usually elites 
+     - Louis XIV betrays trust of new gov by trying to flee, almost made it
+     - Legislative Assembly had first meeting to decide what to do
+       - Mostly lawyers, very few aristocrats 
+       - King trys to work with them, fails due to opposition from abroad 
+   - Opposition From abroad 
+     - Most ultra-royalists had left counrty including louis family 
+     - October 1791, Legislative assem order royals back to france
+     - Louis veto ^ 
+     - Empereror Leopold II(austria) and Frederick William II(prussia) issue decl. of Pillnitz calling on other countries to inc power of Fr monarchy 
+       - Many monarchs support french fleeing royals 
+       - Legislative assembly demands HRE expels all fleeing royals 
+       - ^ refused, legis. assem decl. war 
+         - Many ppl want war to cool off revolution 
+         - Many ppl want war to go back to old regime 
+         - Leftists hope war would consolidate revolution and spread it
+       - Fr lose initial fighting, LegisAssem calls for Guardsmen from provinces to defend paris 
+       - Search for scapegoats in face of inpending invasion 
+       - Coupled w/ econ shortages, renewed political demonstrations vs king ensue 
+       - Radical parisian groups mob attack royal palace and legisAssem, take king captive, force legisAssem to suspend monarchy and call for national convention on basis of male suffrage 
+       - Power to form assem goes to paris commune - **Sans Coulettes**
+
+### The Radical Revolution
+ - Paris commune lead by new minister of justice 
+ - Want Revenge on ppl who aided king, resisted popular will  
+ - Urgency created by imminent prussian invasion, fears of treachery 
+ - Thousands of presumed traitors massacred - ordinary ppl executing neighbors in prison 
+ - National convention called into session sept'92, called to draft Constitution while acting as a ruling body 
+   - Dominated by lawyers, professionals, property owners, some artisans 
+   - Mostly young, all have politic expirence in revolution 
+   - Most distrustful of king
+   - First step is abolish monarchy, est republic
+   - Nothing else could agreee on, many factions 
+   - Girondins and the Mountain main factions, both jacobian
+ - Domestic Crises 
+   - Girondins fear radical mobs in paris 
+     - Represent primarily provinces 
+     - Want to keep king alive to hedge future eventualities 
+   - Mountain was interests of paris 
+     - Strength by radical+populus, mostly made up of midClass 
+     - Won vote of treason for king 
+     - King executed 1793, old regime destroyed 
+   - Paris gov controlled by commune
+     - Very aware of being elected by sans-coulettes 
+     - Organize arresting of Girondins - leave mountain in control 
+   - Authroity of National convention not strong in western france 
+     - Vendee department(province) has peasants revolting vs draft 
+     - Eventually fullscale counterrevolution - long live king+priests
+     - Some major cities(lyons+marseiles broke from central authority)
+       - Favored decentralized republic free from parasian center
+       - Did not favor breaking up republic, just making more republican, free from parasian bloodshed 
+  - Foreign crises 
+    - After execution of louis, Austria, Prussia, Spain, Portugal, Britain, Dutch informal alliance pitted vs france 
+    - Initial success makes france welcom conflict "they threaten you with kings" 
+    - French armies overextended, invasion imminent, if succeed old regieme would reign 
+    - How fix
+    - Curb anarchy +counterrev w/ Committee of piblic saftey getting extreme powers 
+      - Members reelected for a year, important is robespierre(small lawyer move to paris as member of estates-gen, dedicated to helping ppl in the abstract)
+      - Provide leadership thru stuff as well as things(txtbook does not explain I believe they did mass executions tho)
+  - A nation in arms 
+    - CPS(committee publi saftey) declare universal mobilization of the nation(aug'93)
+    - 1.169 million people in the army - larges euro army ever 
+    - Increases nationalism - war fought BY THE PEOPLE 
+    - More ferocious/less restrained war 
+   - CPS+Reign of terror 
+     - Courts to "protect republic from internal enemies"
+     - Defined as showind ^ in writings, conduct, contacts, words or having not recently manifiested attachment to revolution 
+     - Victims from the queen to former revolutionary ppl(olympe de gouges(DeclRightsWomen))
+     - Denied rights to defend themselves(thx robespierre)
+     - 16k ppl in 9 months chop chop head basket *why dont you take it out and ask it*
+     - Bulk of executions during the vendee and in lyons and marseilles(open rebellion vs National convention)
+     - Military force Brings ^ cities under control - Marseilles in aug, lyons starving+surrendered in october - lyons made an example of, many many executions 
+       - Guillotine too slow, grapeshot and cannons used 
+     - Terror most destructive in Vendee(region w/ pesants rebelling)(42% deaths) 
+     - Little class prejudice(percentages align with overall)
+     - CPS had executions as temporary until war was over, then return to "republic of virtue"
+     - CPS explained such activity as "whatever is outside the soverign is an enemy"
+   - REpublic of virtue 
+     - CPS steps to create new republican order 
+     - Sending "representatives on a mission" - agents of central government to all departments(provinces) to explain war emergency measures  
+     - Econ controls to aid radical working class; system to get food for cities w/ armies going into countryside 
+     - Law of the general maximum declares maximum prices on nessecity goods(didnt work well bc not enforced well)
+   - Role of women 
+     - Spectators adt revolutionary clubs, national convention 
+     - Not afraid to make ppl aware of their demands 
+     - Womenappeal to national commission for lower bread prices, convention adjourns - leaning into typical role of women?!?!??!!!WHEN DOES THIS CHANGE IF EVER PLZ I MUST KNOW WHYYYY I DONT THINK IT HAS RIPPPPPPP
+     - **Society for Revolutionary Republican Women** - "family of sisters", "rush to defense of fatherland" 
+     - Male revolutionaries disdainful to women role 
+   - Dechristianization and the New Calendar 
+     - REmoval of christian verbage from society 
+     - Saint removed from street names, churches pillaged, Notre Dame = Temple of reason
+     - Created more enemies than friends 
+     - New Republican calendar 
+       - Time began when the french republic was proclaimed 
+       - Declared in year 11 
+       - Each month had 3x10 day weeks, elim sunday and sunday worships 
+       - Religious holidays to be repl by revolutionary holidays 
+       - 5 days left over form (half)week of celebration 
+       - Number of holdays reduced from 56 to 32 
+       - Months renamed around seasons, temp, agriculture  
+     - Calendar faced intense opposition 
+     - Journalists commanded to use republican dates 
+     - Napolean would abandon it years later(1806) 
+   - Equality and Slvery 
+     - What to do about slavery - "Friends of the Blacks" advocated for abolition of slavery, happened in sep'91 
+     - French planters in west indies continue to use slaves 
+     - National convention abolish slavery in colonies in 1794 
+     - Haiti had already rebelled - slaves rebel brutally, whites brutally push back, toussaint l'overature son of slaves seizes control of hispanola by 1801 
+     - Napolean reinstates slavery 1802, captures overature, died in a french dungeon, then french soldiers pushed back by slaves, then haiti(West. hispanolia) becomes freeeeeee(1st free state in latin america)
+   - Decline of the CPS 
+     - Law of 14 Frimaire cps seeks centralization of gov, check excesses to rule more efficiently 
+     - Activities of "representatives on mission" and revlutionarly armies scrutinized closely
+     - CPS turns against radical Parasian supporters HOWWW???? HOW WE GET FROM ^^ TO THISWUTTT WHYYY I LIKE THESE PEOPLE PLZ DONT GO AWAY :(((((
+     - Executed leaders of the Paris commune, made it docile 
+     - Alienated their supporters 
+     - CPS REPRESENTS NATIONAL CONVENTION RIGHT???? 
+     - Same time, France was successful vs all of europe(*damn*)
+     - Terror continued because robespierre obsessed over ridding politics of corruption(good one buddy)
+     - Anti-robespierre coalition formed to destroy robespierre before he destroyed them, guillotined him(1794)(hah buddy got chopped poetic justice)
+   - CPS legacy
+     - Nation in arms preserved revolution from foreign countries 
+     - Guillotine, buckshot, barges save revolution from counterrev 
+     - Largely now-condemned use of violence in politics 
+
+### Reaction and the Directory 
+ - Revolutionary fervor gives way to Thermidorean Reaction(named after month)
+ - Terror abated, CPS curtailed, deputies(provinces) protected vs mobs better 
+ - Churches allowed to reopen, Feb'95 decree gives freedom of worship to all cults  
+ - Lassiez faire econ politics(domestically too)
+ - New '95 constitution reflects more conservative republicanism w/o sacrificing ideals of '89 
+ - Avoid dangers of single legis assem w/ lower house(council of 500(init legis)), upper house(council of elders - married or widowed ppl>40yrs) 
+ - Legis ppl elected by ppl w/ good bit of property(30k ppl)
+ - Electors chosen by male taxpayers>21yrs
+ - Executive was 5 directors elected by council of elders 
+ - 2/3 directory??? or is it assem must be chosen from existing national assembly, ppl mad abt this, insurrection in october dispersed by Napoleon 
+ - ^^Last time paris ppl try to impose their wishes on the gov, shows directory heavily reliant on military 
+ - Directory era is materialistic reaction to reign of terror 
+   - Speculators make $$ taking advantage of nations $$ problems 
+   - Elaborate/noble fashions back in style 
+   - Gambling+roulette back in fashion 
+ - Directory has enemies on left and right 
+   - RIght: royalists want restore monarchy 
+   - Left: jacobian hopes revived by econ issues 
+     - Commapse in value of church land money 
+ - More uncetianty created by Econ, wars from CPS days, lotsa military use 
+ - Leads to coup d'etat by Napolean
+
+ - king->estates->national assembley->legislative assem->national convention->CPS->Directory+(2 councils)????
+ - 
