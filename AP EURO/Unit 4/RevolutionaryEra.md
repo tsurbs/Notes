@@ -315,6 +315,7 @@ Dec 12 2021
      - Commapse in value of church land money 
  - More uncetianty created by Econ, wars from CPS days, lotsa military use 
  - Leads to coup d'etat by Napolean
-
+## The Age of Napoleon 
+ - 
  - king->estates->national assembley->legislative assem->national convention->CPS->Directory+(2 councils)????
  - 

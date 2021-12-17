@@ -246,4 +246,13 @@ Dec 07 2021
    - This + Assertion of french/napoleonic ideas 
    - spurs nationalism
  - Last coalition is forced allies teaming up w/ britan+russia 
- - 
+
+## Naitonal Assembley 
+ - 1789 - not so radical, want more free constitutional monarchy, universality of rights/law 
+ - Seizing pope's land, CCC  - rejected by pope and many catholic clergy 
+ - King questionable veto power 
+ - Legal standardization+reforms - napoleonic law code takes this to the extreme 
+ - UNIVERSALITY OF APPLICAITON, APPLIES ALL OVER FRANCE 
+   - Assertion of control by the national gov over all elements of society 
+   - Reduces power of localities, nobles 
+ - Createionof departments removes tolls btw provinces, etc as well 
