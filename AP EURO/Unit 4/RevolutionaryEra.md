@@ -330,6 +330,10 @@ Dec 12 2021
    - Lotsa smuggling 
    - Spainish rebellion vs joseph boneparte(napoleon brother)(5 year british supply rebellion)
    - European nationalism unites against napoleon 
-   - 
+ - Invasion of russia, russia retreats in winter which makes things bad 
+ - Bunch of countries pull their troops together and defeated at battle of nations/leipzig-1813 
+ - Louis XVIII brings back the bourbon monarchy 
+ - Failre of continentalsystem, spain rebellions, failure in russia, then defeats +loss of men and material and wealth before leipzig and waterloo
+   - Rising nationalism and restoration of other monarchies
  - king->estates->national assembley->legislative assem->national convention->CPS->Directory+(2 councils)????
  - w
