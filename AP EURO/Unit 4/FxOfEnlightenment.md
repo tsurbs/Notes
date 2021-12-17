@@ -157,11 +157,16 @@ Dec 07 2021
    - Men not wanting women to be involved in public affairs 
  - Commoners march to versailles, kill guards, king agrees to go to paris where is more suceptible to riots 
    - Sans Coulats(knee pants)
+ - Women involved in clubs+at national convention, but still have no political power 
+ - Robsespierre sounds like machievelli - virtue justifys terror - virtue without terror is not justice 
+   - Other countries opposing, if general is not fully committed(treaty truce retreat), cant be trusted 
  - Vendid - uprising against revolution
  - 1st legislative body - Estates general
  - 2nd - National assembly 
  - 3rd - Legislative assembly 
  - 4th - National convention(radical, is a republic)
+   - Attempt to raise wages and fix them, lower prices and fix prices, goes against economy and capitalism
+   - National workshops eventually gov is supplementing workers wage using taxes  
  - Priests required to pay tax, pope against enlightenment - support pope or revolution 
  - Ending of slavery + haitian revolution 
  - Napoleon happens - emerges out of coup d'etat(seize the state)
@@ -256,3 +261,4 @@ Dec 07 2021
    - Assertion of control by the national gov over all elements of society 
    - Reduces power of localities, nobles 
  - Createionof departments removes tolls btw provinces, etc as well 
+ - 

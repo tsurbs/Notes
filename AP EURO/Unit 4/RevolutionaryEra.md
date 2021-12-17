@@ -317,5 +317,19 @@ Dec 12 2021
  - Leads to coup d'etat by Napolean
 ## The Age of Napoleon 
  - Coded of napolean 
+   - Enlightnement ideas to some extent - reverses a lot of womans rights but retains other things from radical revolution 
+   - Enforces radical revolution stuff using central gov 
+
+### The Fall of napoleon 
+ - First coalition:1791-1796: austria prussia belgium great britain 
+ - 2nd coalition: 1797-1802:(russia added), napoleon protects gov+ emerges 
+ - War resumes 1803, cration of rfrench empire after defeat third coalition 
+   - Treaty of tilcet divides europe btw Fr+Ru 
+   - Napoleon control things w/ satalite states or friends on throne 
+   - Tries to undermine w/ continental system w/ embargo to econ hurt british 
+   - Lotsa smuggling 
+   - Spainish rebellion vs joseph boneparte(napoleon brother)(5 year british supply rebellion)
+   - European nationalism unites against napoleon 
+   - 
  - king->estates->national assembley->legislative assem->national convention->CPS->Directory+(2 councils)????
  - w
