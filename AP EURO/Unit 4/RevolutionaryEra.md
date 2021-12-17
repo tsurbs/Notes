@@ -67,7 +67,10 @@ Dec 12 2021
        - Similarity btw upper bougie and 2nd estate, could join w/ robe
        - Enlightenment appeals to intersection of classes as well, opposed to old order of estates 
        - Split over extent 
-
+### Most important causes 
+ 1. Enlightenment/Upper class discontent:calling of estates general 
+ 2. Grievances of third estate
+ 3. Lower class discontent/Financial Crisis
 ### Other problems facing the monarchy 
  - Periodic econ crises 
    - Bad harvests 1787-88, start of manufacturing depression 
