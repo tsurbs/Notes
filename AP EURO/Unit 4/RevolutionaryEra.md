@@ -316,6 +316,6 @@ Dec 12 2021
  - More uncetianty created by Econ, wars from CPS days, lotsa military use 
  - Leads to coup d'etat by Napolean
 ## The Age of Napoleon 
- - 
+ - Coded of napolean 
  - king->estates->national assembley->legislative assem->national convention->CPS->Directory+(2 councils)????
- - 
+ - w
