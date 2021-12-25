@@ -98,7 +98,7 @@ Dec 07 2021
          - Moderately more humanitarian law code, didnt change much 
          - Has to keep serdfom, expanded it into the new territories 
          - Pugachev(peasant) rebellion makes her like serfdom more 
-       - Joseph 
+       - Joseph*testcommit*
          - Ended serfdom, censorship, limited church power, rights of other religions to practice freely, single law code, public education, 
          - Limited by actual change, esatblished national lang that alienated nongermans
      - Austria(habsburg)
