@@ -46,4 +46,4 @@ Jan 02 2022
    - Loss of american colonies and discontent over electoral system -> criticism of king -> inc in parliment pwr  
    - George avoides disaster by appointing will pitt the younger, supported by all classes+king
    - 
-   - 
+
