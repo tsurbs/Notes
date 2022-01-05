@@ -113,6 +113,7 @@ Dec 12 2021
    - W/ head voting, third estate would have a lot of power 
    - Most delegates still want to make changes wrt king(literally)
    - First estate vote for by order, Third estate declares itself a National Assembly, creates constitution(tennis court oath)(june 17+20th)
+     - jaque louis david paints a bunch of stuff in the frrev lcl denis court oatha dn marat david and napoleon portrait 
    - Louis threatens to dissolve estates general+use force 
  - Intervention of the Common Ppl 
  - Uprisings in 1789 saved third estate from king
@@ -279,8 +280,8 @@ Dec 12 2021
      - What to do about slavery - "Friends of the Blacks" advocated for abolition of slavery, happened in sep'91 
      - French planters in west indies continue to use slaves 
      - National convention abolish slavery in colonies in 1794 
-     - Haiti had already rebelled - slaves rebel brutally, whites brutally push back, toussaint l'overature son of slaves seizes control of hispanola by 1801 
-     - Napolean reinstates slavery 1802, captures overature, died in a french dungeon, then french soldiers pushed back by slaves, then haiti(West. hispanolia) becomes freeeeeee(1st free state in latin america)
+     - Haiti had already rebelled(take advantage of instability of rev) - slaves rebel brutally, whites brutally push back, toussaint l'overature son of slaves seizes control of hispanola by 1801(after 1794 slavery abolished)
+     - Napolean reinstates slavery 1802, captures overature, died in a french dungeon, then french soldiers pushed back by slaves(1804), then haiti(West. hispanolia) becomes freeeeeee(1st free state in latin america)
    - Decline of the CPS 
      - Law of 14 Frimaire cps seeks centralization of gov, check excesses to rule more efficiently 
      - Activities of "representatives on mission" and revlutionarly armies scrutinized closely
@@ -297,7 +298,15 @@ Dec 12 2021
      - Largely now-condemned use of violence in politics 
 
 ### Reaction and the Directory 
- - Revolutionary fervor gives way to Thermidorean Reaction(named after month)
+ - Revolutionary fervor gives way to Thermidorean Reaction(named after month(july))
+   - Spring 1794 more radical stuff established(law of suspects(if suspected of counterrev can be arrested), law of carrieall no lawyer)
+   - Uprisings in vendiee and lyons and marsilles are put down bc have more resources bc wars went well 
+   - conflict between paris commune and national convention
+     - commune attempts to influence w/ sans coulattes(lower class/mob), national guard sent to capture/kill paris commune 
+     - Robespierre denounced by members of national convention, robespierre too popular and no need for terror, found guilty of going vs rev, is executed 
+     - Want to maintain elements(decl rights man and citizen and voting etc etc), realize if only one group holding all the power(national convention) there will be lotsa corruption 
+     - Paris comune supports sans coulatts!!! 
+
  - Terror abated, CPS curtailed, deputies(provinces) protected vs mobs better 
  - Churches allowed to reopen, Feb'95 decree gives freedom of worship to all cults  
  - Lassiez faire econ politics(domestically too)
@@ -307,6 +316,7 @@ Dec 12 2021
  - Electors chosen by male taxpayers>21yrs
  - Executive was 5 directors elected by council of elders 
  - 2/3 directory??? or is it assem must be chosen from existing national assembly, ppl mad abt this, insurrection in october dispersed by Napoleon 
+ - Directory is moderate; both left and right try to oppose it, napoleon stabilizes("whiff of grapeshot")
  - ^^Last time paris ppl try to impose their wishes on the gov, shows directory heavily reliant on military 
  - Directory era is materialistic reaction to reign of terror 
    - Speculators make $$ taking advantage of nations $$ problems 
@@ -318,6 +328,8 @@ Dec 12 2021
      - Commapse in value of church land money 
  - More uncetianty created by Econ, wars from CPS days, lotsa military use 
  - Leads to coup d'etat by Napolean
+ - New constitution 1800 
+ - Plebicite leads to counsul for life 1802, Wmperor in 1804
 ## The Age of Napoleon 
  - Coded of napolean 
    - Enlightnement ideas to some extent - reverses a lot of womans rights but retains other things from radical revolution 
@@ -336,7 +348,17 @@ Dec 12 2021
  - Invasion of russia, russia retreats in winter which makes things bad 
  - Bunch of countries pull their troops together and defeated at battle of nations/leipzig-1813 
  - Louis XVIII brings back the bourbon monarchy 
+ - Major pivot in europe 
+   - Napoleon is he promoting revolution or is he monarchist and if so how
+   - Some attempts to create generational monarchy - agreement with pope and marries into austria - Napoleon II died early(louis 17 vibes)
+     - Promoting enligtenment ideas but is still an empereror 
+     - Allows conservative things(allows emigrees back in)
+     - Code napoleon forced on new areas and puts himself above it 
+   - Even though the rev wasnt nessecarily successful in lasting way, it est. new way of looking at gov 
+   - 18thC so influenced by frRev, reaction against it with more monarchs elsewhere, reaction to reaction, dismantling of old traditions 
+     - HRE entirely dismantled
+     - 1st stage - dev of early modern europe from mideavel  - now more popular more mass of people - industrialization
  - Failre of continentalsystem, spain rebellions, failure in russia, then defeats +loss of men and material and wealth before leipzig and waterloo
    - Rising nationalism and restoration of other monarchies
  - king->estates->national assembley->legislative assem->national convention->CPS->Directory+(2 councils)????
- - w
+OVEREXTENSION THEN PAIN UPON RETRACTION(THERMADORE, NAPOLEON, LEGISLATIVE ASSEMBLEY), CONTRAST W/ NATIONAL ASSEMBLEY AND ARTICLES OF CONFEDERATION(NOT FAR ENOUGH)
