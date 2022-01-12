@@ -235,7 +235,7 @@ Dec 12 2021
   - A nation in arms 
     - CPS(committee publi saftey) declare universal mobilization of the nation(aug'93)
     - 1.169 million people in the army - larges euro army ever 
-    - Increases nationalism - war fought BY THE PEOPLE 
+    - Increases natmionalism - war fought BY THE PEOPLE 
     - More ferocious/less restrained war 
    - CPS+Reign of terror 
      - Courts to "protect republic from internal enemies"

@@ -1,0 +1,108 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, total={7in, 10in}]{geometry}
+\usepackage{pgfplots}
+
+\title{AP Chem Factors Affecting Reaction Rate}
+\author{Theo Urban with Tianna Tout-Puissant}
+\date{December 15 2021}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{float} 
+\usepackage{gensymb}
+\graphicspath{ {./} }
+
+\begin{document}
+
+\maketitle
+
+\section{Background Information}
+$\ $
+
+Reaction rate is the rate at which a chemical reaction occurs. Overall, the reaction rate is determined by the number of effective collisions between molecules. One can think about a chemical reaction in terms of many individual collisions, and whether these collisions are effective at forming a product.  For each effective collision, a specific orientation must be maintained so that the correct charged parts of each molecule face each other. In the overall reaction, the number of effective collisions is the number of collisions that are effective at forming a product, so to increase the reaction rate, one can either increase the raw number of collisions, or increase the percentage of collisions that are effective.  To do the former, one can increase the number of collisions by increasing the number/density of molecules in the system per mL of solvent(concentration) or by increasing the speed with which they move(temperature).  To do the latter, one can increase the percentage of effective collisions by increasing the likelihood that any given collision is effective(using a catalyst).
+
+In this lab the effects of reactant concentration, temperature, and presence of a catalyst on the rate of a reaction are investigated. 
+\section{Data}
+\subsection{Effect of Reactant Concentration on Reaction Rate}
+\begin{table}[H]
+    \begin{center}
+    \begin{tabularx}{400pt}{c|c|c|c|c|c} & Reaction 1 & Reaction 2 & Reaction 3 & Reaction 4 & Reaction 5  \\
+    mL of $KIO_3$ & 5 & 4 & 3 & 2 & 1 \\
+    mL of $H_2O$ & 0 & 1 & 2 & 3 & 4 \\
+    $[KIO_3]$(M)(before combining) & .05 & .04 & .03 & .02 & .01 \\
+    $[KIO_3]$(M)(after combining) & .04 & .03 & .02 & .01 & .007 \\
+    mL of $Na_2S_2O_5$/starch & 2 & 2 & 2 & 2 & 2 \\
+    $[Na_2S_2O_5]$(M)(before combining) & .03 & .03 & .03 & .03 & .03 \\
+    $[Na_2S_2O_5]$(M)(after combining) & .009 & .009 & .009 & .009 & .009 \\
+    Temperature($\degree C$) & 23 & 23 & 23 & 23 & 23 \\
+    Time until Blue color(seconds) & 4.87 & 8.31 & 10.20 & 14.82 & 26.40 \\
+
+    \end{tabularx}
+    \end{center}
+\end{table}
+\textbf{Figure 1}: This table shows the raw and calculated reactant concentration, temperature, and recorded time to react in the set of expirements designed to show the effect of concentration on reaction rate by varying the concentration of one reactant while controlling the other.
+\subsection{Effect of Temerature on Reaction Rate}
+\begin{table}[H]
+    \begin{center}
+    \begin{tabularx}{400pt}{c|c|c|c} & Reaction 1 & Reaction 6 & Reaction 7 \\
+    mL of $KIO_3$ & 5.0 & 5.0 & 5.0 \\
+    mL of $H_2O$ & 0 & 0 & 0 \\
+    $[KIO_3]$(M)(before combining) & .05 & .05 & .05 \\
+    $[KIO_3]$(M)(after combining) & .04 & .04 & .04 \\
+    mL of $Na_2S_2O_5$/starch & 2.0 & 2.0 & 2.0 \\
+    $[Na_2S_2O_5]$(M)(before combining) & .03 & .03 & .03 \\
+    $[Na_2S_2O_5]$(M)(after combining) & .009 & .009 & .009 \\
+    Temperature($\degree C$) & 23 & 74.0 & 1.0\\
+    Time until Blue color(seconds) & 4.87 & 2.2 & 8.4 \\
+
+    \end{tabularx}
+    \end{center}
+\end{table}
+\textbf{Figure 2}: This table shows the raw and calculated reactant concentration, temperature, and recorded time to react in the set of expirements designed to show the effect of temperature on reaction rate by varying the temperature while controlling all other variables.
+\subsection{Effect of Catalyst Presense on Reaction Rate}
+
+\begin{table}[H]
+    \begin{center}
+    \begin{tabularx}{400pt}{c|c|c} & Reaction 5 & Reaction 8\\
+    mL of $KIO_3$ & 1.0 & 1.0 \\
+    mL of $H_2O$ & 4.0 & 3.0 \\
+    mL of $H_2SO_4$ & 0 & 1.0 \\
+    $[KIO_3]$(M)(before combining) & .01 & .01  \\
+    $[KIO_3]$(M)(after combining) & .007 & .007 \\
+    mL of $Na_2S_2O_5$/starch & 2 & 2 \\
+    $[Na_2S_2O_5]$(M)(before combining) & .03 & .03 \\
+    $[Na_2S_2O_5]$(M)(after combining) & .009 & .009 \\
+    Temperature($\degree C$) & 23 & 23 \\
+    Presence of Catalyst(Y/N) & N & Y \\
+    Time until Blue color(seconds) & 26.40 & 3.15 \\
+
+    \end{tabularx}
+    \end{center}
+\end{table}
+\textbf{Figure 3}: This table shows the raw and calculated reactant concentration, temperature, catalyst presence, and recorded time to react in the set of expirements designed to show the effect of temperature on reaction rate by varying the catalyst presence while controlling all other variables.
+$\ $
+\section{Calculations}
+$$M_1V_1 =M_2V_2$$
+$$\frac{M_1V_1}{V_2} = M_2$$
+\subsection{Concentration pre-combining}
+$$\frac{M_{Reactant\ stock\ solution}V_{Stock\ Solution\ Volume}}{V_{Total}} = M_{Reactant}$$
+Ex: Reaction 3 $KIO_3$: 
+$$Volume_{KIO_3} + Volume_{Water} = Volume_{Total\ Solution}$$
+$$3.0mL(Stock\ Solution) + 2.0mL(Water) = 5.0mL(Total\ Solution)$$
+$$\frac{.05(\frac{moles\ KIO_3}{L\ solution})3mL\ KIO_3}{5.0mL\ Total\ Solution} = .03(\frac{moles\ KIO_3}{L\ solution}) $$
+Ex: Reaction 3 $Na_2S_2O_5$: 
+$$Volume_{Na_2S_2O_5} + Volume_{Starch\ Solution} = Volume_{Total\ Solution}$$
+$$10.0mL(Stock\ Solution) + 10.0mL(Starch\ Solution) = 20.0mL(Total\ Solution)$$
+$$\frac{.05(\frac{moles\ Na_2S_2O_5}{L\ solution})10.0mL\ Na_2S_2O_5}{20.0mL\ Total\ Solution} = .03(\frac{moles\ Na_2S_2O_5}{L\ solution}) $$
+\textbf{Note:} It is okay that the mL units and L units are different because the mL units cancel each other out. 
+\subsection{Concentration post-combining}
+$$\frac{M_{Reactant\ 1}V_{Reactant\ 1}}{V_{Combined\ Reactants}} = M_{Reactant\ 1\ post-combination}$$
+$$V_{Reactant\ 1} + V_{Reactant\ 2} = V_{Total}$$
+$$5.0mL(KIO_3\ Solution) + 2.0mL(Na_2S_2O_5/Starch\ Solution) = 7.0mL(Total\ Solution)$$
+Ex: Reaction 3 $KIO_3$: 
+$$\frac{.03(\frac{moles\ KIO_3}{L\ solution})5mL\ Reactant}{7.0mL\ Total\ Solution} = .2(\frac{moles\ KIO_3}{L\ solution}) $$
+
+Ex: Reaction 3 $Na_2S_2O_5$: 
+$$\frac{.03(\frac{moles\ Na_2S_2O_5}{L\ solution})2mL\ Reactant}{7.0mL\ Total\ Solution} = .009(\frac{moles\ Na_2S_2O_5}{L\ solution}) $$
+\textbf{Note:} It is okay that the mL units and L units are different because the mL units cancel each other out. 
+\end{document}
