@@ -434,6 +434,17 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -493,6 +504,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.7)  10 JAN 2022 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.7)  11 JAN 2022 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -322,6 +322,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box61
 \@float@everytoks=\toks38
 \@floatcapt=\box62
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count286
@@ -329,20 +331,20 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 ) (/Users/tsumacpro/Documents/Notes/test.aux)
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -399,101 +401,56 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
- on input line 14.
+ on input line 15.
+
+LaTeX Info: Redefining \celsius on input line 15.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 15.
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 15.
+Package gensymb Info: Using \Omega for \ohm on input line 15.
+
+Package gensymb Warning: Not defining \micro.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 16.
+(Font)              <12> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
+(Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 16.
+(Font)              <6> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 19.
+(Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 19.
+(Font)              <5> on input line 20.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]|\OT1/cmr/m/n/10 Adjusted
+Overfull \hbox (54.68521pt too wide) in alignment at lines 40--40
+[][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]|\OT1/cmr/m/n/10 Volume in
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 54--54
-[][][] 
- []
-
-
-Overfull \hbox (197.6471pt too wide) in paragraph at lines 54--55
-[][] 
- []
-
-
-Overfull \hbox (46.19371pt too wide) in paragraph at lines 83--84
-[][] 
+Underfull \hbox (badness 10000) in alignment at lines 58--58
+[][][][] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
-[]|\OT1/cmr/m/n/10 Temp.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
-[]|\OT1/cmr/m/n/10 Temp.
- []
-
-
-Overfull \hbox (4.07512pt too wide) in paragraph at lines 106--106
-[]|\OT1/cmr/m/n/10 Syringe
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
-\OT1/cmr/m/n/10 Vol-
- []
-
-
-Overfull \hbox (12.2418pt too wide) in paragraph at lines 106--106
-\OT1/cmr/m/n/10 ume(mL)| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
-[]|\OT1/cmr/m/n/10 Saltwater-
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 106--106
-[][][][] 
- []
-
-
-Overfull \hbox (197.6471pt too wide) in paragraph at lines 106--107
-[][] 
- []
-
-
-Overfull \hbox (6.214pt too wide) in paragraph at lines 133--134
-[][] 
+Underfull \hbox (badness 10000) in alignment at lines 79--79
+[][][] 
  []
 
 [2] [3] (/Users/tsumacpro/Documents/Notes/test.aux) ) 
 Here is how much of TeX's memory you used:
- 22543 strings out of 478994
- 597470 string characters out of 5858185
- 1040371 words of memory out of 5000000
- 39696 multiletter control sequences out of 15000+600000
+ 22124 strings out of 478994
+ 584955 string characters out of 5858185
+ 1021371 words of memory out of 5000000
+ 39273 multiletter control sequences out of 15000+600000
  407685 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,19n,103p,1119b,2198s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on /Users/tsumacpro/Documents/Notes/test.pdf (3 pages, 119558 bytes).
+ 102i,9n,103p,1145b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on /Users/tsumacpro/Documents/Notes/test.pdf (3 pages, 121182 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
