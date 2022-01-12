@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1641960114 "/Users/tsumacpro/Documents/Notes/test.tex" "/Users/tsumacpro/Documents/Notes/test.pdf" "test" 1641961201
-  "/Users/tsumacpro/Documents/Notes/test.aux" 1641960114 984 cbb61ca01bd285f8016b0fc61aa5ae74 ""
-  "/Users/tsumacpro/Documents/Notes/test.tex" 1641961201 5597 c4693b9596bafe7e71ce8c88e4470200 ""
+["pdflatex"] 1641962514 "/Users/tsumacpro/Documents/Notes/test.tex" "/Users/tsumacpro/Documents/Notes/test.pdf" "test" 1641962515
+  "/Users/tsumacpro/Documents/Notes/test.aux" 1641962515 984 cbb61ca01bd285f8016b0fc61aa5ae74 ""
+  "/Users/tsumacpro/Documents/Notes/test.tex" 1641962514 6390 ad2ada477c423d1cb607d668696aedfe ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -155,11 +155,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1641609200 2724741 7fe4725ccdfc8f758b6d5bb2d93fa0d9 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "test.aux" 1641960114 984 cbb61ca01bd285f8016b0fc61aa5ae74 "pdflatex"
-  "test.tex" 1641961201 5597 c4693b9596bafe7e71ce8c88e4470200 ""
+  "test.aux" 1641962515 984 cbb61ca01bd285f8016b0fc61aa5ae74 "pdflatex"
+  "test.tex" 1641962514 6390 ad2ada477c423d1cb607d668696aedfe ""
   (generated)
-  "test.log"
   "/Users/tsumacpro/Documents/Notes/test.log"
-  "/Users/tsumacpro/Documents/Notes/test.pdf"
-  "test.pdf"
+  "test.log"
   "test.aux"
+  "test.pdf"
+  "/Users/tsumacpro/Documents/Notes/test.pdf"
