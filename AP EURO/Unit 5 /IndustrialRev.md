@@ -53,6 +53,7 @@ Jan 06 2022
      - Lose autonomy when old monarchs come back 
    - British supports them, merchants who want revolution to happen bc easier trade(mercantalism bad)
    - Munroe doctorine supports, est gran columbia 
+   - Emergence of inc in nationalism w/ britian noncooepration
    - Can be viewed as est balance of power in latin america 
  - Tupac Amarau revolt to establish amerindians not successful 
  - Simon Bolivar and Jose de San Martin: wins at Chacabuco and Ayachucho
