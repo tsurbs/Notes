@@ -26,6 +26,25 @@ Jan 06 2022
    - England believes in rep body
    - Metternich says nope nope nope(even divine right monarchy)
    - America is quite liberal bc no monarchs 
+ - Dont go back to HRE/300 states etc, instead try to divy up 
+ - Balance of power 
+   - 17thC 30yrs war, 18thC cost of war is too large, shorter wars happen(abt land stuff), then back to ideaological wars w/ frrev 
+   - 4 and then 5 great powers decide europe affairs, dosent include smaller powers(italy, etc)
+ - Principle of intervention 
+   - PRevent revolution, changes to borders, changes in countries always seeking to maintain system 
+   - Chronology of events on pg627 
+   - Metternich = conservative austrian foreign minister, Castleras, tallyrands  
+ - Changes to territory (try to weaken france)
+   - Expand netherlands 
+   - create germaman confederation(39 independent states dominated by austria)
+   - Reinforce independent and neutral swidtzeland 
+   - Sardinia given piedmont and savoy 
+   - France return to preerecolution borders 
+   - Russia gets poland
+   - Purssia gets rhine valley(river allowing trade and has cold)
+   - British added strategic ports(gibraltar, expanding en route to india, suez canal eventually)
+   - Italy still dominated by papal states(get more authority in FR by conservatives)
+   - 
 
 ### Conservatism 
  - Burke vs Metchze 
@@ -42,6 +61,12 @@ Jan 06 2022
      - More like metternech 
      - Belief that religion should be dominant force 
      - See enlgihtenment as force of disruption 
+### Ideaology elimination
+ - Can the conservatives make the people change ideaology 
+ - Who are the ministers in france responsible to(king or parliment thingy)
+ - Ideaology of rights etc spread   
+   - Representative gov, etc
+   - By end of century, most changes are not revolutionary but effective and most countries are constitutional monarchies and france is no constitutional 
 
 ### The Latin American Revolutons 
  - Mexican revolution of 1810 succeed in driving out spainish(more lower class support than in rest)
