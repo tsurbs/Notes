@@ -31,13 +31,38 @@ Jan 12 2022
  - Each peak is subshell, height is relative #e-, nrg inc w/ aufbau shortcut
 6. Periodic Trends 
   - Use Shielding and Radius to justify all changes(and shielding to justify radius)
+    - Radius justify by nrg lvl/shell(1-7), shielding 
+    - Electron-electron repulsion also pushes out, but countered strongly within row by inc proton pull
  - Ionization Nrg - Closer = Greater = Harder to pull e- away 
+ - Electronegativity - atom attracting e- to itself 
+ - Electron affinity - nrg for addition of atom(how much it wants an electron)(opp ionization nrg)
  - Metals/Metalloids/Nonmetals ![Periodic Table w/ Classificaitons](./pdTblwClass.png)
 7. Valence e- and Ionic Compounds 
+ - Balance to be neutral 
+ - Cation decreases radius(possible lose shell, dec e-&e- repulsion)
+ - Elements in the same groups tend to form similar compounds bc same ion charges 
 ## Problems 
 
 # Molecular and Ionic Compound Structure and Properties 
 1. Types of Chemical Bonds 
+ - Ionic
+   - Valence e- transferred(Metals+Nonmetals)(LARGE EN diff)
+   - Lattice, hard to melt 
+   - Soluble, conductive in water 
+ - Covalent(shared e-, btw nonmetals, not conductive)
+   - Polar 
+     - e- shared unequally(higher EN in unequal places)
+     - Diff ~.04-1.8
+     - Soluble
+   - NonPolar
+   - Network 
+     - 
+ - Metallic
+   - **Delocalized** Valence e-
+   - Between metals only 
+   - High melting, not soluble, conductive, malleable, ductile
+   - Stronger if atoms can give more e- 
+   - 
 2. Intramolecular Force and Potential Energy 
 3. Structure of Ionic Solids
 4. Structure of Metals and Alloys
