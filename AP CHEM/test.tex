@@ -2,6 +2,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[a4paper, total={7in, 10in}]{geometry}
 \usepackage{pgfplots}
+\usepackage{xcolor, soul}
+
 
 \title{AP Chem Factors Affecting Reaction Rate}
 \author{Theo Urban with Tianna Tout-Puissant}
@@ -29,19 +31,21 @@ In this lab the effects of reactant concentration, temperature, and presence of 
     \begin{tabularx}{400pt}{c|c|c|c|c|c} & Reaction 1 & Reaction 2 & Reaction 3 & Reaction 4 & Reaction 5  \\
     mL of $KIO_3$ & 5 & 4 & 3 & 2 & 1 \\
     mL of $H_2O$ & 0 & 1 & 2 & 3 & 4 \\
-    $[KIO_3]$(M)(before combining) & .05 & .04 & .03 & .02 & .01 \\
+    \hl{$[KIO_3]$(M)(before combining)} & .05 & .04 & .03 & .02 & .01 \\
     $[KIO_3]$(M)(after combining) & .04 & .03 & .02 & .01 & .007 \\
     mL of $Na_2S_2O_5$/starch & 2 & 2 & 2 & 2 & 2 \\
     $[Na_2S_2O_5]$(M)(before combining) & .03 & .03 & .03 & .03 & .03 \\
     $[Na_2S_2O_5]$(M)(after combining) & .009 & .009 & .009 & .009 & .009 \\
     Temperature($\degree C$) & 23 & 23 & 23 & 23 & 23 \\
-    Time until Blue color(seconds) & 4.87 & 8.31 & 10.20 & 14.82 & 26.40 \\
+    \sethlcolor{green}
+    \hl{Time until Blue color(seconds)} & 4.87 & 8.31 & 10.20 & 14.82 & 26.40 \\
+    \sethlcolor{yellow}
 
     \end{tabularx}
     \end{center}
 \end{table}
-\textbf{Figure 1}: This table shows the raw and calculated reactant concentration, temperature, and recorded time to react in the set of expirements designed to show the effect of concentration on reaction rate by varying the concentration of one reactant while controlling the other.
-\subsection{Effect of Temerature on Reaction Rate}
+\textbf{Figure 1}: This table shows the raw and calculated reactant concentration, temperature, and recorded time to react in the set of experiments designed to show the effect of concentration on reaction rate by varying the concentration of one reactant while controlling the other. The independent variable is highlighted in yellow and the dependent variable is highlighted in green, as in future figures.
+\subsection{Effect of Temperature on Reaction Rate}
 \begin{table}[H]
     \begin{center}
     \begin{tabularx}{400pt}{c|c|c|c} & Reaction 1 & Reaction 6 & Reaction 7 \\
@@ -52,34 +56,35 @@ In this lab the effects of reactant concentration, temperature, and presence of 
     mL of $Na_2S_2O_5$/starch & 2.0 & 2.0 & 2.0 \\
     $[Na_2S_2O_5]$(M)(before combining) & .03 & .03 & .03 \\
     $[Na_2S_2O_5]$(M)(after combining) & .009 & .009 & .009 \\
-    Temperature($\degree C$) & 23 & 74.0 & 1.0\\
-    Time until Blue color(seconds) & 4.87 & 2.2 & 8.4 \\
+    \hl{Temperature($\degree C$)} & 23 & 74.0 & 1.0\\
+    \sethlcolor{green}
+    \hl{Time until Blue color(seconds)} & 4.87 & 2.2 & 8.4 \\\sethlcolor{yellow}
 
     \end{tabularx}
     \end{center}
 \end{table}
-\textbf{Figure 2}: This table shows the raw and calculated reactant concentration, temperature, and recorded time to react in the set of expirements designed to show the effect of temperature on reaction rate by varying the temperature while controlling all other variables.
-\subsection{Effect of Catalyst Presense on Reaction Rate}
+\textbf{Figure 2}: This table shows the raw and calculated reactant concentration, temperature, and recorded time to react in the set of experiments designed to show the effect of temperature on reaction rate by varying the temperature while controlling all other variables.
+\subsection{Effect of Catalyst Presence on Reaction Rate}
 
 \begin{table}[H]
     \begin{center}
     \begin{tabularx}{400pt}{c|c|c} & Reaction 5 & Reaction 8\\
     mL of $KIO_3$ & 1.0 & 1.0 \\
     mL of $H_2O$ & 4.0 & 3.0 \\
-    mL of $H_2SO_4$ & 0 & 1.0 \\
+    \hl{mL of $H_2SO_4$} & 0 & 1.0 \\
     $[KIO_3]$(M)(before combining) & .01 & .01  \\
     $[KIO_3]$(M)(after combining) & .007 & .007 \\
     mL of $Na_2S_2O_5$/starch & 2 & 2 \\
     $[Na_2S_2O_5]$(M)(before combining) & .03 & .03 \\
     $[Na_2S_2O_5]$(M)(after combining) & .009 & .009 \\
     Temperature($\degree C$) & 23 & 23 \\
-    Presence of Catalyst(Y/N) & N & Y \\
-    Time until Blue color(seconds) & 26.40 & 3.15 \\
+    \hl{Presence of Catalyst(Y/N)} & N & Y \\
+    \sethlcolor{green}\hl{Time until Blue color(seconds)} & 26.40 & 3.15 \\
 
     \end{tabularx}
     \end{center}
 \end{table}
-\textbf{Figure 3}: This table shows the raw and calculated reactant concentration, temperature, catalyst presence, and recorded time to react in the set of expirements designed to show the effect of temperature on reaction rate by varying the catalyst presence while controlling all other variables.
+\textbf{Figure 3}: This table shows the raw and calculated reactant concentration, temperature, catalyst presence, and recorded time to react in the set of experiments designed to show the effect of temperature on reaction rate by varying the catalyst presence while controlling all other variables.
 $\ $
 \section{Calculations}
 $$M_1V_1 =M_2V_2$$
@@ -105,4 +110,22 @@ $$\frac{.03(\frac{moles\ KIO_3}{L\ solution})5mL\ Reactant}{7.0mL\ Total\ Soluti
 Ex: Reaction 3 $Na_2S_2O_5$: 
 $$\frac{.03(\frac{moles\ Na_2S_2O_5}{L\ solution})2mL\ Reactant}{7.0mL\ Total\ Solution} = .009(\frac{moles\ Na_2S_2O_5}{L\ solution}) $$
 \textbf{Note:} It is okay that the mL units and L units are different because the mL units cancel each other out. 
+\section{Discussion}
+In this lab, the effects of changing concentration, temperature, and catalyst presence on reaction rate were observed. An iodine clock reaction where an iodine ion was produced from potassium iodate after a slow reaction with sodium meta-bisulfate was used to determine reaction rate.  This iodine ion would then quickly react with a starch, turning the resulting solution blue, allowing the length of the reaction to be recorded. This time, in seconds, serves as an analog for reaction rate. Three experiments were set up, each changing only concentration, temperature, or catalyst presence to isolate specific variables. 
+\subsection{Concentration}
+From the time-to-react recorded in these three experiments, the conclusion can be reached that increasing reactant concentration decreases time to react.  This is reflected in Reactions 1-5, where the temperature and catalyst presence are held constant as only the concentration of potassium iodate is changed.  Across these reactions, the concentration of the potassium iodate as a reactant was decreased from .05 Molar in reaction 1 to .01 Molar in Reaction 5 and the time to react steadily increases from 4.87s to 26.40s, reflecting an inverse relationship between Molarity and Reaction Rate. This indicates that the increase in particles with concentration leads to more collisions and thus more effective collisions and a faster reaction rate.
+\subsection{Temperature}
+Likewise, reactions 1, 6, and 7 show an inverse relationship between temperature and reaction rate, with the time-until-blue-color increasing as the temperature decreases. In all of these experiments, the concentration(M) of potassium iodate as a reactant is held at the constant .05M and there is no catalyst present, allowing for direct comparison of reaction rate across temperatures. Reaction 6 is the highest temperature at 74$\degree C$ and accordingly has the fastest reaction rate of the three at 2.2 seconds, while reaction 7 has the lowest temperature(1$\degree C$) and the longest time to react(8.4 seconds).  As one would expect, the reaction with the same concentrations of reactants but at room temperature(23$\degree C$) reacted between these two times, faster than reaction 7 but slower than reaction 6 with a time of 4.87s. This indicates that because the particles are moving faster due to the higher temperature, they collide much more often, leading to more effective collisions and a faster reaction rate.
+\subsection{Catalyst Presence}
+The experiment observing the effect of catalyst presence was performed with Reactions 5 and 8, each with a low(.007M) concentration of $KIO_3$ to better observe the difference in reaction rates with the catalyst present versus not.  In reaction 8, where the catalyst($H_2SO_4$) was present, we see the reaction rate being significantly faster(3.15s) than in reaction 5 with the same concentration of reactants which turned blue in 26.40s. This indicates that the catalyst is lowering the activation energy allowing for more particles to react more easily.
+\subsection{Discussion Questions}
+\begin{enumerate}
+    \item If 2.5mL of water were mixed with 2.5mL of potassium iodate solution, then reacted with 2mL of the Starch/Sodium Meta-bisulfate solution at room temperature with no catalyst, a time-to-react of  around 12 seconds would be reasonable, as it should be between the time to react of reaction 3 and 4, where 3 and 2 mL of $KIO_3$ were used respectively with the appropriate amounts of water and $Na_2S_2O_5$/starch solution to make 7ml of solution total as in the proposed expirement. The concentration of the potassium iodate in the proposed expirement is halfway between its concentration in reactions 2 and 3, so the time-to-react should be roughly halfway between them as well. Reaction 3 happened in 10.20 seconds and reaction 4 happened in 14.82 seconds, so an estimate of around 12 seconds is reasonable as it is near the halfway point.
+    \item At 100$\degree C$ but 5mL of $KIO3$ in 7mL of solution($[KIO_3] = .04$), the time to react should be less than 2.2 seconds.  When an identical expirement was performed but at 74$\degree C$, the time to react was 2.2 seconds, so, continuing with the inverse relationship between temperature and time to react, at 100$\degree C$, the time should be lower(faster reaction rate).
+    \item If the sodium meta-bisulfate's concentration was changed rather than the potassium iodate's concentration, the reaction rate would still increase accordingly.  The effect the concentration has on the reaction rate depends only upon the number of collisions of particles, which is increased regardless of which reactant is increasing in concentration.
+\end{enumerate}
+\subsection{Error analysis}
+By far the largest source of error in this lab is the human error in timing the reactions.  For one, these reactions do not happen instantaneously, so there is some variability in what part of the reaction the timer was stopped at, though it was attempted to stop the reaction as soon as the first blue appeared.  There are also errors in concentration due to imprecision in the drawing of mLs of reactants.
+\section{Conclusion}
+In this lab, the inverse relationship between reaction rate and concentration as well as temperature was proven.  In addition, the effect of a catalyst as speeding up the reaction was proven.  
 \end{document}
