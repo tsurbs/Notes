@@ -120,16 +120,37 @@ Jan 12 2022
 4. Ideal Gas Law 
  - Assumptions of ideal gases - 1.small/hard/insig volume 2.fast, random, straight lines w/ constant speed 3.elastic collisions 4.no IMFs 5.nrg solely based on temp 
  - Pressure - P=Force(particle bounce)/Area(walls of container)
+ - $PV = nRT$
+ - Partial pressures law - total pressure = sum of each gasses's pressures 
+ - Diffision/effusion(Graham's law, effusion rate $\propto \frac{1}{\sqrt{M}})$, applicaiotn of KM theory 
  - 
 5. Kinetic Molecular Theory 
  - $KE = 1/2mv^2$, assumed to have insig potential nrg  
  - $KE\propto Kelvin temp$ 
  - Maxwell boltzmann curves of kinetic nrg averages w/ inc porportion beyond avg temp 
 6. Deviation from Ideal Gas Law 
+ - Break simplifications of ideal gasses - more IMFs
+ - Most ideal at High temp, low pressure, high volume 
 7. Solutions and Mixtures 
+ - Solns - homogeneous mixtures of solute and solvent of any state of matter 
+ - Molarity - Moles/L soln 
+ - Dilutions $M_1V_1 = M_2V_2$
+ - Steps to solvation - Dissolving(chunks), Dissociation(molec sep(ions)), Solvation(Stabilized by solvent interactions)
+ - "Like disolves like"(dont say this say specific type)
+ - Saturated - solvent dissolved max amnt of solute
+ - Filtration - for solids and liquids, dosent work with solutions 
+ - Distillation - burner, evap, etc, sep by boiling point
 8. Representations of Solutions 
+ - Rep w/ charges and such
 9.  Separation of Solutions and Mixtures Chromatography 
+ - Chromatography sep by polarity
+   - Mobile phase, stationary phase
+   - Paper+TLC, move up stationary phase(tlc fancier stationary)
+   - Column chromatography(fancy, move down tube)
 10. Solubility 
+ - Unlimited solubility = miscibile, with very similar IMFs and polarity 
+ - Unsaturated/Saturated/Supersaturated
+ - Solubility rules(Na+, Li+, K, NO3, NH3) all soluble
 11. Spectroscopy and the em Spectrum 
  - Microwaves - Rotate atoms in molec; Infared - Transition e- vibration lvls; UV/Vis - molec nrg lvls; X-rays&>> = Ionization
  - Infared vibration = periodic change of dipole, stronger absorb if stronger polarity 
@@ -147,11 +168,12 @@ Jan 12 2022
 2. Net Ionic Equations 
 3. Representations of Reactions 
 4. Physical and Chemical Changes 
+ - 
 5. Stoichiometry
 6. Introduction to Titration 
 7. Types of Chemical Reactions 
 8. Introduction to Acid-Base Reactions 
-9. Oxidation-Reduction (Redox) Reactions 
+9.  Oxidation-Reduction (Redox) Reactions 
 
 # Kinetics 
 1. Reaction Rates 
