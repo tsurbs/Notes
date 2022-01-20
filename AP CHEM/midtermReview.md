@@ -166,24 +166,60 @@ Jan 12 2022
 # Chemical Reactions 
 1. Introduction for reactions 
 2. Net Ionic Equations 
+ - Ions dissassoc(except insoluble or covalent)
+ - Break into spectator ions and net ionic eq
 3. Representations of Reactions 
+ - w/ the cartoon things w/ charges and ratios and partial bonds etc
 4. Physical and Chemical Changes 
- - 
+ - Physical - No change identity of substance - IMFs - indicator: strength/durability/crystal form/texture
+ - Chemical - Do change identity of substance - Changes in molec bonds - indicator: color/bubble/temp/odor/light/
 5. Stoichiometry
+ - STOICH!!! yay:)
+ - Limiting reagent - find least number of moles+give nessecary answer 
+ - percent yield = Actual yield/theoretical yield x100%
 6. Introduction to Titration 
-7. Types of Chemical Reactions 
+7. Types of Chemical Reactions
+ - Synth, Decomp, Replace, Acid-base(form salt+water), RedOx  
 8. Introduction to Acid-Base Reactions 
+ - Arrhenius Theory - Acids dissociate into H+ ions in water, bases dissassoc OH-
+ - Bronsted-Lowry - Acids donate protons, Bases can accept protons
+ - Conj acid/base - same non-proton component on either side - strong acid->weak base
+ - Polyprotic - multiple Hs, gets weaker after each dissassoc
+ - Amphoteric - acts as acid and base(water)
+ - Neutralization - form salt and water, react in equal amounts
 9.  Oxidation-Reduction (Redox) Reactions 
+ - Charge of element will change 
+ - Can be single-replacement, synthesis, decomp, combustion
+ - Double repl, Acid-base NOT REDOX
+ - Key rules: unbonded elements+diatoms:0; ion:charge; Typically follow #valence; H:+1, except metal:-1; Oxygen: -2 except in peroxide:-1; polyatomions, last element is negative(others >0)
+ - Balance e- too; half reactions; if acidic/basic conditions balance all, then O with H_2O, then H with H_2, if basic add hydroxide once recombine reactions 
+ - 
 
 # Kinetics 
 1. Reaction Rates 
+ - Rate = change in concentration per time
 2. Introduction to Rate Law 
+ - Typicaly reaction slows down over time, rate law is reaction rate over time  
+ - Zero Order - Concentration no fx on rate, First Order - Concentration proportionally impact rate, 2nd order - change concentration squaredly impact rate
 3. Concentration Changes Over Time
+ - ![rate law graphs](./Ratelawgraphs.png)
+ - $Rate = k[A]^x[B]^y...$
 4. Elementary Reactions 
+ - Slow/rate determining step - highest Ea, 
+ - Can use coefficients as order of elementary steps 
+ - Steady state approx(rate1F/1R)
 5. Collision Model
+ - Many many collisions, effective if have I. high enough energy, II. proper orientation 
+ - Modifying these things changes reaction rate(Concentration, Temp, Physical State, Catalyst)
 6. Reaction Energy Profile 
+ - Potential nrg x Reaction progress w/ peaks(act. complexes), troughs(reaction intermediates), start+finish+E_a
 7. Introduction to Reaction Mechanisms 
 8. Reaction Mechanism and Rate Law 
-9. Stead-State Approximation 
+9.  Stead-State Approximation 
 10. Multistep Reaction Energy Profile 
 11. Catalysis 
+ - Decrease activation energy
+ - Homogeneous - samephase 
+ - Heterogeneous - diff phase 
+ - Either bind covalently or with IMFs to reactants 
+ - Arrhenius equation relates temp of reaction to molec collisions 
