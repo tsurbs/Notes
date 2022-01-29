@@ -150,3 +150,6 @@ Jan 06 2022
 
 
  - 1848 metternich out, lets all the european countries be more liberal, have more small conflicts w/ varying sides
+## Intervention in Spain and Italy 
+
+## Russian conservatism, I guess 
