@@ -82,3 +82,7 @@ Jan 06 2022
    - Can be viewed as est balance of power in latin america 
  - Tupac Amarau revolt to establish amerindians not successful 
  - Simon Bolivar and Jose de San Martin: wins at Chacabuco and Ayachucho
+
+## Intervention in Spain and Italy 
+
+## Russian conservatism, I guess 
