@@ -94,14 +94,40 @@ Jan 06 2022
  - Simon Bolivar and Jose de San Martin: wins at Chacabuco and Ayachucho
 
 ## Perry(due mon)
- - edmund vurke(1792) - pre terror
- - metternich 
- - Meizstre(not an optio) - crit enlightemnt (liberalism)
+ - edmund burke(1792) - pre terror
+   - Wants slow change, keeping good tradition 
+ - Metternich 
+   - Blames misguided philosophes for revolution 
+   - Mess up france because of ideaology and technique of sweeping away anything that dosent fit 
+ - Meizstre(not an optio) - crit enlightemnt (liberalism)l
  - popSov(constant)(liberalism)
- - Mill
- - Carlsbad decrees(repression)
- - Trista
- - *de Toquevilleu*()
+ - Mill **READ**
+   - liberty excluding harming others
+ - Karlsbad decrees(repression)
+   - By germans who didnt like liberalism
+   - Wanted to get rid of liberalism in universities
+   - Didnt like free press too
+ - Schurz 
+   - Raised in germany, then american senator 
+   - Idealism/excitement about revolution 
+     - Emerges from educated areas(universities)
+   - Student at time of german revolution, in university, sees downfall of metternich
+ - Flora Tristan
+   - Promoting workers+socialism
+   - Continuation of liberalism
+   - Not econ. liberalism bc socialism might disrupt lassiez-faire econ/disrupt natural forces 
+   - 19th vs 20thC liberalism 
+   - Co-ed Unions, not alive in 1848, but inspired and pushed for revolution 
+   - Wanted to end cycle of domestic
+ - de Tocqueville
+   - De tocqueville is middle class liberal(free market, constitutionalist), not a socialist, points out issues with socialism 
+   - june revolution is socialist//gov needs to be doing more to better the situation of the lower class(outgrowth if industrial revolution )
+   - Dosent want radical socailism w/ national workshops to aid lower class 
+   - Louis Blanc expresses socialism by appealing to workers
+   - Communist manifesto published in 1849(1 year later), marx and engels point out diff goals of the middle and social class, reflect on 1848 failure
+ - Constant 
+   - Feared appeals to liberty because too much power given towards establishing liebrty 
+   - Liberalism, Promoted limited popsov
 
 ## Art time 
  - Less concerned with technical 
