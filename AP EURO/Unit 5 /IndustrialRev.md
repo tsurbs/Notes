@@ -101,6 +101,13 @@ Jan 06 2022
    - Mess up france because of ideaology and technique of sweeping away anything that dosent fit 
  - Meizstre(not an optio) - crit enlightemnt (liberalism)l
  - popSov(constant)(liberalism)
+<<<<<<< HEAD
+ - Mill
+ - Carlsbad decrees(repression)
+ - Trista
+ - *de Toquevilleu*()
+   - French June 1848 workers revolution about upsetting social order, not merely politics 
+=======
  - Mill **READ**
    - liberty excluding harming others
  - Karlsbad decrees(repression)
@@ -128,6 +135,7 @@ Jan 06 2022
  - Constant 
    - Feared appeals to liberty because too much power given towards establishing liebrty 
    - Liberalism, Promoted limited popsov
+>>>>>>> 4b51fe7474cec69b5aa5dd010f7652b9d68f490a
 
 ## Sherman 
  - weiss
@@ -173,6 +181,7 @@ Jan 06 2022
  - Austria dosent want this 
  - What does it mean to be german(german/ruler stratification/religion stratification)
  - "volk-detusche" 
+
 
 ## Spain 
  - Initially retained liberal constitution 1812, removed w/ french support
