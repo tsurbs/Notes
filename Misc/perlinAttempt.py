@@ -1,9 +1,13 @@
 from math import *
+import math
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 from matplotlib import cm
 
+
+seed = 10000
+np.random.seed(seed)
 
 vector = np.dtype([('x', np.float32), ('y', np.float32)])
 gradVectors = np.ndarray(shape=(11, 11), dtype=vector)
@@ -17,28 +21,22 @@ for i in gradVectors:
 x = gradVectors[:,:]["x"]
 y = gradVectors[:,:]["y"]
 
-"""prelimPoints = np.zeros(shape=(1000, 1000))
-print(prelimPoints)
-for i in range(len(prelimPoints)):
-    for j in range(len(prelimPoints[i])): 
-        prelimPoints[i,j] = gradVectors[ceil(i/100), ceil(j/100)]['x']*(ceil(i/100)-i/100) + gradVectors[ceil(i/100), ceil(j/100)]['y']*(ceil(j/100)-j/100)
-        prelimPoints[i,j] += gradVectors[ceil(i/100), floor(j/100)]['x']*(ceil(i/100)-i/100) + gradVectors[ceil(i/100), ceil(j/100)]['y']*(floor(j/100)-j/100)
-        prelimPoints[i,j] += gradVectors[floor(i/100), ceil(j/100)]['x']*(floor(i/100)-i/100) + gradVectors[floor(i/100), ceil(j/100)]['y']*(ceil(j/100)-j/100)
-        prelimPoints[i,j] += gradVectors[floor(i/100), floor(j/100)]['x']*(floor(i/100)-i/100) + gradVectors[floor(i/100), floor(j/100)]['y']*(floor(j/100)-j/100)
-        prelimPoints[i,j] /= 4
-        prelimPoints[i,j] = np.dot([gradVectors[ceil(i/100), ceil(j/100)]['x'], gradVectors[ceil(i/100), ceil(j/100)]['y']], (ceil(i/100)-i/100, ceil(j/100)-j/100))
-# gradient between 0 and 1 for 256*256
+def perlin(x, y, detail):
+    x_i = int(floor(x/detail))
+    x_f = int(ceil(x/detail))
+    y_i = int(floor(y/detail))
+    y_f = int(ceil(y/detail))
 
-print(min(prelimPoints[1]))
+    thetaII = sin(x_i*cos(y_i))+1*np.pi
+    thetaIF = sin(x_i*cos(y_f))+1*np.pi
+    thetaFI = sin(x_f*cos(y_i))+1*np.pi
+    thetaFF = sin(x_f*cos(y_f))+1*np.pi
 
-array = np.linspace(-1,1,256*256)
+    
+    return
 
-# reshape to 2d
-mat = np.reshape(prelimPoints,(1000,1000))
-"""
 mat = np.zeros(shape = (1000, 1000))
 mat[:,:]+=.5
-print(mat)
 # Creates PIL image
 im = Image.fromarray(np.uint8(mat * 255) , 'L')
 
