@@ -102,6 +102,7 @@ Jan 06 2022
  - Carlsbad decrees(repression)
  - Trista
  - *de Toquevilleu*()
+   - French June 1848 workers revolution about upsetting social order, not merely politics 
 
 ## Art time 
  - Less concerned with technical 
@@ -144,6 +145,7 @@ Jan 06 2022
  - Austria dosent want this 
  - What does it mean to be german(german/ruler stratification/religion stratification)
  - "volk-detusche" 
+
 
 ## Spain 
  - Initially retained liberal constitution 1812, removed w/ french support
