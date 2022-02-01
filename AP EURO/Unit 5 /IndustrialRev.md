@@ -129,6 +129,9 @@ Jan 06 2022
    - Feared appeals to liberty because too much power given towards establishing liebrty 
    - Liberalism, Promoted limited popsov
 
+## Sherman 
+ - weiss
+
 ## Art time 
  - Less concerned with technical 
  - Mystical blend btw human and natural worlds 
@@ -173,9 +176,23 @@ Jan 06 2022
 
 ## Spain 
  - Initially retained liberal constitution 1812, removed w/ french support
-
-
  - 1848 metternich out, lets all the european countries be more liberal, have more small conflicts w/ varying sides
 ## Intervention in Spain and Italy 
 
-## Russian conservatism, I guess 
+## Police
+ - Forces of order by controlling class 
+ - Can monitor society on a daily level 
+ - Trade ppl + industrialists added to upper class 
+ - Growth of cities bc industrialization 
+ - social problems emerge from econ changes 
+ - Issues of property, esp econ liberals seeking to protect factories and stock
+   - Property comes to mean whatever will produce wealth 
+ - Police protect middle class against urban poor
+ - "Imposing order and preventing crime" - extent of equality, etc debated
+ - Response to urbanization+change in def of property, etc 
+ - Dickens, poor laws and workhouses forcing ppl to work
+ - Poverty as moral degeneracy 
+ - Shift to prisons to punish and rehabilitate(philidelphia penetentiary)
+ - Penal colonies bc less expensive(australia, french guiana)
+ - Middle class wants to keep order w/ police+prisons, Lower class wants to change politics/social 
+ - City design 
