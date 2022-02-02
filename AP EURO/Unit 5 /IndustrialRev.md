@@ -138,7 +138,7 @@ Jan 06 2022
 >>>>>>> 4b51fe7474cec69b5aa5dd010f7652b9d68f490a
 
 ## Sherman 
- - weiss
+ - weiss(third sentence is confusing, ask ferd)
 
 ## Art time 
  - Less concerned with technical 
