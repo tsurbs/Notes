@@ -136,12 +136,49 @@ Jan 06 2022
 
 ## Sherman 
  - weiss(third sentence is confusing, ask ferd)
+   - Artisan discontent is liberal-minded but conservative in that they are reacting to social and econ changes from industrial revolution 
+   - Motives maybe traditional to communist/radical end 
+ - Sperber(revolutions)(ply worth a read) 
+   - Lotsa idealism, when reality/conservative forces push back 
+   - In Feb. inspired by french, 
+   - 3 diff viewpoints 1848, overall little change 
+   - Too idealistic // Not effective at all
+   - 
+ - bernstead 
+   - key classical liberalism 
+   - property protection 
+   - voting w/ property qualifications
+   -  limited gov
+   -  stuff
+-  Holborn 
+   -  Congress of vienna successful bc resored europe peace 
+   -  Not 100 succesful bc no HRE, left FR constitution 
+   -  Overall challenges 
+
+## Early socialism 
+ - Not going to happen in areas not industrialized bc no popular discrepancy 
+ - Utopian socialism(idealistic)
+   - Unions 
+   - Gender equality
+   - New gov 
+   - Charles fourier
+ - Scientific socialism(marx)
+   - haves and have nots 
+   - "History is a struggle between the classes"
+   - Studied past, state this is what *will* happen in the future, not what should
+   - 
 
 ## Art time 
  - Less concerned with technical 
  - Mystical blend btw human and natural worlds 
  - Individualism 
  - Not a portrait
+
+## Romanticism 
+ - Challenging enlightenment/reason 
+ - Emphasizing inner emotional response over rational response
+ - Dramatic art style 
+ - Contrast tricolor flag to white bourbon flag 
 
 ## Russia 
  - Keep agriculture, commercial agriculture increases

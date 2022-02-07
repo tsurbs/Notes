@@ -51,17 +51,17 @@ def perlin(x, y, detail):
     dotFI = np.dot([sin(thetaFI), cos(thetaFI)],displFI)
     dotFF = np.dot([sin(thetaFF), cos(thetaFF)],displFF)
 
-    f = interpolate.interp2d([x_i,x_f],[y_i,y_f],[[dotII,dotIF], [dotFI, dotFF]], kind="linear")
+    f = interpolate.interp2d([x_i,x_f],[y_i,y_f],[[dotII,dotIF], [dotFI, dotFF]], kind="cubic")
     return f(x,y)/detail
 
 x=[]
 for i in range(100):
     for j in range(100):
-        x.append(perlin(i,j,10))+1*127
+        x.append(perlin(i,j,10)+1*127)
 
 print(max(x))
 
 # Creates PIL image
-im = Image.fromarray(np.uint8(x , 'L'))
+im = Image.fromarray(np.uint8(x))
 plt.imshow(im, extent=[0, 10, 0, 10])
 plt.show()
