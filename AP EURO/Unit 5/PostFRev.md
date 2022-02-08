@@ -239,3 +239,55 @@ Jan 06 2022
  - Penal colonies bc less expensive(australia, french guiana)
  - Middle class wants to keep order w/ police+prisons, Lower class wants to change politics/social 
  - City design 
+
+## Political(domestic) Conservatism
+ - Britan vs france(reform vs revolution repsetively)
+ - Britan is gradual, reflected by burke, perhaps response to violent 17thC changes 
+ - Change who can vote(usually not universal male suffrage even)
+ - Britan(whigs/progressives vs tories/conservatives), later is radical labor party 
+   - Whigs are the middle class industrializaiton party or landed gentry who benefit from whig policies for some reason 
+   - 1688-hanovarian monarchs increase power of house of commons, need house of commons to appoint ministers to do things(montesquieu separation of things)(house of lords loses most of power)
+     - Commons controlled by landowning landed gentry(not lords)
+     - Competing with new industrial middle class 
+     - Want more representaiton for manchester and Birmingham etc etc 
+     - Industrial Class dosent want econ trade restriction etc, wants lack of gov intervention 
+       - Econ liberals dont like the corn law - tariffs on grain(liked by gentry)
+       - Workers dont like the corn law bc wages dont go up and food gets more expensive 
+       - 2 sides opposing house of commons
+     - Protests in manchester/st peters fields
+       - Massacre as they bring out army to push back ppl(peterloo 1819)
+       - whigs gained power in 1830, created reform act 1832 to redistrict
+       - Keep the property requirement
+       - Poor law of 1834 - makes ppl work in workhouses - perception is that poor ppl are lazy etc 
+       - 
+     - Both whigs and tories try to appeal to working unions etc etc, then they promote universal suffrages
+   - Reaction to parliment structure(based on regions not population)
+     - Rotten bourough(not too many ppl there)(Birmingham and manchester little representation for a large #ppl)
+     - Marx's industrial bourgeosie(political and econ liberalism)
+     - Want social+econ reforms but not to help industrial workers 
+   - both sides seek to expand voting rights to help in parliment 
+ - France == Revolution 
+   - History of radicalism bc history of lack of representaiton, therefore societal conservatism 
+   - 1789, 1830, 1848 Moderate->development->RADICAL->moderate(1848 febuary moderate, june days r radical, louis phillipe as more moderate, elected emperor)
+   - Restoration of the bourbon monarchy - Louis 18 and charles X 
+   - bicameral legislature
+   - Chamers of deputies(commons) vs peers(lords)**WHAT ARE THE ISSUES THAT LEAD TO REVOLT**
+   - Limited suffrage yet code naopleon ministerial responsibility for king
+   - Charles X tries to be more conservative, push back on changes
+   - Revolution 1830 not as violent as many revolutions, is vs july ordinances/censorship
+   - New king louis phillipe is more liberal, but still discontent by lower classes 
+     - Party of movement - Thiers-slight changes 
+     - Party of Resistance - Guizon-no changes 
+   - More power with wealthy middle calss with slightly more voters than the restoration 
+   - 1848 - revolution vs louis philippe and guizon working too closely together - lower classes wanting more change 
+   - Combination of diff parts of revolution topples gov but cant develop new gov bc middle class still is thinking everything is fine 
+   - vs econ liberalism//more radical, constituent assembly to create new constitution 
+     - Universal male suffrage
+     - Louis blanc and national workshops closed in june(june days revolts ensue)
+   - Second republic:single assembly universal male suffrage and president//election of louis napoleon, then declares new empire(emperor napoleon III)
+ - Comp/contrast btw fr+br 
+   - France more involvement of the lower class, need to make more radical changes 
+   - France more focused on ideaological things, focused on what the system(extent of deomcracy etc) should look like not details of system
+   - Both move towards more republic(no king)
+   - Both industrial/liberal middle class(in britan is industrial practical reasons, france is more ideaological reasons)
+   - Louis phillipe is king, moderate, louis blanc is socalist/radical, louis napoleon is president/emperor
