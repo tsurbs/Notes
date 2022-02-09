@@ -35,3 +35,9 @@ Feb 06 2022
    - Massive support, principle of intervention used to support revolution 
    - Br, Ru, Fr win, get to decide fate, is independent nation w/ new royal dynasty 
    - *ONLY SUCCESSFUL EURO REVOLUTION UNTIL 1830*(shows need for support)
+## Domestic Conservatism
+ - GB - Aristocrats dominate both parliment houses w/ pocket+rotten boroughs
+   - Parties: tories and whigs emerge, whigs get support of new industrial class
+   - Falling agriculture prices, Aristocrats do corn law(tarriff), hurts workers and helps aristocrats bc more domestic corn bought
+   - Peterloo massacre calvalry pushes back demonstraters at st peters fields 
+   -  
