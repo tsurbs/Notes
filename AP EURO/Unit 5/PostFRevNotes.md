@@ -121,3 +121,34 @@ Inital reactions(quadruple alliance, concert of europe), Domestic changes, Ideao
    - war 1812 ends federalists(won vs britian, federalists had opposed war )
    - John marshall as supcourt inc unity w/ supcrt pwr 
    - Andrew jackson - mass democracy, no property qualifications 
+
+## Emergence of an orderly society 
+ - Britain, france, germany react to inc crime(bc urbanization, poor) w/ policing to defend M/UC from poor 
+   - Civilian police forces to keep order, relatively popular 
+   - French Fuzz- start 1828, wear blue to mark is not military, carry batons or canes, inc from 200->5k by 1900
+   - British Bobbies - resist making authoritarian police force, have flawed constable system until 1830, repl w/ bobbies, keep social stuff easier+become professionals 
+   - German police 'armed as if for war' 
+   - Other approaches to reducing crime(poor viewed as 'dangerous classes')
+   - tackle poverty w/ workhouses(br poor laws)(aristocrat soln, view poor lazy)
+   - w/ social reforms(secular approach w/ London mechanics institute, etc)
+     - Religion w/ sunday schools, nurseries, spiritual countering of vices 
+   - Prison reform - prisons used more(esp bc aus colonists complain), observe american prisons+br/fr use single-cell/solitary confinement method, ultimately proved expensive w/ too many ppl 
+
+## Romanticism
+ - Challenge preocupaiton with finding truth, rely on emotion/sentiment/inner feelings
+ - Characteristic individualism, challenge middle-class conventions w/ long hair, beards, etc 
+ - Idea of romantic hero ready to sacrifice for a good cause
+ - Interest in the past(brothers grimm), revival of gothic architecture
+ - Attraction to the bizarre(poe, shelley)
+ - Poets highly regarded(lord byron, percy shelley *prometheus unbound*), express love for nature(wordsworth), panthism(everything-god)
+ - Reject science reducing nature to cold reason(message of *frankenstein*)
+ - Romantic Art - art reflecting artists own vision of world
+   - Frederick - preocuption w/ god, beauty of nature, mystery+mysticism(redhead in fog painting)
+   - Turner - sought to convey moods/feeling of nature, not realistic or anything 
+   - Delacroix - most famous, uses light, paintings 'feast for the eye'
+ - Romantic music - seen as directly tapping into emotions 
+   - *bee*thoven - transformative, involved w/ music from young age+studied w/haydn, music expressed inner feelings, inc deafness made difficult but he continued 
+   - Berloiz - fully romantic(not transformative tho), driven to be a composer vs father wishes, attempts to communicate expirence w/ music 
+ - Revival of religion - new appreciation for christianity, romantic observation of middle ages + useful for upper class bc creates order 
+   - Catholicism, Chateaubrand defends from emotional prospective, appealing bc harmony of all things, aspects of divinity+mystery 
+   - Protestantism(awakening), enthusiastic emotional appeals in german methodism and german pietism 
