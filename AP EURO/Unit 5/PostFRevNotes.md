@@ -107,7 +107,7 @@ Inital reactions(quadruple alliance, concert of europe), Domestic changes, Ideao
    - Prussia FredwillIV abolish censorship, est new constitution, seek unified germany 
    - Frankfurt assembly w/ delegates elected by universal suffrage created to unify germany 
    - Debate btw big germany and small germany(incl austria or not), austria withdrew, FredWillIV refused emperor of germans title, assembly failed
- - Austrian Upheaval - Luberals want commonwealth status - Keep monarch, have legislature also 
+ - Austrian Upheaval - Liberals want commonwealth status - Keep monarch, have legislature also 
    - March demonstrations lead to metternich dismissal
    - Liberal rev ppl take capital, demand assembly for constiution, hungary granted own legislature, separate army+foreign policy(only tie is habsburg monarch)
    - Some concessions made but eventually put down w/ russian(policeman) help, autocracy restored(WHAT HAPPENS TO HUNGARY???)
