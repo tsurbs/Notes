@@ -73,6 +73,45 @@ Feb 09 2022
    - Higher avoidance of risk(vs british entrepreneurial spirit) 
    - Dislike of competition 
    - More gov infrastructure in mainland than in britan, made by private companies
-
+ - Great exhibition of britan(1851)
+   - After initial and secondary industrialization phases 
+   - Demonstrating advances, improvement of life and society 
+   - Expression of greatiness of britan 
+   - Crystal palace 
+   - Shows mass politics/awareness
+   - Shows perception of positiveness of industrialization - "progress"
+   - Shows where britan is and says this is where rest of world wants to be 
+   - Represents imperial power - goods from elsewhere 
+   - "Workshop, Banker, Trade of the world"
+   - Eventually britan contested by germany
+   - Hides negative(urbanization etc things)
+   - ex stable positive society esp for the middle class
+ - Entrepreneurs from variety of backgrounds(minoriteis too) able to rise up more, new aristocracy wanting more power
+     - also conservatives
+     - Still criticized by old aristocrats+gentry 
+     - Legislation vs poor living conditions 
+ - Still have skilled and unskilled workers, more dealing w/ technical knowledge vs not(mining)
+ - Some women working, social roles still in place(do both)
+ - Protection of children w/ sadler and labor laws(poor act and workhouses, reform act)
+ - Worker associations - combination acts make them illegal
+ - Strikes, rebellions, peterloo massacre(manchester), repeal combination acts 
+ - Grand consolidated unions fail, resort to individual unions 
+ - Unions still want econ system, not socialist and communists bc threatens unions 
+ - Peoples charter - mass politics 
+ - Factory acts - gov willing to intervene more than free market wants 
+   - Supporting children 
+   - Reported to authorities by workers, dangerous to do this bc can not hire workers that report 
+   - 
+ - Gandhi protests british influence w/ free trade w/ encouraging to spin own cloth/clothes 
+ - Steam engines - repl water wheels
+ - Iron industry - pig iron and wrought iron - improvement by heat of cole fires, coke 
+ - Massive expansion of numbers of machines 
+ - Upsides of factories - efficency, quality control, production control 
+ - Downsides of factories - bad conditions, factory rules, 
+ - potater famine 
+   - More ppl w/ pop growth
+   - Subsistence farming/ overreliance on potatoes 
+   - Landless agricultural workers 
+   - Food growing is exported out of ireland 
 ## Origins and Tech activity 
  - 
