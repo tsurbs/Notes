@@ -3,6 +3,7 @@ Feb 09 2022
 ***
 ## Perry 
  - Read kay from perry chapter5 - negative results of industrialization
+<<<<<<< HEAD
    - Sometimes worse conditions in rural conditions 
  - Owen
    - Poor ppl stupid are lazy 
@@ -53,6 +54,12 @@ Feb 09 2022
  - Evolutionary or revolutionary socialism(marx says class conflict always exist, revolution is needed)** - future 
  - Luddites - artisan/ anti machinery - shift in workers jobs to machines(ending cottage industry)
  - Chartism - Peoples charter - national petition for universal suffrage(demonstrates emergence of class consciousness)
+=======
+   - Studied moral and physical conditions of manchester working class, reflecting move from slow village life to urban life
+   - Romantic reference to sisiphys, analogy to workers 
+   - Poor working, housing conditions, no religion "sensual sloth" 
+   - No traditional comfortsp
+>>>>>>> 9d2db9993bc64f2a8e2189e80f275db6b953a2ea
 
 ## Why britan 
  - Need resources, urban or urbanizing population, new econ, new tech, 
