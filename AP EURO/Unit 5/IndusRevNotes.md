@@ -102,6 +102,7 @@ Feb 22 2022
 
 ### Limiting the Spread of Industrialization in the nonIndustrialized World
  - Russia remained rural and agricultural, remained serfs, not much middle class, tsars preferred stability of providing agricultural stuffs
+ - Why south???
  - The Example of India
    - Prevented from industrializing(BEIC controlled much), limited credit, raised transpo, land costs
    - Markets flooded with British goods, unable to be profitable
@@ -179,6 +180,7 @@ Feb 22 2022
 
 ### Efforts at Change: Workers 
  - Labor organizaitons to do change 
+ - Some religious involvement - charity
  - Combination acts 1799-1800 reaction to french radicalism outlaw workers associations 
  - Trade Unions still fine tho - skilled workers form them(cotton spinners, ironworkers, coal miners, shipwrights)
    - Preserve current workers position(gatekeep)
