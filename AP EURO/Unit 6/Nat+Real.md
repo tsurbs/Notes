@@ -3,6 +3,7 @@ Mar 01 2022
 ***
 # read dickens or ibsen in perry 
  - Ibsen - playright - abt family life - dialogue abt husband vs wife - reality vs romantic view of marrige
+   - clinical, practical truth-telling viewpoint
  - sherman sources on nationalism
  - later Socialsm(marx) and Darwin
 
