@@ -1,0 +1,86 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[total={7in, 10in}]{geometry}
+
+\title{AP Chem Solubility Product Constant Lab}
+\author{Theo Urban with Tianna Tout-Puissant}
+\date{Febuary 23 2021}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{float} 
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+
+\graphicspath{ {./} }
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+    The solubility product constant($K_{sp}$) of a compound is an equilibrium constant representing the reversible transition between dissociated(aqueous) and undissolved(solid) forms of the compound.  When the solution is at equilibrium, this means that the concentration ratio of each component of the compound is stable and that attempting to add more ions will cause the reaction to precipitate to maintain equilibrium by making a solid, reducing the concentration of the ions.  In this lab, the solubility product constant of the compound $Ca(OH)_2$ is determined by disassociating $Ca(NO_3)_{2(aq)}$ and $2NaOH_{(aq)}$ to form $Ca^{+2}$ and $2OH^-$ ions.  $Ca^{+2}$ and $2OH^-$ will participate in the $Ca^{+2}+2OH^- \rightleftharpoons Ca(OH)_{2(s)}$ reversible reaction, with $Ca(OH)_{2(s)}$ being not very soluble in water.  The solubility product constant for this reaction can be represented as the product of the concentrations of the aqueous components raised to the power of their stoichiometric coefficients, or $K_{sp} = [Ca^{+2}][OH^-]^2$.  To vary the concentrations of Calcium and Hydroxide to find equilibrium, a serial dilution microscale technique was used to produce a variety of different concentrations. By observing the first concentration ratio where precipitates are formed, an approximate value for these concentrations can be determined. With these techniques, the purpose of this lab is to determine the solubility product constant($K_{sp}$) of the $Ca(OH)_2$ in water.
+\section{Data}
+\begin{table}[H]
+    \begin{tabularx}{400pt}{c|c|c|c|c|c|c|c|c|c|c|c|c} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12  \\
+    Precip.? & Y & Y & Y & Y & Y & N & N & N & N & N & N & N  \\
+    $[Ca^{+2}]$ & 0.050 & 0.025 & 0.013 & .0063 & .0031 & .0016 & .00078 & .00039 & .00020 & $9.8\times10^{-5}$ & $4.9\times 10^{-5}$ & $2.5\times 10^{-5}$\\
+    $[OH^{-}]$ & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 \\
+    
+    \end{tabularx}
+\end{table}
+\centering
+\textbf{Figure 1}: Reaction concentrations of the ions in each reaction in the serial dilution of $Ca^{+2}$ as well as if they formed a precipitate or not.  The first "N" indicates that the reaction did not precipitate, and is used to calculate the $K_{sp}$ Value.
+$\ 
+$\begin{table}[H]
+    \begin{tabularx}{400pt}{c|c|c|c|c|c|c|c|c|c|c|c|c} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12  \\
+    Precip.? & Y & Y & Y & N & N & N & N & N & N & N & N & N  \\
+    $[Ca^{+2}]$ & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 & 0.050 \\
+    $[OH^{-}]$ & 0.050 & 0.025 & 0.013 & .0063 & .0031 & .0016 & .00078 & .00039 & .00020 & $9.8\times10^{-5}$ & $4.9\times 10^{-5}$ & $2.5\times 10^{-5}$\\
+    
+    
+    \end{tabularx}
+\end{table}
+\centering
+\textbf{Figure 2}: Reaction concentrations of the ions in each reaction in the serial dilution of $OH^{-}$ as well as if they formed a precipitate or not.  The first "N" indicates that the reaction did not precipitate, and is used to calculate the $K_{sp}$ Value.
+$\ $
+\newpage
+\section{Calculations + Analysis}
+\subsection{Concentrations for serial dilution \#1}
+Before dilution, $[Ca(NO_3)_2] = .10M$ and $[2NaOH_{(aq)}] = .10M$.  The serial dilution in figure 1 results in five drops of water being combined with five drops of $.10M Ca(NO_3)_2$ in well 2 for a concentration of .05M.  In each well after dilution, the concentration decreases by half, as it is diluted by the 5 drops of water in the well before it.  The concentration of $[Ca(NO_3)_2]$ decreases even further in the reaction, with all wells' concentrations being diluted by half again with the addition of the $.10M 2NaOH_{(aq)}$. Thus, well n has a concentration $[Ca(NO_3)_2]$ of 
+$$\frac{[Ca(NO_3)_2]_{well\ 1}}{2^{n-1}}$$, where $[Ca(NO_3)_2]_{well\ 1} = .050M$.
+
+The $2NaOH_{(aq)}$ has a reactant concentration in each well of .05M as its five drops have been combined with 5 drops of the $[Ca(NO_3)_2]$ dilution.   
+
+\subsection{$K_{sp}$ Value}
+As stated below table 1, the lowest concentration with no precipitate is assumed to represent the completely saturated solution.  For the serial dilution of $Ca^{+2}$, well 6 was the first well without a precipitate.  We can determine the solubility product constant by using the following equation:
+$$K_{sp} = [Ca^{+2}][OH^-]^2$$
+Substituting in the concentrations of the aqueous components in well 6, the $K_{sp}$ value is:
+$$K_{sp} = [.0016][.050]^2 = 4.0\times 10^{-6}$$
+In the serial dilution of $OH^{-}$, well 5 was the first well without a precipitate.  We can determine the solubility product constant by using the following equation:
+$$K_{sp} = [.050][.0063]^2 = 2.0\times 10^{-6}$$
+Averaging these two, the $K_{sp}$ value is:
+$$\frac{2.0\times 10^{-6}+4.0\times 10^{-6}}{2} = 3.0\times 10^{-6}$$
+\section{Discussion \& Conclusion}
+\subsection {How did the solubility product constant values obtained from the two trials compare with each other?}
+
+The solubility product constant value obtained by the second trial is significantly less than that obtained by the first trial. This is because in the second trial, the Hydroxide was diluted while a constant .050M of Calcium was used.  The dilution technique used will tend to underestimate the concentration of reactants at equilibrium because it changes the concentration of the reactants by 1/2 each time rather than linear steps, so when the term being determined by the serial dilution is squared(as it is for $OH^-$), the error from the serial dilution will be exaggerated(see question 3).
+\subsection {Look up the accepted value for the solubility product of calcium hydroxide and compare it to your experimental values. Assume standard state. Give percent errors for the Ca2+ and OH trials.}
+
+The accepted value for the solubility product of calcium hydroxide is $5.0\times 10^{-6}$, which is greater than in either trial.  The error for the $Ca^{2+}$ trial is $$\frac{|4.0\times 10^{-6}-5.0\times 10^{-6}|}{5.0\times 10^{-6}}=20\%$$ and the error for the $OH^-$ trial is $$\frac{|2.0\times 10^{-6}-5.0\times 10^{-6}|}{5.0\times 10^{-6}}=60\%$$, both calculated by $$\frac{|experimental-accepted|}{accepted}$$
+\subsection {Does this method give values that are too low or too high? Why?}
+
+This method gives values that are too low because we assume that the first well without a precipitate is THE highest concentration with no precipitate.  Because the serial dilution is diluting the reactant by half each time, the first well without a precipitate is actually quite a lot less concentrated than the previous well, meaning that the true concentrations at equilibrium are somewhere between those concentrations and that there is no easy way to estimate it(see question 5).
+
+\subsection {What would make the method more accurate?}
+
+One way of making the method more accurate would be to repeat the experiment but start at the concentrations that yielded the last precipitate and dilute the reactant by significantly less than half each time.  This would give us more incremental steps between the precipitate and not precipitate concentrations, resulting in more accurate values for the solubility product constant due to 
+the more precise equilibrium measurement.
+
+\subsection {Would the results be better if the concentrations of the last well where precipitation occurred were averaged with the first well where there was no precipitate? Is there any justification for doing this?}
+
+If we did this averaging, we would observe in the first trial that $$[Ca^{+2}]_{eq} = \frac{.0016+.0031}{2} = .0024 \to K_{sp} = .0024*.05^2 = 6.0\times 10^-6$$ and in the second trial that $$[OH-]_{eq} = \frac{.0063+.0013}{2} = .0096 \to K_{sp} = .05*.0096^2 = 4.7\times 10^-6$$.  This would give us a better estimate of the solubility product constant and a lower error.  However, there is only some justification for doing this.  Because the serial dilution results in a nonlinear(exponential) decrease in the concentration of the diluted reactant, a simple average is not appropriate for the situation as it would tend to overestimate a 'halfway point' given the decreasing slope of the concentration of the serially diluted reactant.
+
+\subsection {Conclusion}
+In this lab, the solubility product constant of $CaOH$ was determined to be $3.0x10^-6$ using a serial dilution technique with a double replacement reaction to vary the concentration of one reactant while holding the other constant. This was repeated with a serial dilution of each reactant, with an error from the accepted value of 60\% and 20\% for the dilutions of Calcium and Hydroxide respectively. 
+\end{document}
+
