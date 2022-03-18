@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.7)  18 MAR 2022 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.7)  18 MAR 2022 13:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -411,56 +411,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 21.
-
-/Users/tsumacpro/Documents/Notes/AP CHEM/Keqlab/Keqlab.tex:52: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 }
-      
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/Users/tsumacpro/Documents/Notes/AP CHEM/Keqlab/Keqlab.tex:52: Undefined control sequence.
-\@float@Hx ...ltovf \fi \global \setbox \@currbox 
-                                                  \color@vbox \normalcolor \...
-l.52 }
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/tsumacpro/Documents/Notes/AP CHEM/Keqlab/Keqlab.tex:52: Missing number, treated as zero.
-<to be read again> 
-                   \vbox 
-l.52 }
-      
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-
-Overfull \hbox (47.56827pt too wide) in paragraph at lines 40--56
- [][] 
- []
-
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] (/Users/tsumacpro/Documents/Notes/AP CHEM/Keqlab/Keqlab.aux) ) 
 Here is how much of TeX's memory you used:
  22557 strings out of 478994
  598070 string characters out of 5858185
- 1024716 words of memory out of 5000000
+ 1022716 words of memory out of 5000000
  39710 multiletter control sequences out of 15000+600000
  408300 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,19n,103p,964b,2159s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "/Users/tsumacpro/Documents/Notes/AP CHEM/Keqlab/Keqlab.pdf" (4 pages, 153285 bytes).
+Output written on "/Users/tsumacpro/Documents/Notes/AP CHEM/Keqlab/Keqlab.pdf" (4 pages, 153452 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
