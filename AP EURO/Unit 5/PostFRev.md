@@ -120,7 +120,7 @@ Jan 06 2022
  - Flora Tristan
    - Promoting workers+socialisms
    - Continuation of liberalism
-   - Not econ. liberalism bc socialism might disrupt lassiez-faire econ/disrupt natural forces 
+   - Not econ. liberalism bc socialism might disrupt lassiez-faire econ/disrupt natural force
    - 19th vs 20thC liberalism 
    - Co-ed Unions, not alive in 1848, but inspired and pushed for revolution 
    - Wanted to end cycle of domestic
