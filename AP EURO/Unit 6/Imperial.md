@@ -133,4 +133,4 @@ Mar 15 2022
  - Paretto - ppl not as rational as they think they are - cognitive dissonance
  - Le Bon - individuals can be rational, in crowd, act as crowd does, strips individual of control 
  - Freud - Natural state of individuals is violent/bad - similar to hobbes 
- - Conrad - decides to explore africa(like europe) - losing european cleanliness etc racist
+ - Conrad - decides to explore africa(like europe) - losing european cleanliness etc racists

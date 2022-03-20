@@ -4,5 +4,16 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"emeraldwalk.runonsave": {
+
+			"commands": [
+				   {
+					   "match": "\\.md$",
+					   "command": "workbench.action.tasks.runTask", 
+					   "args": "quickcommit", 
+				   }
+			]
+		}
+	}
 }

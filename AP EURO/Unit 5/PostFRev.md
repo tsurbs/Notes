@@ -110,7 +110,7 @@ Jan 06 2022
    - liberty excluding harming others
  - Karlsbad decrees(repression)
    - By germans who didnt like liberalism
-   - Wanted to get rid of liberalism in universities
+   - Wanted to get rid of liberalism in universitie
    - Didnt like free press too
  - Schurz 
    - Raised in germany, then american senator 
@@ -118,7 +118,7 @@ Jan 06 2022
      - Emerges from educated areas(universities)
    - Student at time of german revolution, in university, sees downfall of metternich
  - Flora Tristan
-   - Promoting workers+socialism
+   - Promoting workers+socialisms
    - Continuation of liberalism
    - Not econ. liberalism bc socialism might disrupt lassiez-faire econ/disrupt natural forces 
    - 19th vs 20thC liberalism 
