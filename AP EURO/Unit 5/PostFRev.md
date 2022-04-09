@@ -112,7 +112,7 @@ Jan 06 2022
    - By germans who didnt like liberalism
    - Wanted to get rid of liberalism in universitie
    - Didnt like free press too
- - Schurz 
+ - Schurz
    - Raised in germany, then american senator
    - Idealism/excitement about revolution 
      - Emerges from educated areas(universities)

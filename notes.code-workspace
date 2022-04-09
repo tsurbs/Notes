@@ -7,8 +7,14 @@
 	"settings": {
 		"emeraldwalk.runonsave": {
 
-			"command": "workbench.action.tasks.runTask",
-			"args":"quickcommit"
+			"commands": [
+				   {
+					   "match": "\\.md$",
+
+					   "cmd": "git add . && git commit -am \"autocommit\" && git push"
+				   },
+		
+			]
 		}
 	}
 }

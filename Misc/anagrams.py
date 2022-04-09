@@ -11,18 +11,21 @@ def most_common_letter(word):
     return letter_count
 
 w = ""
-let = "qwyoadfjlzxvm"
+let = "qwyuoadfghjzxvbmpn"
 for i in range(len(let)):
     for j in range(len(let)):
         for k in range(len(let)):
-            for l in range(len(let)):
-                # str = let[j]+let[k]
-                # str = str[i:]+"s"+str[:i]
-                # str = str[:2]+"il"+str[2:]
-                    str = let[i]+"l"+let[j]+let[k]+let[l]
-                    if d.check(str):
-                        w+=(str)
-                        print(str)
+            for l in range(5):
+                for m in range(5):
+                    
+                    if l != 0 and m != 3:
+                        str = let[i]+let[j]+let[k]
+                        str = str[:l]+"p"+str[l:]
+                        str = str[:m]+"n"+str[m:]
+                        # print(str)
+                        if d.check(str):
+                            w+=(str)
+                            print(str)
 
 mcl = most_common_letter(w)
 print(mcl)
