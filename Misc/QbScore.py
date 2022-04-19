@@ -4,20 +4,20 @@ Mscore = 0
 Oscore = 0
 
 while i<=20:
-    a = input("Team buzz: ")
+    a = input(str(i)+" Team buzz: ")
     if a == "M":
         Mscore += 10
         Mscore += int(input("Bonus 1: "))
         Mscore += int(input("Bonus 2: "))
         Mscore += int(input("Bonus 3: "))
-        print(Mscore, Oscore)
+        print(Mscore, Oscore, Mscore-Oscore)
         i+=1
     elif a == "O":
         Oscore += 10
         Oscore += int(input("Bonus 1: "))
         Oscore += int(input("Bonus 2: "))
         Oscore += int(input("Bonus 3: "))
-        print(Mscore, Oscore)
+        print(Mscore, Oscore, Mscore-Oscore)
         i+=1
     elif a == "MX":
         Mscore -= 5
